@@ -1,0 +1,2189 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "A curated repository of biomechanical resources"
+    },
+    {
+      "description": "See how you can contribute, it's easy!",
+      "items": [],
+      "title": "Still a work in progress (might include incomplete descriptions), but contributions are welcome at any stage! :heart_eyes:"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Learning"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Robotics 101: Computational Linear Algebra",
+          "description": "by University of Michigan Robotics Institute (Fall 2020). The course includes lecture videos and GitHub resources, including the lecture notes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-06-30T18:56:03Z",
+            "owner": "michiganrobotics",
+            "repo": "rob101",
+            "stars": 1196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mathematical Tools for Neuroscience (Neurobio 212 at Harvard)",
+          "description": "by Ella Batty et al. (2021).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-11-29T19:34:35Z",
+            "owner": "ebatty",
+            "repo": "MathToolsforNeuroscience",
+            "stars": 465
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neuromechanics course material",
+          "description": "by Joshua Cashaback (University of Delaware).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-06-04T14:43:51Z",
+            "owner": "joshcash9",
+            "repo": "Neuromechanics_Course",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Graduate Level Statistics Course with Biomedical Engineering Examples",
+          "description": "by Joshua Cashaback (University of Delaware).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-11-15T20:03:15Z",
+            "owner": "joshcash9",
+            "repo": "Statistics_BME",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BPK 409: Wearable Technology and Human Physiology",
+          "description": "by Max Donelan (Simon Fraser University). The course teaches to use state-of-the-art wearable technology to measure, analyze, and understand human physiological systems including muscular, nervous, and cardiovascular systems. 📄 description of labs | 💾 code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-08-23T14:47:19Z",
+            "owner": "patmorli",
+            "repo": "BPK-409",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quantitative methods in biomedical sciences",
+          "description": "16 week class taught by Ken Campbell at the University of Kentucky. A graduate-level class designed for PhD students and others who wish to develop skills relating to data analysis and interpretation, including data handling, plotting, statistics, and image analysis. The course uses MATLAB and materials are available on GitHub.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2022-02-03T04:22:21Z",
+            "owner": "Campbell-Muscle-Lab",
+            "repo": "teaching_PGY630_QM",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Online Courses :clapper:"
+    },
+    {
+      "description": "This section in under construction",
+      "items": [],
+      "title": "Learning to Code :construction:"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Matplotlib cheatsheet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T21:36:05Z",
+            "owner": "matplotlib",
+            "repo": "cheatsheets",
+            "stars": 7715
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scientific Python Lectures",
+          "description": "Lectures on scientific computing with python, as IPython notebooks by Robert Johansson.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-06-02T22:19:39Z",
+            "owner": "jrjohansson",
+            "repo": "scientific-python-lectures",
+            "stars": 3647
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Notes on Scientific Computing for Biomechanics and Motor Control",
+          "description": "by Marcos Duarte and Renato Watanabe. A beautiful collection of lecture notes and code on scientific computing and data analysis for Biomechanics and Motor Control in the form of Jupyter notebooks (python).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-11-30T05:30:01Z",
+            "owner": "demotu",
+            "repo": "BMC",
+            "stars": 87
+          }
+        }
+      ],
+      "title": "Python"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Manim: Mathematical Animation Engine",
+          "description": "by Grant Sanderson. Manim is an engine for precise programatic animations, designed for creating explanatory math videos similar to those presented in the contents of 3Blue1Brown.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T14:41:19Z",
+            "owner": "3b1b",
+            "repo": "manim",
+            "stars": 90679
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bayesian Data Analysis course",
+          "description": "by AKi Vehtari at Aalto University (2020). 💾 code | 📄 book",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2026-08-07T13:03:08Z",
+            "owner": "avehtari",
+            "repo": "BDA_course_Aalto",
+            "stars": 2275
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trajectory Optimization Toolbox",
+          "description": "by Matthew Kelly, including some excellent examples and some course materials.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2023-06-06T00:37:01Z",
+            "owner": "MatthewPeterKelly",
+            "repo": "OptimTraj",
+            "stars": 706
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Notes on Scientific Computing for Biomechanics and Motor Control",
+          "description": "by Marcos Duarte and Renato Watanabe. A beautiful collection of lecture notes and code on scientific computing and data analysis for Biomechanics and Motor Control in the form of Jupyter notebooks (python).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-12T16:16:48Z",
+            "owner": "BMClab",
+            "repo": "BMC",
+            "stars": 464
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Julia notebooks on dynamic systems",
+          "description": "by Adam MacLean (2021).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-09-14T22:04:09Z",
+            "owner": "adamlmaclean",
+            "repo": "julia-dynsys-resources",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Graphical User Interfaces (GUI) for Research",
+          "description": "course by Imperial College London on principles to build research GUI. GitHub resources available at this link. Recording of the lessons are available on Youtube.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-07-27T09:47:33Z",
+            "owner": "ImperialCollegeLondon",
+            "repo": "GUIs-for-RS",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NonlinearContinuumMechanics",
+          "description": "by Kevin Moerman, A Jupyter notebook featuring a detailed treatment of Ogden hyperelastic formulations and their implementation for uniaxial loading based model response analysis. Both theory and numerical implementation of the constrained, uncoupled, and coupled (unconstrained) formulations is treated.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-05-27T14:20:45Z",
+            "owner": "Kevin-Mattheus-Moerman",
+            "repo": "NonlinearContinuumMechanics",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "Teaching Resources :triangular_ruler:"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Datasets 📀"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Human Anatomy :bone:"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BodyParts3D by Nobutaka Mitsuhashi et al. (2003). This is a 3D structure database for anatomical concepts that extends beyond biomechanics.📄 paper",
+          "description": "📀 dataset | 📀 STL files 💾 Julia code interface",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-10-16T13:57:29Z",
+            "owner": "Kevin-Mattheus-Moerman",
+            "repo": "BodyParts3D",
+            "stars": 125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Visible Human Project: public-domain library of cross-sectional cryosection, CT, and MRI images obtained from one male cadaver and one female cadaver. The dataset in NIfTI format, easier to import and use in segmentation software, were provided by Bart Bolsterlee (see further details at this link",
+          "description": "and code for conversion at this repository). The male and female dataset were also entirely segmented in 2023 by Andreassen et al. (see their paper).📄 paper | 📀 dataset | 📀 dataset in NIfTI format | 📀 dataset segmented 2023 | 💻 website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2020-06-30T03:11:58Z",
+            "owner": "bartbols",
+            "repo": "VH2NIfTI",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Full Body"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "fastMRI dataset by Facebook AI and NYU (2019-2020). Data from more than 1,500 fully sampled knee MRIs obtained on 3 and 1.5 Tesla magnets and DICOM images from 10,000 clinical knee MRIs also obtained at 3 or 1.5 Tesla. Includes also brain scans. No segmentation available. 📄 paper",
+          "description": "💻 website | ⭐ resources",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-01-21T14:15:30Z",
+            "owner": "facebookresearch",
+            "repo": "fastMRI",
+            "stars": 1534
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Talocrural Morphology: Statistical Shape Modeling with a Hybrid Multi-Articulation Joint Approach by A Lenz et al. (2021). Segmented three-dimensional surface meshes (.ply) of weightbearing computed tomography (CT) images are included for the tibia, fibula and talus of 27 healthy participants. A sample weightbearing CT scan (.dicom) is provided to demonstrate image resolution, field of view and voxel size. Additionally, MATLAB scripts for calculating talocrural joint coverage, space and congruency are included in the resources.",
+          "description": "📄 paper | 📀 dataset | ⭐ resources",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2020-11-14T20:20:15Z",
+            "owner": "Lenz-Lab",
+            "repo": "TalocruralShapeModeling",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "The Virtual Skeleton Database: An Open Access Repository for Biomedical Research and Collaboration by Michael Kistler et al. (2013). Dataset including post mortem CT images of 50 subjects. Despite several attempts I was never granted access to these data, although I know of others who did.📄 paper",
+          "description": "📀 dataset | 💻 website",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SMIR pelves and femurs segmented bone from 20 CT scans available in MATLAB format.📀 dataset",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "MATLAB",
+                "last_commit": "2023-11-26T11:27:36Z",
+                "owner": "RWTHmediTEC",
+                "repo": "VSDFullBodyBoneModels",
+                "stars": 13
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Lower Limb Anatomy"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "An Open Data Set of Inertial, Magnetic, Foot–Ground Contact, and Electromyographic Signals From Wearable Sensors During Walking. by Miraldo DC, Watanabe RN and Duarte M (2020). Data were acquired from 22 healthy adults using wearable sensors and walking at self-selected comfortable, fast and slow speeds, and standing still. In total, there are data of 9,661 gait strides. The dataset includes gait events and notebooks exemplifying how to access and visualize the data.📄 paper",
+          "description": "📀 dataset | 💻 website | ⭐ resources",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-27T13:54:06Z",
+            "owner": "BMClab",
+            "repo": "datasets",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A database of human gait performance on irregular and uneven surfaces collected by wearable sensors by Luo et al. (2020). Data from Inertial Measurement Units (IMU) from thirty participants (fifteen males and fifteen females, 23.5 ± 4.2 years, 169.3 ± 21.5 cm, 70.9 ± 13.9 kg) who wore six IMUs while walking on nine outdoor surfaces with self-selected speed (16.4 ± 4.2 seconds per trial). Intended for machine learning purposes. 📄 paper",
+          "description": "📀 dataset | 📀 metadata | ⭐ resources",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2021-08-26T14:57:33Z",
+            "owner": "UF-ISE-HSE",
+            "repo": "UnevenWalkingSurface",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "An elaborate data set on human gait and the effect of mechanical perturbations by Jason Moore et al. (2015). Gait data set collected from fifteen subjects walking at three speeds on an instrumented treadmill. Each trial consists of 120 s of normal walking and 480 s of walking while being longitudinally perturbed during each stance phase with pseudo-random fluctuations in the speed of the treadmill belt.📄 paper",
+          "description": "📀 dataset | 💻 resources",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2025-03-16T06:03:13Z",
+            "owner": "csu-hmc",
+            "repo": "perturbed-data-paper",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Walking :walking:"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Gait Analysis and Motion Capture :cartwheeling:"
+    },
+    {
+      "description": "This section needs to be finalized.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "fairmotion by Deepak Gopinath and Jungdam (2020). Fairmotion provides easy-to-use interfaces and tools to work with motion capture data. The objective of the library is to manage the complexity of motion representation, 3D transformations, file formats and visualization, and let users focus on high level learning tasks. Scarse documentation 💾 code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-12-22T17:43:29Z",
+            "owner": "facebookresearch",
+            "repo": "fairmotion",
+            "stars": 636
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ezc3d: An easy C3D file I/O cross-platform solution for C++, Python and MATLAB",
+          "description": "(C++/MATLAB/Python) by Benjamin Michaud et al. (2021). Ezc3d is a light and comprehensive library that allows to easily read and write c3d files. The C++ core includes an API for fast file I/O library, and convenient MATLAB and Python3 interfaces for researchers. It supports c3d files from the main biomechanics companies, namely: Vicon, Qualisys, Optotrak, BTS and XSens. 📄 paper | 💻 documentation website | 💾 source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T13:33:43Z",
+            "owner": "pyomeca",
+            "repo": "ezc3d",
+            "stars": 180
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pyomeca by the S2M Lab",
+          "description": ". Pyomeca is a Python :snake: library allowing you to carry out a complete biomechanical analysis; in a simple, logical and concise way. It enables extraction, processing and visualization of biomechanical data for use in research and education. 📄 paper | 💻 website | 💾 source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-11T12:41:16Z",
+            "owner": "pyomeca",
+            "repo": "pyomeca",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kinetics Toolkit by Félix Chénier. Kinetics Toolkit is an open-source, pure-python package of integrated classes and functions that aims to facilitate research in biomechanics using python. 📄 paper",
+          "description": "💻 website | 💾 source | 💾 conda | 💾 PyPI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T15:34:37Z",
+            "owner": "kineticstoolkit",
+            "repo": "kineticstoolkit",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BTK - Biomechanical ToolKit by Arnaud Barre and Stephane Armand (2014). One of the most versatile, robust and reliable libraries for reading, importing nad handling motion capture data. Written in C++ with MATLAB and Python bindings. A fork of this library is used for importing c3d in OpenSim. 📄 paper",
+          "description": "💻 website 💾 source | 💾 conda | 💾 pyBTK (Python>=3.7)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-11-29T16:51:41Z",
+            "owner": "Biomechanical-ToolKit",
+            "repo": "BTKCore",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The CGM 2.i Project by Fabian Leboeuf et al. (2019). Python :snake: implementation of an evolved conventional gait model. 📄 paper",
+          "description": "💻 website | 💾 source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-30T10:01:50Z",
+            "owner": "pyCGM2",
+            "repo": "pyCGM2",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BiomechZoo by Philippe C Dixon. BiomechZoo is a user-customizable toolbox for the analysis of biomechanical data within the MatLab programming environment. Please take a look at the Wiki for setup information and user instructions. 📄 paper",
+          "description": "💻 website | 💾 source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2024-12-19T14:36:51Z",
+            "owner": "PhilD001",
+            "repo": "biomechZoo",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "motoNMS by Alice Mantoan et al. (2015). MATLAB tool that provides a complete, user friendly and highly configurable tool to automatically process experimental motion data from different laboratories in C3D format for their use into the OpenSim neuromusculoskeletal software. 📄 paper",
+          "description": "💻 website | 💾 source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Matlab",
+            "last_commit": "2020-03-28T10:44:48Z",
+            "owner": "RehabEngGroup",
+            "repo": "MOtoNMS",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Moveck Bridge by Moveck",
+          "description": ", is the new version of the Biomechanical ToolKit developed by Arnaud Barre through his company Moveck. The package aims to maintain the same API of the original BTK package for MATLAB and Python. 💾 packages",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-21T17:53:09Z",
+            "owner": "moveck-community",
+            "repo": "moveck_bridge_btk",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CMAS open-code by CMAS (Clinical Movement Analysis Society - UK & Ireland) is a project with the goal of creating an online platform where everyone interested in movement analysis can share coding resources. Include tools for anonymization, importing, calculating gait profile scores, etc. 💾 source",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-08-25T13:10:38Z",
+            "owner": "cmasuki",
+            "repo": "open-code",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyC3Dserver by Moon Ki Jung (2020). Python interface of C3Dserver software for reading and editing C3D motion capture files.",
+          "description": "💾 source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-09T08:55:49Z",
+            "owner": "mkjung99",
+            "repo": "pyc3dserver",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FootNet by Adrian R Rivadulla et al.",
+          "description": ". FootNet is a kinematics and deep-learning based algorithm for the detection of foot-strike and toe-off events during treadmill running. The repository includes notebooks to replicate model development, the algorithm and implementation examples in Python and a workaround for Matlab. 📄 paper | 💾 source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-03-15T15:49:23Z",
+            "owner": "adrianrivadulla",
+            "repo": "FootNet",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dryft by Ryan Alcantara",
+          "description": ". Dryft is an open-source Python :snake: and MATLAB package that corrects running ground reaction force signal drift. It also contains an optimized utility function for identifying start/end of stance phase from vertical ground reaction force data without loops. 📄 publication | 💻 website | 💾 source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-04-08T21:07:06Z",
+            "owner": "alcantarar",
+            "repo": "dryft",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Motion Capture Data Import and Processing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Automated Gap Filling and Tools for Motion Capture by the Sensor-Fusion team from EPIC lab @GeorgiaTech. Gap filling is based on inverse kinematics approach. 📄 paper",
+          "description": "💾 source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2023-01-04T16:34:23Z",
+            "owner": "JonathanCamargo",
+            "repo": "MoCapTools",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "auto-marker-label by Alison Clouthier et al. (2021). This is a Python :snake: algorithm that uses machine learning to automatically label optical motion capture markers. The algorithm can be trained on existing data or simulated marker trajectories. Data and code is provided to generate the simulated trajectories for custom marker sets. 📄 paper",
+          "description": "💾 source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-12T20:51:06Z",
+            "owner": "aclouthier",
+            "repo": "auto-marker-label",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MoGapFill implemented by Fabian Leboeuf (Python :snake:). Low dimensional Kalman smoother that fills gaps in motion capture marker trajectories based on Burke and Lasenby 2016 paper. 📄 Burke's paper 2016",
+          "description": "💾 source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-02-21T16:45:01Z",
+            "owner": "pyCGM2",
+            "repo": "MoGapFill",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Marker Trajectory Gap filling"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenSense is a workflow for analyzing movement with inertial measurement unit (IMU) data. It computes the motions of body segments based on inertial measurement unit (IMU) data in OpenSim. OpenSense provides tools for (i) reading and converting IMU sensors data into a single orientation format, (ii) associating and registering IMU sensors with body segments of an OpenSim model (as an IMU Frame), and (iii) performing inverse kinematics studies to compute joint angles. The OpenSense capabilities are available through the command line and through Matlab and Python scripting. 📄 preprint",
+          "description": "📄 documentation and examples | 💻 website | 💾 source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T13:12:14Z",
+            "owner": "opensim-org",
+            "repo": "opensim-core",
+            "stars": 1093
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HumanInertialPose Human whole-body pose estimation using Magnetic, Angular Rate, and Gravit (MARG) multi-sensor data. Provides utilities to process raw IMU/MARG data, perform sensor and sensor-to-segment calibration, multi-sensor fusion, skeleton kinematics, to obtaining the human pose. Contains low dependency python :snake: code to deal with common inertial MoCap data (Xsens Analyse / Xsens MtManager), calculate metrics and visualize results. 💻 website",
+          "description": "💾 source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-02-15T18:29:03Z",
+            "owner": "ManuelPalermo",
+            "repo": "HumanInertialPose",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GaitPy by Matthew Czech. Read and process raw vertical accelerometry data from a sensor on the lower back during gait; calculate clinical gait characteristics.💻 website",
+          "description": "💾 source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-06-17T22:54:05Z",
+            "owner": "matt002",
+            "repo": "GaitPy",
+            "stars": 44
+          }
+        }
+      ],
+      "title": "Inertial Measurement Units"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Kinovea by Joan Charmant. Kinovea is a video player for sport analysis. It provides a set of tools to capture, slow down, study, compare, annotate and measure technical performances. 💻 website",
+          "description": "💾 source | ⭐ resources",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T17:22:20Z",
+            "owner": "Kinovea",
+            "repo": "Kinovea",
+            "stars": 489
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sports2D by David Pagnon. Automatically compute 2D human pose and angles from a video or a webcam, all the way to OpenSim inverse kinematics. 💾 source",
+          "description": "📄 protocol paper |",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-30T22:19:01Z",
+            "owner": "davidpagnon",
+            "repo": "Sports2D",
+            "stars": 281
+          }
+        }
+      ],
+      "title": "2D video analysis"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FreeMoCap by John Matthis. Free Motion Capture for Everyone. 💻 website",
+          "description": "💾 source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T13:10:23Z",
+            "owner": "freemocap",
+            "repo": "freemocap",
+            "stars": 9992
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pose2Sim by David Pagnon. Markerless kinematics with any set of cameras — From 2D Pose estimation to 3D OpenSim motion. 💾 source",
+          "description": "📄 protocol paper | 📄 accuracy paper | 📄 robustness paper",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T09:31:21Z",
+            "owner": "perfanalytics",
+            "repo": "pose2sim",
+            "stars": 767
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenCap by Scott Uhlrich and Antoine Falisse. Human movement dynamics from smartphone videos. 💻 website",
+          "description": "💾 source | 📄 paper",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T22:38:50Z",
+            "owner": "opencap-org",
+            "repo": "opencap-core",
+            "stars": 351
+          }
+        }
+      ],
+      "title": "3D video analysis"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tracking in Ultrasound Video Frames"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DL_Track_US by Paul Ritsche, Olivier Seynnes & Neil Cronin (2023). DL_Track_US: a python package to analyse muscle ultrasonography images. Journal of Open Source Software, 8(85), 5206. 📄 paper",
+          "description": "📄 preprint | 📀 dataset: dataset & executable | 💾 source | 💻 website ⭐ Python tools",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-05-03T13:25:26Z",
+            "owner": "PaulRitsche",
+            "repo": "DL_Track_US",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Automatic fascicle tracking algorithm by Drazan et al. (2019). The links include all the experimental data, tracking code, and tracked trials reported in the publication, presenting an automatic fascicle tracking algorithm quantifying gastrocnemius architecture during maximal effort contractions.",
+          "description": "📄 paper | 📀 dataset and paper code | 💾 source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2021-03-04T13:09:04Z",
+            "owner": "joshrbaxter",
+            "repo": "ultrasound_tracking",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Fascicle Tracking"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "deepMTJ by Leitner et al. (2020). Automatic muscle tendon junction tracking using deep learning. 📄 paper",
+          "description": "📄 preprint | 📀 trained networks | 💾 source-code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-12T08:42:43Z",
+            "owner": "luuleitner",
+            "repo": "deepMTJ",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MTJtrack by Krupenevich et al. (2021). MTJtrack provides trained networks for tracking MTJ positions in B-mode ultrasound images using DeepLabCut. 📄 paper",
+          "description": "📀 trained networks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-01-29T06:32:17Z",
+            "owner": "rlkrup",
+            "repo": "MTJtrack",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Muscle-Tendon Junction Tracking"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Muscle Parameter Segmentation in Ultrasound Images"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Modelling and Simulation 💻"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Yeadon's model by Chris Dembia et al. (2015). The human inertia model developed by Fred Yeadon in 1990.📄 paper",
+          "description": "💾 source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-10T06:47:48Z",
+            "owner": "chrisdembia",
+            "repo": "yeadon",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Repository of body segment parameter models by Will Robertson. Contains the raw data for a multitude of body segment parameter models (see repository for list).💻 website",
+          "description": "💾 source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2019-02-12T12:07:55Z",
+            "owner": "wspr",
+            "repo": "body-segment-param",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hatze's model by Will Robertson. A Matlab implementation of Hatze's 1980 anthropometric body segment parameter model.📄 Hatze's paper",
+          "description": "💾 source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Matlab",
+            "last_commit": "2017-07-22T13:22:01Z",
+            "owner": "wspr",
+            "repo": "hatze-biomech",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Anthropometric Models :standing_person:"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Bullet Physics by Erwin Coumans and Yunfei Bai (2016). Real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.📄 Quick Start Guide",
+          "description": "💻 website | 💾 source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-10-22T02:13:14Z",
+            "owner": "bulletphysics",
+            "repo": "bullet3",
+            "stars": 14670
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Drake :dragon: by Russ Tedrake and the Drake Development Team (2019). C++ toolbox for analyzing the dynamics of our robots and building control systems for them, with a heavy emphasis on optimization-based design/analysis. Core development is now led by the Toyota Research Institute.💻 website",
+          "description": "💾 source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T13:16:30Z",
+            "owner": "RobotLocomotion",
+            "repo": "drake",
+            "stars": 4148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pinocchio by Carpentier et al. (2019). Pinocchio is an open-source library (C++ with Python :snake: bindings) for efficiently computing the dynamics (and derivatives) of articulated rigid-body models (robot, avatars, skeletal models, etc.). It implements algorithms following the methods described in Featherstone's 2008 book",
+          "description": ", and their derivatives.📄 paper | 💻 website | 💾 source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T13:06:15Z",
+            "owner": "stack-of-tasks",
+            "repo": "pinocchio",
+            "stars": 3651
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RBDL (Rigid Body Dynamics Library) by Martin L. Felis (Heidelberg University). A multibody engine heavily inspired by the pseudo code of the book \"Rigid Body Dynamics Algorithms\" of Roy Featherstone",
+          "description": ".📄 paper | 💻 website | 💾 source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-06-09T20:32:53Z",
+            "owner": "rbdl",
+            "repo": "rbdl",
+            "stars": 702
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyDy by Jason Moore. A tool kit written in the Python programming language that utilizes an array of scientific programs to enable the study of multibody dynamics.📄 paper",
+          "description": "💾 source | ⭐ Human Standing Tutorial | 🎥 YouTube tutorials",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-08-14T12:30:06Z",
+            "owner": "pydy",
+            "repo": "pydy-tutorial-human-standing",
+            "stars": 166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Biorbd by Benjamin Michaud and Mickaël Begon (2020). This is a Biomechanical add-ons to the RigidBody Dynamics Library by Martin L. Felis. Written in C++, includes Python and MATLAB binders. A visualizer and an optimal control framework have been developed around this library. 📄 paper",
+          "description": "💾 source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T13:36:03Z",
+            "owner": "pyomeca",
+            "repo": "biorbd",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MuJoCo by Emo Todorov for Roboti LLC. Initially it was used at the Movement Control Laboratory, University of Washington. MuJoCo is a commercial physics engine aiming to facilitate research and development in robotics, biomechanics, graphics and animation, and other areas where fast and accurate simulation is needed.💻 website",
+          "description": "⭐ plugin for importing OpenSim models",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-10T17:47:16Z",
+            "owner": "aikkala",
+            "repo": "O2MConverter",
+            "stars": 72
+          }
+        }
+      ],
+      "title": "Multibody and Physics Engines :sleeping::arrow_lower_left::apple:"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Volume Invariant Position-based Elastic Rods (VIPER) by Baptiste Angles et al. (2019). VIPER is a modified formulation of position-based rods to include elastic volumetric deformations. Rods can provide a compact alternative to tetrahedral meshes for the representation of complex muscle deformations, as well as providing a convenient representation for collision detection. Muscles can be modelled as a bundle of rods, for which a technique to automatically convert a muscle surface mesh into a rods-bundle is also presented. The method can run in real time. 📄 paper",
+          "description": "💾 source | 🎥 video",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-09-18T23:14:41Z",
+            "owner": "vcg-uvic",
+            "repo": "viper",
+            "stars": 922
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flexing Computational Muscle: Modeling and Simulation of Musculotendon Dynamics by Matthew Millard et al. (2013). Source code and benchmarks to compare computational speed and physiological accuracy of several muscle models in OpenSim. 📄 paper",
+          "description": "💾 source | 💾 Matlab version | 🎥 Webinar",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2019-09-11T10:11:11Z",
+            "owner": "mjhmilla",
+            "repo": "Millard2012EquilibriumMuscleMatlabPort",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MyoSim by the Campbell Lab",
+          "description": ". MyoSim is an open source computer software for modeling the mechanical properties (force, shortening, power output) of striated muscles. The software models the behavior of half-sarcomeres by extending Huxley-based cross-bridge distribution techniques with Ca2+ activation and cooperative effects. MyoSim can also simulate arbitrary cross-bridge schemes set by the researcher. 📄 paper | 💻 webpage | 💾 installation package (includes source) 💾 source (MATLAB version)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2022-07-26T17:05:49Z",
+            "owner": "Campbell-Muscle-Lab",
+            "repo": "MATMyoSim",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hill-type Knee Extension (KneeExt) by Harald Penasso and Sigrid Thaller (2017). KneeExt provides simulation models for studying muscle behavior during dynamic knee extensions (knee approximated as hinge joint). The versions with and without elasticities can be used for non-linear parameter identification to determine neuromuscular properties non-invasively and in vivo from kinetic and kinematic data. The paper verifies the dynamics between contractile elements (CE), serial elastic elements (SEE), and parallel elastic elements (PEE) in simulated muscles. Users can change muscle properties to investigate how a parameter change affects muscle behavior. 📄 paper",
+          "description": "💾 source with elasticities 💾 source without elasticities",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-30T22:17:44Z",
+            "owner": "haripen",
+            "repo": "KneeExt-Elastic",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Computational Muscle Models :mechanical_arm:"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MyoSuite by MyoSuite Team. An open source contact-rich framework for musculoskeletal motor control. Allow for the fast simulation of upper and lower extremity NMS model controlled by reinforcement learning policy. 📄 paper",
+          "description": "💻 website | 💾 source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-28T09:39:05Z",
+            "owner": "MyoHub",
+            "repo": "myosuite",
+            "stars": 1207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenSim by the National Center for Simulation in Rehabilitation Research, Stanford University. Open source software for biomechanical analysis and neuromusculoskeletal simulations.📄 paper2007",
+          "description": "📄 paper2019 | 💻 website | 💻 binaries | 💾 source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T13:12:14Z",
+            "owner": "opensim-org",
+            "repo": "opensim-core",
+            "stars": 1093
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Artisynth by John Lloyd et al. Artisynth is a 3D mechanical modeling system implemented in Java that supports the combined simulation of multibody and finite element models (linear and nonlinear materials), together with contact and constraints. 📄 paper",
+          "description": "📄 paper-downloadable | 💻 website | 💾 source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-03T23:58:39Z",
+            "owner": "artisynth",
+            "repo": "artisynth_core",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SCONE by Thomas Geijtenbeek. Open source software for predictive simulation of biological motion. It generates actuator patterns and motion trajectories that optimally perform a specific task, according to high-level objectives such as walking speed, pain avoidance, and energy efficiency.📄 paper",
+          "description": "💻 website | 💻 binaries | 💾 source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-03-09T11:46:44Z",
+            "owner": "opensim-org",
+            "repo": "SCONE",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AnimatLab - neuromechanical and neurorobotic simulator for building the body of a robot or biolgical organism in a physically accurate 3-D virtual world, and then layout a biologically realistic nervous system to control the animats behavior.📄 paper",
+          "description": "💻 website | 💾 source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2016-10-04T13:18:30Z",
+            "owner": "NeuroRoboticTech",
+            "repo": "AnimatLabPublicSource",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GaitSym by William Sellers (2014). Software for simulation of human and animal musculoskeletal biomechanics.📄 Config Reference Manual",
+          "description": "💻 Animal Simulation Laboratory website | 💾 source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-12-04T11:06:14Z",
+            "owner": "wol101",
+            "repo": "GaitSym_2017",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Biomechanical and Neuro-musculoskeletal Simulation Software :brain::arrow_right::leg:"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenSimRT by Dimitar Stanev et al. (2021). OpenSim RT is a framework for real-time musculoskeletal kinematics and dynamics analysis using marker- and IMU-based technologies for applications in rehabilitation. 📄 paper",
+          "description": "💾 source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-04-20T16:51:53Z",
+            "owner": "mitkof6",
+            "repo": "OpenSimRT",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RTOSIM by Claudio Pizzolato et al. (2017). RTOSIM is a set of efficient and extensible C++ libraries to connect OpenSim with different devices. RTOSIM can use data provided by motion capture systems to solve OpenSim inverse kinematics and inverse dynamics on a frame-by-frame basis. Multiple threads operate concurrently to remove idle times due to communications with input and output devices, and the data flow is automatically managed by RTOSIM in order to preserve data integrity and avoid race conditions. 📄 paper-IK+ID",
+          "description": "📄 paper-CEINMS | 💾 source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-02-17T07:24:41Z",
+            "owner": "RealTimeBiomechanics",
+            "repo": "rtosim",
+            "stars": 45
+          }
+        }
+      ],
+      "title": "Real-Time Neuro-musculoskeletal Simulation Software"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CusToM: a Matlab toolbox for musculoskeletal simulation by Antoine Muller (2019). The Customizable Toolbox for Musculoskeletal simulation (CusToM) is a MATLAB toolbox aimed at performing inverse dynamics based musculoskeletal analyzes. It can perform inverse kinematics, inverse dynamics, prediction of ground reaction forces and muscle forces, compute kinematics from inertial measurement units, etc. 📄 paper",
+          "description": "💾 source | ⭐ workshop materials",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2025-09-24T14:17:20Z",
+            "owner": "anmuller",
+            "repo": "CusToM",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CEINMS: Calibrated EMG-Informed Neuromusculoskeletal Modelling Toolbox by Claudio Pizzolato et al. (2015). OpenSim toolbox that implements various techniques for running musculoskeletal simulations from experimental measurements of electromyography (EMG). See CEINMS paper for list and examples. 📄 paper",
+          "description": "💻 website | 💾 source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2017-03-14T23:20:00Z",
+            "owner": "CEINMS",
+            "repo": "CEINMS",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenSim JAM: A framework to simulate Joint and Articular Mechanics in OpenSim by Colin Smith (2020). OpenSim JAM is a collection of force component plugins, models, and executables (tools) that are designed to enable OpenSim musculoskeletal simulations that include detailed joint mechanics. The project extends the opensim-core capabilities to enable joint representations that include 6 degree of freedom (DOF) joints (without kinematic constraints) and explicit representations of articular contact and ligament structures.📄 reference papers for each component",
+          "description": "💻 website and binaries | 💾 source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-08-05T14:16:43Z",
+            "owner": "clnsmith",
+            "repo": "opensim-jam",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Modeling musculoskeletal kinematic and dynamic redundancy using null space projection by Dimitar Stanev and Konstantinos Moustakas (2019). Python :snake: methods for modeling, simulation and analysis of redundant musculoskeletal systems based on muscle space projection on segmental level reflexes and the computation of the feasible muscle forces for arbitrary movements.",
+          "description": "📄 paper | 💻 website | 💾 source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2019-09-07T14:14:38Z",
+            "owner": "mitkof6",
+            "repo": "musculoskeletal-redundancy",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stiffness modulation of redundant musculoskeletal systems by Dimitar Stanev and Konstantinos Moustakas (2019). Python tool :snake: implementing an approach that explores the entire space of possible solutions of the muscle redundancy problem using the notion of null space and rigorously accounts for the effect of muscle redundancy in the computation of the feasible stiffness characteristics.",
+          "description": "📄 paper | 💻 website | 💾 source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2019-09-07T14:16:07Z",
+            "owner": "mitkof6",
+            "repo": "musculoskeletal-stiffness",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenSim Marker Placement Toolbox by Mark Price. An OpenSim toolbox implementing a motion capture marker placement refinement algorithm based on minimizing inverse kinematics tracking errors. 📄 paper",
+          "description": "💾 source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2020-08-31T18:08:45Z",
+            "owner": "UMass-OpenSim",
+            "repo": "opensim-marker-place-toolbox",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Neuro-musculoskeletal Simulation Tools :brain::hammer:"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Crocoddyl (Contact Robot Optimal Control by Differential Dynamic Library) by Carlos Mastalli",
+          "description": "and Rohan Budhiraja (2020). Croccoddyl is an optimal control library for robot control under contact sequence. Its solvers are based on novel and efficient Differential Dynamic Programming (DDP) algorithms. Crocoddyl computes optimal trajectories along with optimal feedback gains. It uses Pinocchio for fast computation of robots dynamics and their analytical derivatives. 📄 paper | 💻 website | 💾 source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T10:17:38Z",
+            "owner": "loco-3d",
+            "repo": "crocoddyl",
+            "stars": 1275
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FROST: Fast Robot Optimization and Simulation Toolkit by Hereid et al. (2016). FROST for MATLAB provides a general full-body dynamics gait optimization and simulation framework for bipedal walking robots using virtual constraints based feedback controllers. The Wolfram Mathematica backend enables generation of analytic expressions for multi-domain system dynamics and kinematics symbolically, compiled as .MEX files under MATLAB. FROST also features state-of-the-art direct collocation approaches for the full-order dynamics gait optimization problems to guarantee fast and reliable convergence. 📄 paper",
+          "description": "💻 website | 💾 source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2023-11-29T14:57:08Z",
+            "owner": "ayonga",
+            "repo": "frost-dev",
+            "stars": 169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opty by Jason Moore and Ton van den Bogert (2018). Opty utilizes symbolic descriptions of ordinary differential equations expressed with SymPy",
+          "description": "to form the constraints needed to solve optimal control and parameter identification problems using the direct collocation method and non-linear programming. 📄 paper | 💻 documentation | 💾 source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T06:30:20Z",
+            "owner": "csu-hmc",
+            "repo": "opty",
+            "stars": 123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bioptim (Biomechanical optimal control by Benjamin Michaud, François Bailly et al. (2021). Bioptim is an easy-to-use Python framework for biomechanical optimal control, handling musculoskeletal models. Relying on algorithmic differentiation and the multiple shooting formulation, bioptim interfaces nonlinear solvers to quickly provide dynamically consistent optimal solutions. The software is both computationally efficient (C++ core) and easily customizable, thanks to its Python interface. It allows to quickly define a variety of biomechanical problems such as motion tracking/prediction, muscle-driven simulations, parameters optimization, multiphase problems, etc. It is also intended for real-time applications such as moving horizon estimation and model predictive control. 📄 paper",
+          "description": "💾 source | 🎥 webinar",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T23:36:38Z",
+            "owner": "pyomeca",
+            "repo": "bioptim",
+            "stars": 120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenSim Moco by Chris Dembia, Nick Bianco and the OpenSim team (2019). OpenSim Moco is a software toolkit to solve optimal control problems with musculoskeletal models defined in OpenSim, including those with kinematic constraints. Using the direct collocation method, Moco can solve a wide range of problems, including motion tracking, motion prediction, and parameter optimization. The design of Moco focuses on ease-of-use, customizability, and extensibility. Just like OpenSim itself, Moco has interfaces in XML/command-line, Matlab, Python, Java, and C++.📄 paper",
+          "description": "💻 website | 💾 source | ⭐ materials from preprint | 🎥 webinar",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2025-04-10T19:23:37Z",
+            "owner": "opensim-org",
+            "repo": "opensim-moco",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rapid 3D muscle-driven predictive simulations by Antoine Falisse et al. (2019). This framework relies on numerical tools including direct collocation, implicit differential equations, and algorithmic differentiation, and generates predictive simulations of gait in about 35 minutes (single core of a standard laptop computer) with muscle-driven 3D models (29 degrees of freedom and 92 muscles). The code contains a series of example predictive simulations in which we varied objective function, musculoskeletal properties, and gait speed. 📄 paper",
+          "description": "💻 website | 💾 source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2022-06-21T00:57:24Z",
+            "owner": "antoinefalisse",
+            "repo": "3dpredictsim",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Muscle Redundancy Solver by Friedl de Groote et al. (2016). An algorithm to estimate muscle tendon properties and/or compute muscle coordination by tracking experimental data with a musculoskeletal model assuming optimal control to solve for the muscle redundancy. 📄 paper",
+          "description": "💻 website | 💾 source | 💾 dev_repo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2024-09-25T13:16:54Z",
+            "owner": "KULeuvenNeuromechanics",
+            "repo": "MuscleRedundancySolver",
+            "stars": 36
+          }
+        }
+      ],
+      "title": "Optimal Control and Trajectory Optimization :rocket:"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Subject-Specific Modelling"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Seg3D",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-01-15T19:50:31Z",
+            "owner": "SCIInstitute",
+            "repo": "Seg3D",
+            "stars": 120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MITK-GEM is based on MITK but includes also mesh processing functionalities. Aimed to generation of finite element models. 📄 paper",
+          "description": "💻 website | ⭐ resources",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-12-10T16:45:03Z",
+            "owner": "araex",
+            "repo": "mitk-gem",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SASHIMI Segmentation :sushi: by Bart Bolsterlee. SASHIMI Segmentation is a MATLAB App for segmentation of multi-slice images.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2021-10-21T09:26:03Z",
+            "owner": "bartbols",
+            "repo": "SASHIMI",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "3DSlicer 3D Slicer is an open source software platform for medical image informatics, image processing, and three-dimensional visualization. 📄 paper (Slicer v4)",
+          "description": "💻 website | 📄 Documentation | 🎥 Youtube tutorials",
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Extensions of 3DSlicer:",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Nvidia AI-assisted annotation (AIAA) by NVIDIA. 💾 source",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "C++",
+                    "last_commit": "2024-04-23T06:52:45Z",
+                    "owner": "NVIDIA",
+                    "repo": "ai-assisted-annotation-client",
+                    "stars": 320
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SlicerMorph by Sara Rolfe et al. (2020). SliceMorph is a toolkit with the aim of retrieve, visualize, measure, annotate, and perform geometric morphometric analyses from high-resolution specimen data both from volumetric scans (CTs and MRs) as well as from 3D surface scanners effectively within 3D Slicer. 📄 preprint",
+                  "description": "💻 website | 💾 source | 🎥 tutorials",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2026-07-31T15:39:19Z",
+                    "owner": "SlicerMorph",
+                    "repo": "SlicerMorph",
+                    "stars": 118
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SlicerSALT (Slicer Shape AnaLysis Toolbox) by Vicory et al. (2018). SlicerSALT is open-source, free comprehensive software design for biomedical scientists to precisely locate shape changes in their imaging studies. SlicerSALT will enhance the intuitiveness and ease of use for such studies, as well as allow researchers to find shape changes with higher statistical power. 📄 paper",
+                  "description": "💻 website and tutorials | 💾 source",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2026-03-06T01:07:42Z",
+                    "owner": "Kitware",
+                    "repo": "SlicerSALT",
+                    "stars": 73
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "title": "Segmentation of Medical Images :artist:"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Biomedisa by Philipp Lösel et al. (2020). Biomedisa is a free and easy-to-use open-source online platform for segmenting large volumetric images, e.g. CT and MRI scans, developed by the Heidelberg University and the Heidelberg Institute for Theoretical Studies",
+          "description": ". The segmentation is performed based on a smart interpolation of sparsely pre-segmented slices taking into account the complete underlying image data. It can be used in addition to segmentation tools like Amira, ImageJ/Fiji and MITK. 💻 website | 📄 paper | 💾 code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-13T10:30:23Z",
+            "owner": "biomedisa",
+            "repo": "biomedisa",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A New Straightforward Method for Automated Segmentation of Trabecular Bone from Cortical Bone in Diverse and Challenging Morphologies by Eva Herbst et al. (2021). Description of a method to automatically segment trabecular and cortical bone in micro-CT scans, using Avizo",
+          "description": ". 📄 pre-print | 💾 code (Avizo recipe) | 📀 test micro-CT scans",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "ImageJ Macro",
+            "last_commit": "2023-09-26T14:46:30Z",
+            "owner": "evaherbst",
+            "repo": "Trabecular_Segmentation_Avizo",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Automatic subregional assessment of knee cartilage degradation by Thomas et al. (2020). 286 MRI volumes (multi-echo spin-echo T2-weighted) from 143 subjects from the Osteoarthritis Initiative (Kellgren-Lawrence grade of 0). Each MRI was segmented with a semi-automated process and refined by a radiologist. These segmentations were used as ground truth. A Convolutional Neural Network was used to learn MRI features predictive of cartilage location. Segmented cartilage was divided into 12 subregions. 📄 pre-print",
+          "description": "💾 code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-12-08T10:50:42Z",
+            "owner": "kathoma",
+            "repo": "AutomaticKneeMRISegmentation",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Automatic Segmentation :mage_man:"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MeshLab by Cignoni et al. (2008). MeshLab is open source system for processing and editing 3D triangular meshes. It provides a set of tools for editing, cleaning, healing, inspecting, rendering, texturing and converting meshes. It offers features for processing raw data produced by 3D digitization tools/devices and for preparing models for 3D printing. 📄 paper",
+          "description": "💻 website | 💾 source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T05:14:56Z",
+            "owner": "cnr-isti-vclab",
+            "repo": "meshlab",
+            "stars": 5786
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trimesh by Michael Dawson-Haggerty et al. (2019). Trimesh is a pure Python (2.7-3.4+) :snake: library for loading and using triangular meshes with an emphasis on watertight surfaces. The goal of the library is to provide a full featured and well tested Trimesh object which allows for easy manipulation and analysis. 💻 website",
+          "description": "💾 source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T01:10:41Z",
+            "owner": "mikedh",
+            "repo": "trimesh",
+            "stars": 3647
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gptoolbox - Geometry Processing Toolbox by Alec Jacobson. This is a MATLAB toolbox of useful functions for geometry processing. There are also tools related to constrainted optimization and image processing. Typically these are utility functions that are not stand alone applications. 💻 website | 💾 source",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2026-05-15T20:08:20Z",
+            "owner": "alecjacobson",
+            "repo": "gptoolbox",
+            "stars": 676
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Blender is a free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, video editing and 2D animation pipeline. The amount of functionalities, features and support materials available for Blender is unparallelled in any other free and open source software of this kind. 💻 website",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Blender Remeshing Guide",
+              "description": "by Eva Herbst.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-11-15T17:26:02Z",
+                "owner": "evaherbst",
+                "repo": "Blender_remeshing_guide",
+                "stars": 28
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Manipulation, Processing and Comparison of Surface Meshes"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "STAPLE toolbox by Luca Modenese and Jean-Baptiste Renault et al. (2021). STAPLE (Shared Tools for Automatic Personalised Lower Extremity modelling) consists of a collection of methods for generating skeletal models from three-dimensional bone geometries, usually segmented from medical images. The methods are currently being expanded to create complete musculoskeletal models. Toolbox is currently in beta version.",
+          "description": "📄 paper | 💾 source (beta)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2024-08-19T18:52:51Z",
+            "owner": "modenaxe",
+            "repo": "msk-STAPLE",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Musculotendon parameter optimizer by Luca Modenese et al. (2016). Optimization based technique that adjusts muscle parameters of musculoskeletal models. It can be used to improve linearly scaled models or to obtain reasonable estimation of optimal fiber lengths and tendon slack lengths in models generated from medical images.📄 paper",
+          "description": "📀 dataset | 💻 website | 💾 source (MATLAB) | 💾 source (OpenSim plugin) with documentation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2025-04-16T02:21:54Z",
+            "owner": "modenaxe",
+            "repo": "MuscleParamOptimizer",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ModelFactory by Manish Sreenivasa (2018). A Matlab/Octave toolbox to create human body models.📄 preprint",
+          "description": "💾 source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Matlab",
+            "last_commit": "2018-01-08T13:09:53Z",
+            "owner": "manishsreenivasa",
+            "repo": "ModelFactory",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mri2psm by Manish Sreenivasa (2016). Open-source toolchain to create patient-specific models from MRI images.📄 paper",
+          "description": "(MRI2PSM, an open-source toolchain to create patient-specific rigid body models from MRI images. is cited in the paper, but not retrievable). | 💾 source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Matlab",
+            "last_commit": "2016-02-15T13:28:06Z",
+            "owner": "manishsreenivasa",
+            "repo": "mri2psm",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Resources for Building Biomechanical Models from Medical Images :woman_technologist:"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GIBOC-Knee toolbox by Jean-Baptiste Renault et al. (2018). The toolbox includes three automatic algorithms for reference system identification on femur, tibia and patella. Each algorithm is implemeted with 3 variants, and compared against five other methods from the literature on a dataset of 24 lower-limb CT-scans (not included in the repository).📄 paper",
+          "description": "💾 source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2021-01-16T10:20:33Z",
+            "owner": "renaultJB",
+            "repo": "GIBOC-Knee-Coordinate-System",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pelvic Landmark Identification by Maximilian Fischer et al. (2019). This is a fully automatic methods for identification of landmarks on surface models of the pelvis.",
+          "description": "📄 paper | 💾 source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2023-11-25T12:29:29Z",
+            "owner": "RWTHmediTEC",
+            "repo": "PelvicLandmarkIdentification",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Subburaj's curvature/spatial relation matrix method by Maximilian Fischer et al. (2019). MATLAB implementation of Subburaj's curvature/spatial relation matrix method for the automatic identification of pelvic landmarks.📄 Subburaj's paper 2008",
+          "description": "📄 Subburaj's paper 2009 | 💾 source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2019-09-03T08:43:02Z",
+            "owner": "RWTHmediTEC",
+            "repo": "PelvicLandmarkIdentification_Subburaj",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Automatic Definition of Bony Landmarks and Reference Systems :skull:"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Volumetric Meshers of Surface Models"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TetWild - Tetrahedral Meshing in the Wild by Yixin Hu et al. (2018).📄 paper",
+          "description": "💾 source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-04-27T19:09:59Z",
+            "owner": "Yixin-Hu",
+            "repo": "TetWild",
+            "stars": 718
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fast Tetrahedral Meshing in the Wild by Yixin Hu et al. (2020).📄 paper",
+          "description": "💾 source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-05T14:12:15Z",
+            "owner": "wildmeshing",
+            "repo": "fTetWild",
+            "stars": 592
+          }
+        }
+      ],
+      "title": "Hexahedral meshers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Statistical Shape Modelling :bone:"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Gridap: An extensible Finite Element toolbox in Julia by Santiago Badia1 and Francesc Verdugo (2020). 📄 paper",
+          "description": "📄 Users' Guide | 💾 code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2026-08-06T06:34:48Z",
+            "owner": "gridap",
+            "repo": "Gridap.jl",
+            "stars": 870
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ferrite: A finite element toolbox written in Julia.. 📄 citation",
+          "description": "📄 Users' Guide | 💾 code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2026-08-13T10:04:14Z",
+            "owner": "Ferrite-FEM",
+            "repo": "Ferrite.jl",
+            "stars": 448
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GIBBON Toolbox by Kevin Moerman",
+          "description": ". GIBBON (The Geometry and Image-Based Bioengineering add-On) is an open-source MATLAB toolbox that includes an array of image and geometry visualization and processing tools and is interfaced with free open source software such as TetGen, for robust tetrahedral meshing, and FEBio and Abaqus for finite element analysis. The combination provides a highly flexible image-based modelling environment and enables advanced inverse finite element analysis. 📄 paper | 💻 website | 💾 source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2026-08-01T08:12:16Z",
+            "owner": "gibbonCode",
+            "repo": "GIBBON",
+            "stars": 218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Comodo: An extensible Finite Element toolbox in Julia by Kevin Moerman",
+          "description": ". Comodo is a Julia package for computational (bio)mechanics and computational design, and offers functionality for geometry processing, meshing, finite element analysis, automated design, topology optimisation, and image-based modelling. 📄 citation | 📄 Users' Guide | 💾 code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2026-08-12T09:14:29Z",
+            "owner": "COMODO-research",
+            "repo": "Comodo.jl",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bonemapy by Michael Hogg. Bonemapy is an ABAQUS plug-in to map bone properties from CT scans to 3D finite element bone/implant models. This is typically used for applying heterogeneous material properties to the bone model. 💾 source",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-06T12:08:16Z",
+            "owner": "mhogg",
+            "repo": "bonemapy",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MuscleForceDirection OpenSim plugin by Luca Modenese et al. (2013). This is an OpenSim plugin that extracts the muscle lines of action of user-selected muscles for a given kinematics. It was created to help setting up finite element models that are consistent with musculoskeletal models. 📄 paper2013",
+          "description": "📄 paper2015 | 💻 website | 💾 source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-04-16T02:25:12Z",
+            "owner": "modenaxe",
+            "repo": "MuscleForceDirection",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "py_bonemat_abaqus by Elise Pegg from the University of Bath, UK. This 🐍 python package provides tools to add material properties of bone to an ABAQUS finite element model input file, where the modulus of each element is defined based upon its corresponding CT data using the Hounsfield Unit (HU) and input parameters. The package aims to be equivalent to Bonemat software developed by researchers in Bologna, Italy, but tailored for ABAQUS finite element users 📄 paper",
+          "description": "💾 source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-17T19:15:06Z",
+            "owner": "elisepegg",
+            "repo": "py_bonemat_abaqus",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LMG: Lumbar Model Generator by Carolina Lavecchia et al. (2017). LMG is a MATLAB toolbox for semi-automatic generation of lumbar finite element geometries. It generates the geometrical model of the lumbar spine (from the vertebrae L1 to the L5 including the intervertebral disc IVD), the surface models of the bodies involved (STL files) and the solid meshed model, generated with hexahedral elements for the IVD and tetrahedral elements for the vertebrae. 📄 paper",
+          "description": "💾 source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Matlab",
+            "last_commit": "2017-07-28T18:29:07Z",
+            "owner": "CELavecchia",
+            "repo": "LMG",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Finite Element Analysis Software Tools"
+    },
+    {
+      "description": "This section needs to be improved.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "spm1d",
+          "description": "by Todd Pataky. This is a package for one-dimensional statistical Parametric Mapping. spm1d uses Random Field Theory expectations regarding the behavior of smooth, one-dimensional Gaussian fields to make statistical inferences regarding a set of one-dimensional continua.📄spm1d paper | 📚spm1d publications | 💾python code | 💾MATLAB code | 💻website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-24T06:57:39Z",
+            "owner": "0todd0000",
+            "repo": "spm1d",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PCA of Waveforms and Functional PCA: A Primer for Biomechanics by John Warmenhoven et al. (2020). Scripts presenting functional principal components analysis (fPCA) and PCA of waveforms on an exemplar biomechanical data set. 📄 paper",
+          "description": "💾 code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2020-11-02T12:27:40Z",
+            "owner": "johnwarmenhoven",
+            "repo": "PCA-FPCA",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "power1D",
+          "description": "by Todd Pataky. This package is a Python toolbox for numerical power estimates in experiments involving one-dimensional continua.📄paper | 💾code | 💻website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-10T10:45:53Z",
+            "owner": "0todd0000",
+            "repo": "power1d",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Statistical Analysis"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Fiji - version of ImageJ with pre-built plugins. 💻 website",
+          "description": "💾 source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-18T04:02:29Z",
+            "owner": "fiji",
+            "repo": "fiji",
+            "stars": 1007
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ImageJ - TO ADD DESCRIPTION 💻 website",
+          "description": "💾 source * BoneJ plugin a plugin for bone image analysis in ImageJ by Doube et al. (2017). 💻 website | 💾 code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-22T16:14:44Z",
+            "owner": "imagej",
+            "repo": "ImageJ",
+            "stars": 780
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SPIERS (Serial Palaeontological Image Editing and Rendering System) by Mark Sutton et al. (2012). SPIERS is a package of three programs for the digital visualisation and analysis of tomographic (serial image) datasets, such as those obtained from serial-grinding of specimens, or from CT scanning. 💻 website",
+          "description": "paper 💾 source |",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-31T13:44:06Z",
+            "owner": "palaeoware",
+            "repo": "SPIERS",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Scientific Data Visualization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Biomechanical Datasets",
+          "description": "by Moon Ki Jung (Imperial College London).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-08-11T15:13:29Z",
+            "owner": "mkjung99",
+            "repo": "biomechanics_dataset",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Biomechnical repositories",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "More Datasets and repositories"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/ubisoft/ubisoft-laforge-animation-dataset",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-09-10T09:16:51Z",
+            "owner": "ubisoft",
+            "repo": "ubisoft-laforge-animation-dataset",
+            "stars": 1553
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hypothesis testing demonstration by Michael Pyrcz youtube: https://www.youtube.com/watch?v=bcb3m3LBtRk",
+          "description": "github: https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/Interactive_Hypothesis_Testing.ipynb",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-03-03T17:49:37Z",
+            "owner": "GeostatsGuy",
+            "repo": "PythonNumericalDemos",
+            "stars": 1473
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyomo Python-based, open-source optimization modeling language with a diverse set of optimization capabilities. http://www.pyomo.org/",
+          "description": "https://github.com/Pyomo/PyomoGallery",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-03-11T22:14:16Z",
+            "owner": "Pyomo",
+            "repo": "pyomo-gallery",
+            "stars": 316
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pymuscle: Used to simulate the input-output relationship between motor neuron excitation and muscle fibers contractile state over time. 💾 source",
+          "description": "https://iandanforth.github.io/pymuscle-docs/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-25T18:21:36Z",
+            "owner": "iandanforth",
+            "repo": "pymuscle",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "optim2d by Ton van den Bogert and Anne Koelewijn. Matlab code to do trajectory optimization on a 2D gait model. The musculoskeletal dynamics can be augmented with prosthetic components (above knee, below knee), and the corresponding muscles can be amputated. https://github.com/csu-hmc/optim2d",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Matlab",
+            "last_commit": "2018-04-24T22:54:37Z",
+            "owner": "csu-hmc",
+            "repo": "optim2d",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Motor-Unit-Model-Fuglevand 💾 source",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2020-06-29T01:47:14Z",
+            "owner": "anagamori",
+            "repo": "Motor-Unit-Model-Fuglevand",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ipycanvas by Martin Renou. Ipycanvas is a lightweight, fast and stable library exposing the browser's Canvas API to IPython. It allows you to draw simple primitives directly from Python like text, lines, polygons, arcs, images etc. This simple toolset allows you to draw literally anything! https://github.com/martinRenou/ipycanvas",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-01T08:39:26Z",
+            "owner": "martinRenou",
+            "repo": "ipycanvas",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyMUS v2.0 PyMUS v2.0 allows the simulations to be fully operated using a graphical user interface (GUI). The GUI was designed to allow for a generic computational procedure to be performed using modeling and simulation approaches. The Main Window of PyMUS v2.0 consists of one state window and six buttons for controlling simulation of motor unit system. 💾 source",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-12-03T07:36:48Z",
+            "owner": "NMSL-DGIST",
+            "repo": "PyMUS",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Sandbox"
+    },
+    {
+      "description": "Have anything in mind that you think is awesome biomechanics and would fit in this list? Feel free to send a pull request or open an Issue.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "If you are not familiar with the Markdown format used in this document you can quickly learn it from cheatsheets like this one",
+          "description": ".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-08-22T00:21:50Z",
+            "owner": "adam-p",
+            "repo": "markdown-here",
+            "stars": 60248
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "If you have used Git before but you are not familiar with GitHub, you can check resources like \"First Contributions\"",
+          "description": "and learn how to contribute to existing projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-13T13:19:47Z",
+            "owner": "firstcontributions",
+            "repo": "first-contributions",
+            "stars": 55465
+          }
+        }
+      ],
+      "title": "Resources for learning how to contribute"
+    },
+    {
+      "description": "To the extent possible under law, Luca Modenese has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T13:20:23.557Z",
+    "original_repository": "modenaxe/awesome-biomechanics",
+    "original_repository_sha": "de83e6dc2affb15d8672c7367b109e8e7c7ccc20",
+    "enhanced_repository": "enhansome/enhansome-biomechanics",
+    "enhanced_repository_description": null,
+    "title": "Awesome Biomechanics with stars"
+  }
+}
