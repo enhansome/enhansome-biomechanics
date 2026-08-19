@@ -17,7 +17,7 @@
                 "last_commit": "2023-06-30T18:56:03Z",
                 "owner": "michiganrobotics",
                 "repo": "rob101",
-                "stars": 1273
+                "stars": 1274
               }
             },
             {
@@ -173,7 +173,7 @@
                 "last_commit": "2026-08-18T21:03:49Z",
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 91692
+                "stars": 91695
               }
             },
             {
@@ -787,7 +787,7 @@
                     "archived": false,
                     "id": 357362803,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-19T04:07:49Z",
+                    "last_commit": "2026-08-19T12:43:20Z",
                     "owner": "freemocap",
                     "repo": "freemocap",
                     "stars": 10024
@@ -805,7 +805,7 @@
                     "last_commit": "2026-08-18T21:32:37Z",
                     "owner": "perfanalytics",
                     "repo": "pose2sim",
-                    "stars": 773
+                    "stars": 774
                   }
                 },
                 {
@@ -1989,7 +1989,7 @@
                 "archived": false,
                 "id": 41787768,
                 "language": "Julia",
-                "last_commit": "2026-08-19T12:03:20Z",
+                "last_commit": "2026-08-19T12:52:04Z",
                 "owner": "Ferrite-FEM",
                 "repo": "Ferrite.jl",
                 "stars": 450
@@ -2359,7 +2359,7 @@
                 "last_commit": "2025-08-22T00:21:50Z",
                 "owner": "adam-p",
                 "repo": "markdown-here",
-                "stars": 60248
+                "stars": 60249
               }
             },
             {
@@ -2374,7 +2374,7 @@
                 "last_commit": "2026-08-19T12:17:12Z",
                 "owner": "firstcontributions",
                 "repo": "first-contributions",
-                "stars": 55554
+                "stars": 55555
               }
             }
           ],
@@ -2387,7 +2387,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:17:11.458Z",
+    "last_updated": "2026-08-19T13:00:49.946Z",
     "original_repository": "modenaxe/awesome-biomechanics",
     "original_repository_id": 287581924,
     "original_repository_sha": "de83e6dc2affb15d8672c7367b109e8e7c7ccc20",
