@@ -153,6 +153,28 @@
               "description": null,
               "node_type": "group",
               "title": "Python"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Version Control for Researchers",
+                  "description": "by Ryan Alcantara. Tutorial for ASB2020 introducing GitHub and version control for biomechanists. Accompanying tutorial material located at the ASB_Tutorial repository.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 274474453,
+                    "language": "R",
+                    "last_commit": "2021-10-17T14:49:41Z",
+                    "owner": "alcantarar",
+                    "repo": "ASB_Tutorial",
+                    "stars": 13
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Git (source version control)"
             }
           ],
           "description": "This section in under construction",
@@ -173,7 +195,7 @@
                 "last_commit": "2026-08-18T21:03:49Z",
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 91990
+                "stars": 91994
               }
             },
             {
@@ -384,6 +406,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "BDS: A public data set of human balance evaluations by Damiana dos Santos and Marco Duarte (2016). The data set comprises signals from the force platform (raw data for the force, moments of forces, and centers of pressure) of 163 subjects plus one file with information about the subjects and balance conditions and the results of the other evaluations. Subject’s balance was evaluated by posturography using a force platform and by the Mini Balance Evaluation Systems Tests in four conditions (standing still for 60 s on a rigid surface with eyes open; on a rigid surface with eyes closed; on an unstable surface with eyes open; on an unstable surface with eyes closed). Each condition was performed three times and the order of the conditions was randomized among subjects. 📄 paper",
+              "description": "📀 dataset | 💻 website | ⭐ resources",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 54219650,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-02-27T13:54:06Z",
+                "owner": "BMClab",
+                "repo": "datasets",
+                "stars": 19
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Balance :balance_scale:"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "An Open Data Set of Inertial, Magnetic, Foot–Ground Contact, and Electromyographic Signals From Wearable Sensors During Walking. by Miraldo DC, Watanabe RN and Duarte M (2020). Data were acquired from 22 healthy adults using wearable sensors and walking at self-selected comfortable, fast and slow speeds, and standing still. In total, there are data of 9,661 gait strides. The dataset includes gait events and notebooks exemplifying how to access and visualize the data.📄 paper",
               "description": "📀 dataset | 💻 website | ⭐ resources",
               "children": [],
@@ -431,6 +475,72 @@
           "description": null,
           "node_type": "group",
           "title": "Walking :walking:"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CARL: a running recognition algorithm for free-living accelerometer data by John J Davis IV et al. (2021). An activity recognition algorithm that can identify and extract bouts of running from raw accelerometry data collected anywhere on the torso or wrist. Written in MATLAB and accompanied by a dataset of 227 subjects equipped with wearable accelerometers performing a wide range of activities, including walking, running, cycling, sit-to-stand transitions, and more.📄 paper",
+              "description": "📀 dataset 💾 source",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 292718436,
+                "language": "MATLAB",
+                "last_commit": "2021-12-17T02:36:30Z",
+                "owner": "johnjdavisiv",
+                "repo": "carl",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Running :running:"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Complete Inertial Pose (CIP) dataset by M. Palermo et al. (2022). The CIP dataset is composed of 2 subsets, containing low-cost (MPU9250) and high-end (MTwAwinda) Magnetic, Angular Rate, and Gravity (MARG) sensor data respectively. Multiple trials were collected with 21 and 10 subjects respectively, performing 6 types of movements (ranging from calibration, to daily-activities, range-of-motion and random). It presents a high degree of variability and complex dynamics while containing common sources of error found on real conditions. This amounts to 3.5M samples, synchronized with a ground-truth inertial motion capture system (Xsens) at 60hz. 📄 paper",
+              "description": "📀 dataset | ⭐ code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 429558457,
+                "language": "Python",
+                "last_commit": "2022-02-15T18:29:03Z",
+                "owner": "ManuelPalermo",
+                "repo": "HumanInertialPose",
+                "stars": 75
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Upper Limb Movements 💪"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Standardization proposal of soft tissue artefact description for data sharing in human motion measurements by Andrea Cereatti et al. (2017). This dataset includes open-access and standard-format soft tissues artefact data from several previous studies (both upper and lower limbs) that will be useful for the evaluation and development of bone pose estimators in three-dimensional human movement analysis. 📄 paper",
+              "description": "📀 dataset (journal website) | 📀 dataset (GitHub | 📄 description of included datasets",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 81211109,
+                "language": "Matlab",
+                "last_commit": "2017-03-07T15:02:45Z",
+                "owner": "STAOpenData",
+                "repo": "Data",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Soft Tissue Artefacts :leg:"
         }
       ],
       "title": "Datasets 📀"
@@ -787,7 +897,7 @@
                     "archived": false,
                     "id": 357362803,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T12:47:57Z",
+                    "last_commit": "2026-08-24T13:14:39Z",
                     "owner": "freemocap",
                     "repo": "freemocap",
                     "stars": 10049
@@ -832,6 +942,28 @@
           "description": "This section needs to be finalized.",
           "node_type": "group",
           "title": "Motion Capture Data Import and Processing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Autoscoper (Bone/Implant Tracking Software) by Bardiya Akhbari et. al (2021). Autoscoper is a 2D to 3D image registration software developed at Brown University in 2013 as a tool to investigate intra-articular joint motion during dynamic tasks. 3D position and orientation of bones and implants can be resolved in Autoscoper using volumetric density (CT) data and multi-view 2D radiographs acquired at high-speed (videoradiographs; VRG). So far, Autoscoper has been used for tracking the shoulder, spine, wrist, hip, knee, and ankle joints. 📄 accuracy paper",
+              "description": "📄 protocol paper | 💻 website | 💾 source",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 313353881,
+                "language": "C++",
+                "last_commit": "2026-07-28T13:49:21Z",
+                "owner": "BrownBiomechanics",
+                "repo": "Autoscoper",
+                "stars": 22
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Videoradiography (Model-based and Marker-based Tracking)"
         }
       ],
       "title": "Gait Analysis and Motion Capture :cartwheeling:"
@@ -997,7 +1129,7 @@
                 "archived": false,
                 "id": 16256144,
                 "language": "C++",
-                "last_commit": "2026-08-24T10:02:14Z",
+                "last_commit": "2026-08-24T13:31:49Z",
                 "owner": "RobotLocomotion",
                 "repo": "drake",
                 "stars": 4158
@@ -1380,6 +1512,28 @@
           "description": null,
           "node_type": "group",
           "title": "Neuro-musculoskeletal Simulation Tools :brain::hammer:"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "BASH - Biomechanical Animated Skinned Human by Schleicher et al. (2021). BASH allows to visualize human kinematics and muscle activity estimated through an OpenSim model using a 3D animated model deformed using skinning. 📄 paper",
+              "description": "💾 source",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 315595675,
+                "language": "C++",
+                "last_commit": "2021-12-15T15:46:23Z",
+                "owner": "mad-lab-fau",
+                "repo": "BASH-Model",
+                "stars": 94
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Biomechanical Models"
         }
       ],
       "title": "Modelling and Simulation 💻"
@@ -1517,8 +1671,8 @@
             },
             {
               "node_type": "item",
-              "title": "MITK-GEM is based on MITK but includes also mesh processing functionalities. Aimed to generation of finite element models. 📄 paper",
-              "description": "💻 website | ⭐ resources",
+              "title": "MITK-GEM",
+              "description": "is based on MITK but includes also mesh processing functionalities. Aimed to generation of finite element models. 📄 paper | 💻 website | ⭐ resources",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1532,8 +1686,8 @@
             },
             {
               "node_type": "item",
-              "title": "SASHIMI Segmentation :sushi: by Bart Bolsterlee. SASHIMI Segmentation is a MATLAB App for segmentation of multi-slice images.",
-              "description": null,
+              "title": "SASHIMI Segmentation :sushi:",
+              "description": "by Bart Bolsterlee. SASHIMI Segmentation is a MATLAB App for segmentation of multi-slice images.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1547,8 +1701,8 @@
             },
             {
               "node_type": "group",
-              "title": "3DSlicer 3D Slicer is an open source software platform for medical image informatics, image processing, and three-dimensional visualization. 📄 paper (Slicer v4)",
-              "description": "💻 website | 📄 Documentation | 🎥 Youtube tutorials",
+              "title": "3DSlicer",
+              "description": "3D Slicer is an open source software platform for medical image informatics, image processing, and three-dimensional visualization. 📄 paper (Slicer v4) | 💻 website | 📄 Documentation | 🎥 Youtube tutorials",
               "children": [
                 {
                   "node_type": "group",
@@ -1860,6 +2014,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "NetGen",
+                  "description": "source",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 97575728,
+                    "language": "C++",
+                    "last_commit": "2026-08-06T16:09:19Z",
+                    "owner": "NGSolve",
+                    "repo": "netgen",
+                    "stars": 388
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Tetrahedral meshers"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "TetWild - Tetrahedral Meshing in the Wild by Yixin Hu et al. (2018).📄 paper",
                   "description": "💾 source",
                   "children": [],
@@ -1902,6 +2078,21 @@
           "children": [
             {
               "children": [
+                {
+                  "node_type": "item",
+                  "title": "Deformetrica is a software (Python tool :snake:) for the statistical analysis of 2D and 3D shape data. Deformetrica comes with three main applications: registration, atlas construction and geodesic regression. Deformetrica works only on Linux systems. The ESB-ITA webinar was presented by Alessandra Aldieri (Politecnico di Torino), Sara Barati (Politecnico di Milano) and Marilena Mazzoli (Fondazione Toscana Gabriele Monasterio). 📄 list of papers",
+                  "description": "💾 source | 💾 scripts to create Atlas | 🎥ESB-ITA webinar (2024)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 576361770,
+                    "language": "Python",
+                    "last_commit": "2023-07-28T14:27:49Z",
+                    "owner": "nimirz",
+                    "repo": "ShapeAtlas",
+                    "stars": 5
+                  }
+                },
                 {
                   "node_type": "item",
                   "title": "Scalismo by the Graphics and Vision Research Group",
@@ -1963,6 +2154,28 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "FEBio by Maas et al. (2012). FeBio is a software tool, developed by Jeffrey Weiss' lab and Gerard Ateshian's lab, for nonlinear finite element analysis in biomechanics and biophysics and is specifically focused on solving nonlinear large deformation problems in biomechanics and biophysics. Aside from structural mechanics, it can also solve problems in mixture mechanics (i.e. biphasic or multiphasic materials), fluid mechanics, reaction-diffusion, and heat transfer. It can also solve coupled physics problems, including fluid-solid interactions. is the main software tool for developing, running, and analyzing FEBio models, offering a graphical user interface for interacting with the FEBio software. A Python wrapper is also available. 📄 paper",
+              "description": "💻 website | 💾 source | 🐍 pyFEBio | 🎥 Youtube channel",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1091927732,
+                "language": "Python",
+                "last_commit": "2026-08-11T23:59:18Z",
+                "owner": "febiosoftware",
+                "repo": "pyfebio",
+                "stars": 11
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Finite Element Analysis Software"
+        },
         {
           "children": [
             {
@@ -2200,6 +2413,62 @@
       "items": [
         {
           "node_type": "item",
+          "title": "How to build a MATLAB dockerfile: detailed instruction on how to run MATLAB in a container. Requires a license. 💻 instructions",
+          "description": "⭐ container including Mathworks dependencies (NO MATLAB)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 211346419,
+            "language": "Python",
+            "last_commit": "2026-08-07T13:32:36Z",
+            "owner": "mathworks-ref-arch",
+            "repo": "matlab-dockerfile",
+            "stars": 411
+          }
+        }
+      ],
+      "title": "Reproducibility :gem:"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Jekyll",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Jekyll theme for academic pages",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 68287594,
+                    "language": "SCSS",
+                    "last_commit": "2026-08-16T14:36:12Z",
+                    "owner": "academicpages",
+                    "repo": "academicpages.github.io",
+                    "stars": 17492
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Blogging platforms"
+        }
+      ],
+      "title": "Miscellaneous Online Resources"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Biomechanical Datasets",
           "description": "by Moon Ki Jung (Imperial College London).",
           "children": [],
@@ -2371,10 +2640,10 @@
                 "archived": false,
                 "id": 68720867,
                 "language": null,
-                "last_commit": "2026-08-24T12:56:38Z",
+                "last_commit": "2026-08-24T13:59:38Z",
                 "owner": "firstcontributions",
                 "repo": "first-contributions",
-                "stars": 55646
+                "stars": 55647
               }
             }
           ],
@@ -2387,7 +2656,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T12:57:39.409Z",
+    "last_updated": "2026-08-24T14:15:41.755Z",
     "original_repository": "modenaxe/awesome-biomechanics",
     "original_repository_id": 287581924,
     "original_repository_sha": "de83e6dc2affb15d8672c7367b109e8e7c7ccc20",

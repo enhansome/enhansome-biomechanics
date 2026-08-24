@@ -183,7 +183,7 @@ This section in under construction
 
 ### Teaching Resources :triangular\_ruler:
 
-* [Manim: Mathematical Animation Engine](https://github.com/3b1b/manim) ⭐ 91,990 | 🐛 488 | 🌐 Python | 📅 2026-08-18 by [Grant Sanderson](https://github.com/3b1b). Manim is an engine for precise programatic animations, designed for creating explanatory math videos similar to those presented in the contents of [3Blue1Brown](https://www.3blue1brown.com).
+* [Manim: Mathematical Animation Engine](https://github.com/3b1b/manim) ⭐ 91,994 | 🐛 488 | 🌐 Python | 📅 2026-08-18 by [Grant Sanderson](https://github.com/3b1b). Manim is an engine for precise programatic animations, designed for creating explanatory math videos similar to those presented in the contents of [3Blue1Brown](https://www.3blue1brown.com).
 * [Bayesian Data Analysis course](https://avehtari.github.io/BDA_course_Aalto) by AKi Vehtari at Aalto University (2020).</br>
   💾 [code](https://github.com/avehtari/BDA_course_Aalto) ⭐ 2,273 | 🐛 2 | 🌐 TeX | 📅 2026-08-24 |
   📄 [book](https://users.aalto.fi/~ave/BDA3.pdf)
@@ -451,15 +451,15 @@ This section in under construction
 
 ### Balance :balance\_scale:
 
-* **Standing Balance Experiment with Long Duration Random Pulses Perturbation** by Huawei Wang and Ton van den Bogert (2020). The data-set includes the perturbation reaction data from eight subjects. Each subject performed four experiment trials, including two quiet standing and two perturbed trials. Each trial lasted five minutes for a total of 80 minutes quiet standing and 80 minutes perturbed standing data. Recorded information including three dimensional trajectories of thirty-two markers (27 on subjects' trunk and legs and 5 on the treadmill frame), six dimensional ground reaction forces, and nine Electromyography signals (EMGs, on subjects' right leg). [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3819630.svg)](https://doi.org/10.5281/zenodo.3819630) </br>
-  📄 [paper](https://doi.org/10.1016/j.jneumeth.2020.108580) |
-  📀 [dataset](https://zenodo.org/record/3819630#.X2JMTmhKgdU)
-
 * **BDS: A public data set of human balance evaluations** by Damiana dos Santos and Marco Duarte (2016). The data set comprises signals from the force platform (raw data for the force, moments of forces, and centers of pressure) of 163 subjects plus one file with information about the subjects and balance conditions and the results of the other evaluations. Subject’s balance was evaluated by posturography using a force platform and by the Mini Balance Evaluation Systems Tests in four conditions (standing still for 60 s on a rigid surface with eyes open; on a rigid surface with eyes closed; on an unstable surface with eyes open; on an unstable surface with eyes closed). Each condition was performed three times and the order of the conditions was randomized among subjects.</br>
   📄 [paper](https://peerj.com/articles/2648/) |
   📀 [dataset](https://figshare.com/articles/A_public_data_set_of_quantitative_and_qualitative_evaluations_of_human_balance/3394432) |
   💻 [website](http://pesquisa.ufabc.edu.br/bmclab/datasets/bds/) |
   ⭐ [resources](https://github.com/BMClab/datasets/tree/master/BDS) ⭐ 19 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-02-27
+
+* **Standing Balance Experiment with Long Duration Random Pulses Perturbation** by Huawei Wang and Ton van den Bogert (2020). The data-set includes the perturbation reaction data from eight subjects. Each subject performed four experiment trials, including two quiet standing and two perturbed trials. Each trial lasted five minutes for a total of 80 minutes quiet standing and 80 minutes perturbed standing data. Recorded information including three dimensional trajectories of thirty-two markers (27 on subjects' trunk and legs and 5 on the treadmill frame), six dimensional ground reaction forces, and nine Electromyography signals (EMGs, on subjects' right leg). [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3819630.svg)](https://doi.org/10.5281/zenodo.3819630) </br>
+  📄 [paper](https://doi.org/10.1016/j.jneumeth.2020.108580) |
+  📀 [dataset](https://zenodo.org/record/3819630#.X2JMTmhKgdU)
 
 * **PDS: A data set with kinematic and ground reaction forces of human balance** by Damiana dos Santos et al. (2017). This data set comprises signals from two force platforms (raw data for the force, moments of forces, and center of pressure) and the full-body three-dimensional kinematics of 49 subjects plus one file with meta data about the subjects and balance conditions and the results. </br>
   📄 [paper](https://peerj.com/articles/3626/) |
@@ -529,6 +529,11 @@ This section in under construction
 
 ### Running :running:
 
+* **CARL: a running recognition algorithm for free-living accelerometer data** by John J Davis IV et al. (2021). An activity recognition algorithm that can identify and extract bouts of running from raw accelerometry data collected anywhere on the torso or wrist. Written in MATLAB and accompanied by a dataset of 227 subjects equipped with wearable accelerometers performing a wide range of activities, including walking, running, cycling, sit-to-stand transitions, and more.\
+  📄 [paper](https://iopscience.iop.org/article/10.1088/1361-6579/ac41b8) |
+  📀 [dataset](https://figshare.com/articles/dataset/CARL_classifier_activity_recognition_data/17198275)
+  💾 [source](https://github.com/johnjdavisiv/carl) ⭐ 1 | 🐛 0 | 🌐 MATLAB | 📅 2021-12-17
+
 * **A public data set of running biomechanics and the effects of running speed on lower extremity kinematics and kinetics** by Reginaldo K. Fukuchi et al. (2017). The lower-extremity kinematics and kinetics data of 28 regular runners were collected using a three-dimensional (3D) motion-capture system and an instrumented treadmill while the subjects ran at 2.5 m/s, 3.5 m/s, and 4.5 m/s wearing standard neutral shoes.\
   📄 [paper](https://peerj.com/articles/3298) |
   📀 [dataset](https://figshare.com/articles/A_comprehensive_public_data_set_of_running_biomechanics_and_the_effects_of_running_speed_on_lower_extremity_kinematics_and_kinetics/4543435/4) |
@@ -553,11 +558,6 @@ This section in under construction
 * **Development and validation of FootNet; a new kinematic algorithm to improve foot-strike and toe-off detection in treadmill running** by Adrian R Rivadulla et al. (2021). Features (distal tibia anteroposterior velocity, ankle dorsi/plantar flexion angle, anteroposterior and vertical foot centre of mass velocities) and ground truth labels (vertical ground reaction forces) and notebooks for model development replication.\
   📄 [paper](https://doi.org/10.1371/journal.pone.0248608) |
   📀 [dataset](https://doi.org/10.15125/BATH-00965)
-
-* **CARL: a running recognition algorithm for free-living accelerometer data** by John J Davis IV et al. (2021). An activity recognition algorithm that can identify and extract bouts of running from raw accelerometry data collected anywhere on the torso or wrist. Written in MATLAB and accompanied by a dataset of 227 subjects equipped with wearable accelerometers performing a wide range of activities, including walking, running, cycling, sit-to-stand transitions, and more.\
-  📄 [paper](https://iopscience.iop.org/article/10.1088/1361-6579/ac41b8) |
-  📀 [dataset](https://figshare.com/articles/dataset/CARL_classifier_activity_recognition_data/17198275)
-  💾 [source](https://github.com/johnjdavisiv/carl) ⭐ 1 | 🐛 0 | 🌐 MATLAB | 📅 2021-12-17
 
 ### Instrumented Prostheses :chart\_with\_upwards\_trend:
 
@@ -589,15 +589,15 @@ This section in under construction
 
 ### Upper Limb Movements 💪
 
-* **Shoulder movements database** by Bart Bolsterlee et al. (2013). Data for five subjects (2 females, age 29.2 ± 2.3 year, height 176.3 ± 7.2 cm) performing range of motion and activities of daily living for the shoulder. Dataset includes kinematic, force and EMG data. A user guide and Matlab scripts are also available.</br>
-  📄 [paper](https://link.springer.com/article/10.1007%2Fs11517-013-1065-2) |
-  📀 [dataset](https://simtk.org/frs/?group_id=465) |
-  💻 [website](https://simtk.org/projects/dsem)
-
 * **Complete Inertial Pose (CIP) dataset** by M. Palermo et al. (2022). The CIP dataset is composed of 2 subsets, containing low-cost (MPU9250) and high-end (MTwAwinda) Magnetic, Angular Rate, and Gravity (MARG) sensor data respectively. Multiple trials were collected with 21 and 10 subjects respectively, performing 6 types of movements (ranging from calibration, to daily-activities, range-of-motion and random). It presents a high degree of variability and complex dynamics while containing common sources of error found on real conditions. This amounts to 3.5M samples, synchronized with a ground-truth inertial motion capture system (Xsens) at 60hz. </br>
   📄 [paper](https://arxiv.org/pdf/2202.06164.pdf) |
   📀 [dataset](https://doi.org/10.5281/zenodo.5801928) |
   ⭐ [code](https://github.com/ManuelPalermo/HumanInertialPose) ⭐ 75 | 🐛 4 | 🌐 Python | 📅 2022-02-15
+
+* **Shoulder movements database** by Bart Bolsterlee et al. (2013). Data for five subjects (2 females, age 29.2 ± 2.3 year, height 176.3 ± 7.2 cm) performing range of motion and activities of daily living for the shoulder. Dataset includes kinematic, force and EMG data. A user guide and Matlab scripts are also available.</br>
+  📄 [paper](https://link.springer.com/article/10.1007%2Fs11517-013-1065-2) |
+  📀 [dataset](https://simtk.org/frs/?group_id=465) |
+  💻 [website](https://simtk.org/projects/dsem)
 
 ### Hand :palms\_up\_together:
 
@@ -907,7 +907,7 @@ This section needs to be finalized.
 
 * **Drake** :dragon: by Russ Tedrake and the Drake Development Team (2019). C++ toolbox for analyzing the dynamics of our robots and building control systems for them, with a heavy emphasis on optimization-based design/analysis. Core development is now led by the Toyota Research Institute.\
   💻 [website](https://drake.mit.edu/) |
-  💾 [source](https://github.com/RobotLocomotion/drake) ⭐ 4,158 | 🐛 650 | 🌐 C++ | 📅 2026-08-24
+  💾 [source](https://github.com/RobotLocomotion/drake) ⭐ 4,158 | 🐛 648 | 🌐 C++ | 📅 2026-08-24
 
 * **Pinocchio** by Carpentier et al. (2019). Pinocchio is an open-source library (C++ with Python :snake: bindings) for efficiently computing the dynamics (and derivatives) of articulated rigid-body models (robot, avatars, skeletal models, etc.). It implements algorithms following the methods described in Featherstone's 2008 [book](https://www.springer.com/gp/book/9780387743141), and their derivatives.\
   📄 [paper](https://hal.archives-ouvertes.fr/hal-01866228) |
@@ -1305,8 +1305,8 @@ This section needs to be finalized.
 
 #### Tetrahedral meshers
 
-* [TetGen](http://wias-berlin.de/software/index.jsp?id=TetGen\&lang=1)
 * [NetGen](https://sourceforge.net/projects/netgen-mesher/) [source](https://github.com/NGSolve/netgen) ⭐ 388 | 🐛 116 | 🌐 C++ | 📅 2026-08-06
+* [TetGen](http://wias-berlin.de/software/index.jsp?id=TetGen\&lang=1)
 
 #### Hexahedral meshers
 
@@ -1388,6 +1388,13 @@ This section needs to be finalized.
 
 ### Finite Element Analysis Software
 
+* **FEBio** by Maas et al. (2012). FeBio is a software tool, developed by Jeffrey Weiss' lab and Gerard Ateshian's lab, for nonlinear finite element analysis in biomechanics and biophysics and is specifically focused on solving nonlinear large deformation problems in biomechanics and biophysics. Aside from structural mechanics, it can also solve problems in mixture mechanics (i.e. biphasic or multiphasic materials), fluid mechanics, reaction-diffusion, and heat transfer. It can also solve coupled physics problems, including fluid-solid interactions. `FEBio Studio` is the main software tool for developing, running, and analyzing FEBio models, offering a graphical user interface for interacting with the FEBio software. A Python wrapper `pyFEBio` is also available.</br>
+  📄 [paper](https://febio.org/site/uploads/maas_jbme_2012.pdf) |
+  💻 [website](https://febio.org/) |
+  💾 [source](https://github.com/febiosoftware) |
+  🐍 [pyFEBio](https://github.com/febiosoftware/pyfebio) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-08-11 |
+  🎥 [Youtube channel](https://www.youtube.com/channel/UCtOvJL14MB57hhNV-I3HIyQ)
+
 * [Abaqus](https://www.3ds.com/products-services/simulia/products/abaqus/) (commercial).
 
 * [Ansys](https://www.ansys.com/en-gb) (commercial).
@@ -1417,13 +1424,6 @@ This section needs to be finalized.
   📄 [Salome 7 leaflet](https://www.code-aster.org/UPLOAD/DOC/Presentation/Plaquette_SALOME_V7.pdf) |
   🎥 [tutorials](https://www.youtube.com/channel/UCWBV4PbsfizSkmcq88roGeQ/playlists) |
   🎥 [tutorials](https://www.youtube.com/watch?v=g9Kvv7PYF34\&list=PLvkU6i2iQ2frC7YB1A9Pqcfhwe9T3Vuy-)
-
-* **FEBio** by Maas et al. (2012). FeBio is a software tool, developed by Jeffrey Weiss' lab and Gerard Ateshian's lab, for nonlinear finite element analysis in biomechanics and biophysics and is specifically focused on solving nonlinear large deformation problems in biomechanics and biophysics. Aside from structural mechanics, it can also solve problems in mixture mechanics (i.e. biphasic or multiphasic materials), fluid mechanics, reaction-diffusion, and heat transfer. It can also solve coupled physics problems, including fluid-solid interactions. `FEBio Studio` is the main software tool for developing, running, and analyzing FEBio models, offering a graphical user interface for interacting with the FEBio software. A Python wrapper `pyFEBio` is also available.</br>
-  📄 [paper](https://febio.org/site/uploads/maas_jbme_2012.pdf) |
-  💻 [website](https://febio.org/) |
-  💾 [source](https://github.com/febiosoftware) |
-  🐍 [pyFEBio](https://github.com/febiosoftware/pyfebio) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-08-11 |
-  🎥 [Youtube channel](https://www.youtube.com/channel/UCtOvJL14MB57hhNV-I3HIyQ)
 
 ### Finite Element Libraries
 
@@ -1567,6 +1567,10 @@ This section needs to be improved.
 
 ## Reproducibility :gem:
 
+* **How to build a MATLAB dockerfile**: detailed instruction on how to run MATLAB in a container. Requires a license.</br>
+  💻 [instructions](https://github.com/mathworks-ref-arch/matlab-dockerfile) ⭐ 411 | 🐛 35 | 🌐 Python | 📅 2026-08-07 |
+  ⭐ [container including Mathworks dependencies (NO MATLAB)](https://hub.docker.com/r/mathworks/matlab-deps)
+
 * **Challenge to scientists: does your ten-year-old code still run?** by Jeffrey M. Perkel (2020). Article including a reproducibility checklist and other interesting considerations orinating from the `ten year challenge`. </br>
   📄 [paper](https://www.nature.com/articles/d41586-019-03366-x) |
   📄 [ten-years-challenge](https://rescience.github.io/ten-years/)
@@ -1601,10 +1605,6 @@ This section needs to be improved.
   * [Docker](https://www.docker.com/)
   * [Binder](https://mybinder.org/)
   * [Colab](https://colab.research.google.com/)
-
-* **How to build a MATLAB dockerfile**: detailed instruction on how to run MATLAB in a container. Requires a license.</br>
-  💻 [instructions](https://github.com/mathworks-ref-arch/matlab-dockerfile) ⭐ 411 | 🐛 35 | 🌐 Python | 📅 2026-08-07 |
-  ⭐ [container including Mathworks dependencies (NO MATLAB)](https://hub.docker.com/r/mathworks/matlab-deps)
 
 * **Resources that helps in choosing a license for shared resources**:
   * **[Choose a license](https://choosealicense.com/)** by GitHub Inc. This is a website with can help you choosing the license for your shared data based the intended use that you want to allow. </br>
@@ -1656,8 +1656,8 @@ This section needs to be improved.
 * [**Hugo**](https://gohugo.io/)
   * [**Hugo academic themes**](https://themes.gohugo.io/academic/)
 * [**Jekyll**](https://jekyllrb.com/)
+  * [**Jekyll theme for academic pages**](https://github.com/academicpages/academicpages.github.io) ⭐ 17,492 | 🐛 28 | 🌐 SCSS | 📅 2026-08-16
   * [**Minimal Mistakes**](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/)
-  * [**Jekyll theme for academic pages**](https://github.com/academicpages/academicpages.github.io) ⭐ 17,491 | 🐛 28 | 🌐 SCSS | 📅 2026-08-16
 * [**Pelican**](https://blog.getpelican.com/)
 * [**Substack**](https://substack.com/)
 * [**Weebly**](https://www.weebly.com/uk)
@@ -1779,7 +1779,7 @@ Feel free to send a pull request or open an Issue.
 
 ### How to contribute
 
-The easiest way to contribute to this list is by describing what you would like to add to the list [at this link](https://github.com/modenaxe/awesome-biomechanics/issues) ⭐ 1,006 | 🐛 209 | 📅 2026-04-10. Create a new `Issue` and add a weblink and a short description for the resource you have in mind. We will add the item for you.
+The easiest way to contribute to this list is by describing what you would like to add to the list [at this link](https://github.com/modenaxe/awesome-biomechanics/issues) ⭐ 1,007 | 🐛 209 | 📅 2026-04-10. Create a new `Issue` and add a weblink and a short description for the resource you have in mind. We will add the item for you.
 
 Alternatively, if you use Git or GitHub, feel free of contributing as by standard [GitHub workflow](https://guides.github.com/activities/forking/):
 
@@ -1790,7 +1790,7 @@ Alternatively, if you use Git or GitHub, feel free of contributing as by standar
 ### Resources for learning how to contribute
 
 * If you are not familiar with the Markdown format used in this document you can quickly learn it from cheatsheets [like this one](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) ⭐ 60,248 | 🐛 318 | 🌐 JavaScript | 📅 2025-08-22.
-* If you have used Git before but you are not familiar with GitHub, you can check resources like ["First Contributions"](https://github.com/firstcontributions/first-contributions) ⭐ 55,646 | 🐛 104 | 📅 2026-08-24 and learn how to contribute to existing projects.
+* If you have used Git before but you are not familiar with GitHub, you can check resources like ["First Contributions"](https://github.com/firstcontributions/first-contributions) ⭐ 55,647 | 🐛 104 | 📅 2026-08-24 and learn how to contribute to existing projects.
 * If you want to contribute but you are not familiar with [Git](https://git-scm.com/), the [Software Carpentry Lessons](https://swcarpentry.github.io/git-novice/) are a perfect place to start with Git and GitHub.
 
 ### Items suggested template
