@@ -101,7 +101,7 @@ See [how you can contribute](#contributing), it's easy!<!-- omit in toc -->
 
 ### Online Courses :clapper:
 
-* [Robotics 101: Computational Linear Algebra](https://robotics.umich.edu/2020/now-available-robotics-101-online/) by University of Michigan Robotics Institute (Fall 2020). The course includes [lecture videos](https://www.youtube.com/playlist?list=PLdPQZLMHRjDK8ZbLIcq1Q2PQobIi68dpv) and [GitHub resources](https://github.com/michiganrobotics/rob101) ⭐ 1,393 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-06-30, including the [lecture notes](https://github.com/michiganrobotics/rob101/tree/main/Lecture%20Notes) ⭐ 1,393 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-06-30.
+* [Robotics 101: Computational Linear Algebra](https://robotics.umich.edu/2020/now-available-robotics-101-online/) by University of Michigan Robotics Institute (Fall 2020). The course includes [lecture videos](https://www.youtube.com/playlist?list=PLdPQZLMHRjDK8ZbLIcq1Q2PQobIi68dpv) and [GitHub resources](https://github.com/michiganrobotics/rob101) ⭐ 1,396 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-06-30, including the [lecture notes](https://github.com/michiganrobotics/rob101/tree/main/Lecture%20Notes) ⭐ 1,396 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-06-30.
 * [Mathematical Tools for Neuroscience (Neurobio 212 at Harvard)](https://github.com/ebatty/MathToolsforNeuroscience) ⭐ 467 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2022-11-29 by Ella Batty et al. (2021).
 * [Neuromechanics course material](https://github.com/joshcash9/Neuromechanics_Course) ⭐ 51 | 🐛 0 | 📅 2025-06-04 by [Joshua Cashaback](https://github.com/joshcash9) (University of Delaware).
 * [Graduate Level Statistics Course with Biomedical Engineering Examples](https://github.com/joshcash9/Statistics_BME) ⭐ 33 | 🐛 0 | 📅 2022-11-15 by [Joshua Cashaback](https://github.com/joshcash9) (University of Delaware).
@@ -183,7 +183,7 @@ This section in under construction
 
 ### Teaching Resources :triangular\_ruler:
 
-* [Manim: Mathematical Animation Engine](https://github.com/3b1b/manim) ⭐ 92,151 | 🐛 490 | 🌐 Python | 📅 2026-08-18 by [Grant Sanderson](https://github.com/3b1b). Manim is an engine for precise programatic animations, designed for creating explanatory math videos similar to those presented in the contents of [3Blue1Brown](https://www.3blue1brown.com).
+* [Manim: Mathematical Animation Engine](https://github.com/3b1b/manim) ⭐ 92,154 | 🐛 490 | 🌐 Python | 📅 2026-08-18 by [Grant Sanderson](https://github.com/3b1b). Manim is an engine for precise programatic animations, designed for creating explanatory math videos similar to those presented in the contents of [3Blue1Brown](https://www.3blue1brown.com).
 * [Bayesian Data Analysis course](https://avehtari.github.io/BDA_course_Aalto) by AKi Vehtari at Aalto University (2020).</br>
   💾 [code](https://github.com/avehtari/BDA_course_Aalto) ⭐ 2,274 | 🐛 1 | 🌐 TeX | 📅 2026-08-27 |
   📄 [book](https://users.aalto.fi/~ave/BDA3.pdf)
@@ -810,7 +810,7 @@ This section needs to be finalized.
 
 * **FreeMoCap** by John Matthis. Free Motion Capture for Everyone.</br>
   💻 [website](https://freemocap.org/) |
-  💾 [source](https://github.com/freemocap/freemocap) ⭐ 10,101 | 🐛 167 | 🌐 TypeScript | 📅 2026-08-27
+  💾 [source](https://github.com/freemocap/freemocap) ⭐ 10,104 | 🐛 167 | 🌐 TypeScript | 📅 2026-08-27
 
 * **Pose2Sim** by David Pagnon. Markerless kinematics with any set of cameras — From 2D Pose estimation to 3D OpenSim motion.</br>
   💾 [source](https://github.com/perfanalytics/pose2sim) ⭐ 788 | 🐛 12 | 🌐 Python | 📅 2026-08-24
@@ -820,7 +820,7 @@ This section needs to be finalized.
 
 * **OpenCap** by Scott Uhlrich and Antoine Falisse. Human movement dynamics from smartphone videos.</br>
   💻 [website](https://www.opencap.ai/) |
-  💾 [source](https://github.com/stanfordnmbl/opencap-core) ⭐ 360 | 🐛 53 | 🌐 Python | 📅 2026-08-27 |
+  💾 [source](https://github.com/stanfordnmbl/opencap-core) ⭐ 360 | 🐛 54 | 🌐 Python | 📅 2026-08-27 |
   📄 [paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011462)
 
 ### Videoradiography (Model-based and Marker-based Tracking)
@@ -907,7 +907,7 @@ This section needs to be finalized.
 
 * **Drake** :dragon: by Russ Tedrake and the Drake Development Team (2019). C++ toolbox for analyzing the dynamics of our robots and building control systems for them, with a heavy emphasis on optimization-based design/analysis. Core development is now led by the Toyota Research Institute.\
   💻 [website](https://drake.mit.edu/) |
-  💾 [source](https://github.com/RobotLocomotion/drake) ⭐ 4,159 | 🐛 655 | 🌐 C++ | 📅 2026-08-28
+  💾 [source](https://github.com/RobotLocomotion/drake) ⭐ 4,159 | 🐛 655 | 🌐 C++ | 📅 2026-08-29
 
 * **Pinocchio** by Carpentier et al. (2019). Pinocchio is an open-source library (C++ with Python :snake: bindings) for efficiently computing the dynamics (and derivatives) of articulated rigid-body models (robot, avatars, skeletal models, etc.). It implements algorithms following the methods described in Featherstone's 2008 [book](https://www.springer.com/gp/book/9780387743141), and their derivatives.\
   📄 [paper](https://hal.archives-ouvertes.fr/hal-01866228) |
@@ -1220,7 +1220,7 @@ This section needs to be finalized.
   💾 [source](https://github.com/mikedh/trimesh) ⭐ 3,662 | 🐛 481 | 🌐 Python | 📅 2026-08-28
 
 * **gptoolbox - Geometry Processing Toolbox** by Alec Jacobson. This is a MATLAB toolbox of useful functions for geometry processing. There are also tools related to constrainted optimization and image processing. Typically these are utility functions that are not stand alone applications.<br>
-  [💻 website | 💾 source](https://github.com/alecjacobson/gptoolbox) ⭐ 678 | 🐛 75 | 🌐 MATLAB | 📅 2026-08-18
+  [💻 website | 💾 source](https://github.com/alecjacobson/gptoolbox) ⭐ 679 | 🐛 75 | 🌐 MATLAB | 📅 2026-08-18
 
 * [**Autodesk Netfabb**](https://www.autodesk.com/products/netfabb/overview)
 
@@ -1789,8 +1789,8 @@ Alternatively, if you use Git or GitHub, feel free of contributing as by standar
 
 ### Resources for learning how to contribute
 
-* If you are not familiar with the Markdown format used in this document you can quickly learn it from cheatsheets [like this one](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) ⭐ 60,248 | 🐛 318 | 🌐 JavaScript | 📅 2025-08-22.
-* If you have used Git before but you are not familiar with GitHub, you can check resources like ["First Contributions"](https://github.com/firstcontributions/first-contributions) ⭐ 55,724 | 🐛 150 | 📅 2026-08-28 and learn how to contribute to existing projects.
+* If you are not familiar with the Markdown format used in this document you can quickly learn it from cheatsheets [like this one](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) ⭐ 60,249 | 🐛 318 | 🌐 JavaScript | 📅 2025-08-22.
+* If you have used Git before but you are not familiar with GitHub, you can check resources like ["First Contributions"](https://github.com/firstcontributions/first-contributions) ⭐ 55,728 | 🐛 150 | 📅 2026-08-29 and learn how to contribute to existing projects.
 * If you want to contribute but you are not familiar with [Git](https://git-scm.com/), the [Software Carpentry Lessons](https://swcarpentry.github.io/git-novice/) are a perfect place to start with Git and GitHub.
 
 ### Items suggested template
@@ -1825,4 +1825,4 @@ To the extent possible under law, [Luca Modenese](https://uk.linkedin.com/in/luc
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

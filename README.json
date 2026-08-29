@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pilot course for Robotics 101: Computational Linear Algebra",
+                "homepage": null,
                 "id": 322342604,
                 "language": "Jupyter Notebook",
+                "license": "GPL-3.0",
                 "last_commit": "2023-06-30T18:56:03Z",
+                "open_issues": 1,
                 "owner": "michiganrobotics",
                 "repo": "rob101",
-                "stars": 1393
+                "stars": 1396,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -28,12 +33,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Materials for Mathematical Tools for Neuroscience course  at Harvard (Neurobio 212)",
+                "homepage": null,
                 "id": 299979242,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2022-11-29T19:34:35Z",
+                "open_issues": 4,
                 "owner": "ebatty",
                 "repo": "MathToolsforNeuroscience",
-                "stars": 467
+                "stars": 467,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -44,12 +54,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Neuromechanics_Course_2020",
+                "homepage": null,
                 "id": 262109988,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2025-06-04T14:43:51Z",
+                "open_issues": 0,
                 "owner": "joshcash9",
                 "repo": "Neuromechanics_Course",
-                "stars": 51
+                "stars": 51,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -60,12 +75,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Graduate Level Statistics Course with Biomedical Engineering Examples",
+                "homepage": null,
                 "id": 297328835,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2022-11-15T20:03:15Z",
+                "open_issues": 0,
                 "owner": "joshcash9",
                 "repo": "Statistics_BME",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -76,12 +96,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This will be the main source for BPK course",
+                "homepage": null,
                 "id": 272815636,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2020-08-23T14:47:19Z",
+                "open_issues": 0,
                 "owner": "patmorli",
                 "repo": "BPK-409",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -92,12 +117,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 320460259,
                 "language": "MATLAB",
+                "license": null,
                 "last_commit": "2022-02-03T04:22:21Z",
+                "open_issues": 0,
                 "owner": "Campbell-Muscle-Lab",
                 "repo": "teaching_PGY630_QM",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             }
@@ -117,12 +147,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official Matplotlib cheat sheets",
+                    "homepage": "https://matplotlib.org/cheatsheets/",
                     "id": 261515636,
                     "language": "Python",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2026-08-04T21:36:05Z",
+                    "open_issues": 16,
                     "owner": "matplotlib",
                     "repo": "cheatsheets",
-                    "stars": 7726
+                    "stars": 7726,
+                    "topics": [
+                      "cheatsheet",
+                      "matplotlib",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:58:26.375Z"
                 },
@@ -133,12 +172,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Lectures on scientific computing with python, as IPython notebooks.",
+                    "homepage": null,
                     "id": 6920160,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2026-06-02T22:19:39Z",
+                    "open_issues": 15,
                     "owner": "jrjohansson",
                     "repo": "scientific-python-lectures",
-                    "stars": 3649
+                    "stars": 3649,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:58:26.375Z"
                 },
@@ -149,12 +193,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Notes on Scientific Computing for Biomechanics and Motor Control",
+                    "homepage": null,
                     "id": 222027664,
                     "language": "Jupyter Notebook",
+                    "license": "CC-BY-4.0",
                     "last_commit": "2024-11-30T05:30:01Z",
+                    "open_issues": 1,
                     "owner": "demotu",
                     "repo": "BMC",
-                    "stars": 87
+                    "stars": 87,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:58:26.375Z"
                 }
@@ -172,12 +221,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Repository for 2020 American Society of Biomechanics Tutorial",
+                    "homepage": null,
                     "id": 274474453,
                     "language": "R",
+                    "license": "MIT",
                     "last_commit": "2021-10-17T14:49:41Z",
+                    "open_issues": 1,
                     "owner": "alcantarar",
                     "repo": "ASB_Tutorial",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:58:26.375Z"
                 }
@@ -200,12 +254,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Animation engine for explanatory math videos",
+                "homepage": null,
                 "id": 32689863,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-18T21:03:49Z",
+                "open_issues": 490,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 92151
+                "stars": 92154,
+                "topics": [
+                  "3b1b-videos",
+                  "animation",
+                  "explanatory-math-videos",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -216,12 +280,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bayesian Data Analysis course at Aalto",
+                "homepage": "https://avehtari.github.io/BDA_course_Aalto/",
                 "id": 147832355,
                 "language": "TeX",
+                "license": null,
                 "last_commit": "2026-08-27T09:59:20Z",
+                "open_issues": 1,
                 "owner": "avehtari",
                 "repo": "BDA_course_Aalto",
-                "stars": 2274
+                "stars": 2274,
+                "topics": [
+                  "bayes",
+                  "bayesian",
+                  "bayesian-data-analysis",
+                  "bayesian-inference",
+                  "bayesian-methods",
+                  "bayesian-workflow"
+                ]
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -232,12 +308,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A trajectory optimization library for Matlab",
+                "homepage": null,
                 "id": 40544279,
                 "language": "MATLAB",
+                "license": "MIT",
                 "last_commit": "2023-06-06T00:37:01Z",
+                "open_issues": 29,
                 "owner": "MatthewPeterKelly",
                 "repo": "OptimTraj",
-                "stars": 705
+                "stars": 705,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -248,12 +329,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Notes on Scientific Computing for Biomechanics and Motor Control",
+                "homepage": "https://bmclab.github.io/BMC/",
                 "id": 14129832,
                 "language": "Jupyter Notebook",
+                "license": "CC-BY-4.0",
                 "last_commit": "2026-08-26T16:20:18Z",
+                "open_issues": 2,
                 "owner": "BMClab",
                 "repo": "BMC",
-                "stars": 465
+                "stars": 465,
+                "topics": [
+                  "biomechanics",
+                  "biomedical-engineering",
+                  "jupyter-notebook",
+                  "motor-control",
+                  "python",
+                  "scientific-computing"
+                ]
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -264,12 +357,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dynamical systems modeling in Julia with 🐜 & 🐟",
+                "homepage": null,
                 "id": 345748188,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2022-09-14T22:04:09Z",
+                "open_issues": 0,
                 "owner": "adamlmaclean",
                 "repo": "julia-dynsys-resources",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -280,12 +378,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Workshop on Graphical User Interfaces for Research Software",
+                "homepage": "https://imperialcollegelondon.github.io/GUIs-for-RS/",
                 "id": 245473009,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-07-27T09:47:33Z",
+                "open_issues": 0,
                 "owner": "ImperialCollegeLondon",
                 "repo": "GUIs-for-RS",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "architectural-patterns",
+                  "design-patterns",
+                  "guis",
+                  "research-software-engineering"
+                ]
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -296,12 +404,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Selected notebooks on non-linear continuum mechanics",
+                "homepage": null,
                 "id": 358582630,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2025-05-27T14:20:45Z",
+                "open_issues": 0,
                 "owner": "Kevin-Mattheus-Moerman",
                 "repo": "NonlinearContinuumMechanics",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             }
@@ -327,12 +440,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Clone of the BodyParts3D/Anatomography 3D model files",
+                    "homepage": null,
                     "id": 399244773,
                     "language": "HTML",
+                    "license": "MIT",
                     "last_commit": "2024-10-16T13:57:29Z",
+                    "open_issues": 1,
                     "owner": "Kevin-Mattheus-Moerman",
                     "repo": "BodyParts3D",
-                    "stars": 132
+                    "stars": 132,
+                    "topics": [
+                      "3d-printing",
+                      "anatomy",
+                      "anatomy-ontology",
+                      "geometry",
+                      "geometry-processing",
+                      "graphics",
+                      "meshes",
+                      "stl"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:58:26.375Z"
                 },
@@ -343,12 +470,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code to create NIfTI images from the Visible Human raw image data.",
+                    "homepage": null,
                     "id": 274816375,
                     "language": "MATLAB",
+                    "license": null,
                     "last_commit": "2020-06-30T03:11:58Z",
+                    "open_issues": 0,
                     "owner": "bartbols",
                     "repo": "VH2NIfTI",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:58:26.375Z"
                 }
@@ -366,12 +498,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A large-scale dataset of both raw MRI measurements and clinical MRI images.",
+                    "homepage": "https://fastmri.org",
                     "id": 154900564,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-01-21T14:15:30Z",
+                    "open_issues": 18,
                     "owner": "facebookresearch",
                     "repo": "fastMRI",
-                    "stars": 1533
+                    "stars": 1533,
+                    "topics": [
+                      "convolutional-neural-networks",
+                      "deep-learning",
+                      "fastmri",
+                      "fastmri-challenge",
+                      "fastmri-dataset",
+                      "medical-imaging",
+                      "mri",
+                      "mri-reconstruction",
+                      "pytorch"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:58:26.375Z"
                 },
@@ -382,12 +529,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Data and code repository for analyzing talocrural morphology results linked to a publication in Scientific Reports. ",
+                    "homepage": null,
                     "id": 311497748,
                     "language": "MATLAB",
+                    "license": "CC0-1.0",
                     "last_commit": "2020-11-14T20:20:15Z",
+                    "open_issues": 0,
                     "owner": "Lenz-Lab",
                     "repo": "TalocruralShapeModeling",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:58:26.375Z"
                 },
@@ -403,12 +555,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Surface models of bones created from CT datasets of the open source VSDFullBody database hosted at www.smir.ch.",
+                        "homepage": null,
                         "id": 205371584,
                         "language": "MATLAB",
+                        "license": null,
                         "last_commit": "2023-11-26T11:27:36Z",
+                        "open_issues": 0,
                         "owner": "RWTHmediTEC",
                         "repo": "VSDFullBodyBoneModels",
-                        "stars": 13
+                        "stars": 13,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T21:58:26.375Z"
                     }
@@ -433,12 +590,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stuff related to the BMClab public datasets",
+                "homepage": "http://pesquisa.ufabc.edu.br/bmclab/datasets/",
                 "id": 54219650,
                 "language": "Jupyter Notebook",
+                "license": "CC-BY-4.0",
                 "last_commit": "2026-02-27T13:54:06Z",
+                "open_issues": 0,
                 "owner": "BMClab",
                 "repo": "datasets",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "biomechanics",
+                  "data",
+                  "data-science",
+                  "dataset",
+                  "gait",
+                  "running",
+                  "walk"
+                ]
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             }
@@ -456,12 +626,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stuff related to the BMClab public datasets",
+                "homepage": "http://pesquisa.ufabc.edu.br/bmclab/datasets/",
                 "id": 54219650,
                 "language": "Jupyter Notebook",
+                "license": "CC-BY-4.0",
                 "last_commit": "2026-02-27T13:54:06Z",
+                "open_issues": 0,
                 "owner": "BMClab",
                 "repo": "datasets",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "biomechanics",
+                  "data",
+                  "data-science",
+                  "dataset",
+                  "gait",
+                  "running",
+                  "walk"
+                ]
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -472,12 +655,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 246877242,
                 "language": "MATLAB",
+                "license": "MIT",
                 "last_commit": "2021-08-26T14:57:33Z",
+                "open_issues": 0,
                 "owner": "UF-ISE-HSE",
                 "repo": "UnevenWalkingSurface",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -488,12 +676,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A paper on an elaborate gait data set.",
+                "homepage": "https://peerj.com/articles/918/",
                 "id": 23321047,
                 "language": "TeX",
+                "license": null,
                 "last_commit": "2025-03-16T06:03:13Z",
+                "open_issues": 2,
                 "owner": "csu-hmc",
                 "repo": "perturbed-data-paper",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             }
@@ -511,12 +704,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The CARL classifier is a human activity recognition algorithm that identifies bouts of running in raw, free-living accelerometry data",
+                "homepage": null,
                 "id": 292718436,
                 "language": "MATLAB",
+                "license": null,
                 "last_commit": "2021-12-17T02:36:30Z",
+                "open_issues": 0,
                 "owner": "johnjdavisiv",
                 "repo": "carl",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             }
@@ -534,12 +732,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Human whole-body pose estimation using IMU+Magnetometer multi-sensor calibration and fusion",
+                "homepage": null,
                 "id": 429558457,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-02-15T18:29:03Z",
+                "open_issues": 4,
                 "owner": "ManuelPalermo",
                 "repo": "HumanInertialPose",
-                "stars": 75
+                "stars": 75,
+                "topics": [
+                  "calibration",
+                  "dataset",
+                  "human-pose-estimation",
+                  "imu",
+                  "inertial-sensors",
+                  "marg",
+                  "sensor-fusion"
+                ]
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             }
@@ -557,12 +768,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The availability of open-access and standard-format STA data will be useful for the evaluation and development of bone pose estimators thus contributing to the advancement of three-dimensional human movement analysis and its translation into the clinical practice and other applications. ",
+                "homepage": null,
                 "id": 81211109,
                 "language": "Matlab",
+                "license": null,
                 "last_commit": "2017-03-07T15:02:45Z",
+                "open_issues": 1,
                 "owner": "STAOpenData",
                 "repo": "Data",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             }
@@ -586,12 +802,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Tools to load, process and visualize motion capture data",
+                "homepage": null,
                 "id": 210951863,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-12-22T17:43:29Z",
+                "open_issues": 14,
                 "owner": "facebookresearch",
                 "repo": "fairmotion",
-                "stars": 636
+                "stars": 636,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -602,12 +823,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easy to use C3D reader/writer for C++, Python and Matlab",
+                "homepage": "https://pyomeca.github.io/Documentation/ezc3d/index.html",
                 "id": 131555942,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-23T21:29:13Z",
+                "open_issues": 3,
                 "owner": "pyomeca",
                 "repo": "ezc3d",
-                "stars": 182
+                "stars": 182,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -618,12 +844,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python toolbox for biomechanics analysis",
+                "homepage": "https://pyomeca.github.io/",
                 "id": 118513728,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-11T12:41:16Z",
+                "open_issues": 3,
                 "owner": "pyomeca",
                 "repo": "pyomeca",
-                "stars": 140
+                "stars": 140,
+                "topics": [
+                  "biomechanics",
+                  "biomechanics-analysis",
+                  "dynamics",
+                  "kinematics",
+                  "kinetics",
+                  "python",
+                  "xarray"
+                ]
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -634,12 +873,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Open-Source Python Package to Facilitate Research in Biomechanics",
+                "homepage": "https://kineticstoolkit.uqam.ca",
                 "id": 267454207,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-03T15:34:37Z",
+                "open_issues": 4,
                 "owner": "kineticstoolkit",
                 "repo": "kineticstoolkit",
-                "stars": 113
+                "stars": 113,
+                "topics": [
+                  "api",
+                  "biomechanics",
+                  "kinematics",
+                  "kinetics",
+                  "python",
+                  "toolbox"
+                ]
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -650,12 +901,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Core of the project to represent biomechanical data, file formats and data processing",
+                "homepage": null,
                 "id": 14070475,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2022-11-29T16:51:41Z",
+                "open_issues": 23,
                 "owner": "Biomechanical-ToolKit",
                 "repo": "BTKCore",
-                "stars": 92
+                "stars": 92,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -666,12 +922,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "implementation of an evolved conventional gait model",
+                "homepage": "https://pycgm2.github.io/pyCGM2/",
                 "id": 69740075,
                 "language": "Python",
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2026-07-30T10:01:50Z",
+                "open_issues": 9,
                 "owner": "pyCGM2",
                 "repo": "pyCGM2",
-                "stars": 61
+                "stars": 61,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -682,12 +943,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "biomechZoo is a user-customizable toolbox for the analysis of biomechanical data within the MatLab programming environment. Please take a look at the Wiki for setup information and user instructions.",
+                "homepage": "https://github.com/PhilD001/biomechZoo/wiki",
                 "id": 35629427,
                 "language": "MATLAB",
+                "license": "Apache-2.0",
                 "last_commit": "2024-12-19T14:36:51Z",
+                "open_issues": 13,
                 "owner": "PhilD001",
                 "repo": "biomechZoo",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -698,12 +964,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Matlab MOtion data elaboration TOolbox for NeuroMusculoSkeletal applications",
+                "homepage": "http://rehabenggroup.github.io/MOtoNMS",
                 "id": 19612974,
                 "language": "Matlab",
+                "license": "GPL-3.0",
                 "last_commit": "2020-03-28T10:44:48Z",
+                "open_issues": 2,
                 "owner": "RehabEngGroup",
                 "repo": "MOtoNMS",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -714,12 +985,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "All the binaries for Moveck Bridge, the new Biomechanical ToolKit with the same API and improvements!",
+                "homepage": null,
                 "id": 922323933,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2025-05-21T17:53:09Z",
+                "open_issues": 4,
                 "owner": "moveck-community",
                 "repo": "moveck_bridge_btk",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -730,12 +1006,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A platform for sharing movement analysis code and tutorials",
+                "homepage": "https://cmasuki.github.io/",
                 "id": 171451051,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2021-08-25T13:10:38Z",
+                "open_issues": 12,
                 "owner": "cmasuki",
                 "repo": "open-code",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -746,12 +1027,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python interface of C3Dserver software for reading and editing C3D motion capture files",
+                "homepage": null,
                 "id": 273492489,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-07-09T08:55:49Z",
+                "open_issues": 0,
                 "owner": "mkjung99",
                 "repo": "pyc3dserver",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "biomechanical-toolkit",
+                  "biomechanics",
+                  "c3d",
+                  "c3dserver",
+                  "kinematics",
+                  "mocap",
+                  "motion-analysis",
+                  "motion-capture",
+                  "python",
+                  "python3",
+                  "pywin32"
+                ]
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -762,12 +1060,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 302002826,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2022-03-15T15:49:23Z",
+                "open_issues": 0,
                 "owner": "adrianrivadulla",
                 "repo": "FootNet",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -778,12 +1081,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Correcting drift in ground reaction force data during treadmill running",
+                "homepage": "https://alcantarar.github.io/dryft",
                 "id": 134983624,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-04-08T21:07:06Z",
+                "open_issues": 2,
                 "owner": "alcantarar",
                 "repo": "dryft",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -796,12 +1104,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Matlab tools for motion capture analysis, including programmatically running OpenSim, and automatic gap-filling of data.",
+                    "homepage": null,
                     "id": 250660241,
                     "language": "MATLAB",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-01-04T16:34:23Z",
+                    "open_issues": 1,
                     "owner": "JonathanCamargo",
                     "repo": "MoCapTools",
-                    "stars": 61
+                    "stars": 61,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:58:26.375Z"
                 },
@@ -812,12 +1125,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Automatic labelling of motion capture markers",
+                    "homepage": null,
                     "id": 307807493,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-03-12T20:51:06Z",
+                    "open_issues": 1,
                     "owner": "aclouthier",
                     "repo": "auto-marker-label",
-                    "stars": 36
+                    "stars": 36,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:58:26.375Z"
                 },
@@ -828,12 +1146,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Low dimensional Kalman smoother that fills gaps in motion capture marker trajectories",
+                    "homepage": null,
                     "id": 126041136,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2017-02-21T16:45:01Z",
+                    "open_issues": 0,
                     "owner": "pyCGM2",
                     "repo": "MoGapFill",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:58:26.375Z"
                 }
@@ -851,12 +1174,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SimTK OpenSim C++ libraries and command-line applications, and Java/Python wrapping.",
+                    "homepage": "https://opensim.stanford.edu",
                     "id": 20775600,
                     "language": "C++",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-28T20:33:24Z",
+                    "open_issues": 396,
                     "owner": "opensim-org",
                     "repo": "opensim-core",
-                    "stars": 1104
+                    "stars": 1104,
+                    "topics": [
+                      "biological-simulations",
+                      "biomechanics",
+                      "computational-biology",
+                      "computational-science",
+                      "engineering",
+                      "musculoskeletal-models",
+                      "science",
+                      "simulation"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:58:26.375Z"
                 },
@@ -867,12 +1204,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Human whole-body pose estimation using IMU+Magnetometer multi-sensor calibration and fusion",
+                    "homepage": null,
                     "id": 429558457,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-02-15T18:29:03Z",
+                    "open_issues": 4,
                     "owner": "ManuelPalermo",
                     "repo": "HumanInertialPose",
-                    "stars": 75
+                    "stars": 75,
+                    "topics": [
+                      "calibration",
+                      "dataset",
+                      "human-pose-estimation",
+                      "imu",
+                      "inertial-sensors",
+                      "marg",
+                      "sensor-fusion"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:58:26.375Z"
                 },
@@ -883,12 +1233,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 204486230,
                     "language": "HTML",
+                    "license": "MIT",
                     "last_commit": "2024-06-17T22:54:05Z",
+                    "open_issues": 13,
                     "owner": "matt002",
                     "repo": "GaitPy",
-                    "stars": 44
+                    "stars": 44,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:58:26.375Z"
                 }
@@ -906,12 +1261,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Video solution for sport analysis. Capture, inspect, compare, annotate and measure technical performances. ",
+                    "homepage": "https://www.kinovea.org",
                     "id": 205388102,
                     "language": "C#",
+                    "license": "GPL-2.0",
                     "last_commit": "2026-08-23T19:01:42Z",
+                    "open_issues": 27,
                     "owner": "Kinovea",
                     "repo": "Kinovea",
-                    "stars": 490
+                    "stars": 490,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:58:26.375Z"
                 },
@@ -922,12 +1282,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Compute 2D human pose and angles from a video or a webcam. ",
+                    "homepage": "https://davidpagnon.github.io/Sports2D/",
                     "id": 634044634,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-08-25T09:40:29Z",
+                    "open_issues": 3,
                     "owner": "davidpagnon",
                     "repo": "Sports2D",
-                    "stars": 289
+                    "stars": 289,
+                    "topics": [
+                      "biomechanics",
+                      "blazepose",
+                      "coaching",
+                      "joint-angles",
+                      "kinematics",
+                      "kinovea",
+                      "markerless",
+                      "openpose",
+                      "pose-estimation",
+                      "rtmpose",
+                      "sports",
+                      "sports-analytics"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:58:26.375Z"
                 }
@@ -945,12 +1323,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Free Motion Capture for Everyone 💀✨",
+                    "homepage": "http://freemocap.org",
                     "id": 357362803,
                     "language": "TypeScript",
+                    "license": "AGPL-3.0",
                     "last_commit": "2026-08-27T17:30:42Z",
+                    "open_issues": 167,
                     "owner": "freemocap",
                     "repo": "freemocap",
-                    "stars": 10101
+                    "stars": 10104,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:58:26.375Z"
                 },
@@ -961,12 +1344,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Markerless kinematics with any cameras — From 2D Pose estimation to 3D OpenSim motion",
+                    "homepage": "https://perfanalytics.github.io/pose2sim/",
                     "id": 501642916,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-08-24T15:48:45Z",
+                    "open_issues": 12,
                     "owner": "perfanalytics",
                     "repo": "pose2sim",
-                    "stars": 788
+                    "stars": 788,
+                    "topics": [
+                      "3d-kinematics",
+                      "biomechanics",
+                      "blender",
+                      "coaching",
+                      "kinematics",
+                      "markerless",
+                      "mocap",
+                      "motion-capture",
+                      "openpose",
+                      "opensim",
+                      "pose-estimation",
+                      "sports"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:58:26.375Z"
                 },
@@ -977,12 +1378,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Main OpenCap processing pipeline",
+                    "homepage": null,
                     "id": 545650997,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-27T21:55:33Z",
+                    "open_issues": 54,
                     "owner": "opencap-org",
                     "repo": "opencap-core",
-                    "stars": 360
+                    "stars": 360,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:58:26.375Z"
                 }
@@ -1005,12 +1411,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Autoscoper is a 2D-3D image registration software package.",
+                "homepage": "https://autoscoper.readthedocs.io",
                 "id": 313353881,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-28T13:49:21Z",
+                "open_issues": 41,
                 "owner": "BrownBiomechanics",
                 "repo": "Autoscoper",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "autoscoper",
+                  "biomechanics",
+                  "cuda",
+                  "hpc-server",
+                  "medical-imaging",
+                  "radiography",
+                  "tracking"
+                ]
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             }
@@ -1034,12 +1453,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repositories contains code for automatic analysis of human lower limb ultrasonography images.",
+                "homepage": "https://paulritsche.github.io/DL_Track_US/",
                 "id": 564877795,
                 "language": "HTML",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-03T13:25:26Z",
+                "open_issues": 0,
                 "owner": "PaulRitsche",
                 "repo": "DL_Track_US",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -1050,12 +1474,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 176531709,
                 "language": "MATLAB",
+                "license": null,
                 "last_commit": "2021-03-04T13:09:04Z",
+                "open_issues": 1,
                 "owner": "joshrbaxter",
                 "repo": "ultrasound_tracking",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             }
@@ -1073,12 +1502,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatic muscle tendon junction tracking using deep learning 🦵🏼",
+                "homepage": "https://www.deepmtj.org/",
                 "id": 235801751,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-04-12T08:42:43Z",
+                "open_issues": 3,
                 "owner": "luuleitner",
                 "repo": "deepMTJ",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "deep-learning",
+                  "deepmtj",
+                  "feature-detection",
+                  "gait-analysis",
+                  "locomotion",
+                  "ultrasound-images"
+                ]
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -1089,12 +1530,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Trained networks for tracking MTJ position in B-mode ultrasound images using DeepLabCut",
+                "homepage": null,
                 "id": 331077127,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-01-29T06:32:17Z",
+                "open_issues": 1,
                 "owner": "rlkrup",
                 "repo": "MTJtrack",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             }
@@ -1118,12 +1564,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The human inertia model developed by Fred Yeadon in 1990.",
+                "homepage": "https://pypi.python.org/pypi/yeadon",
                 "id": 1913933,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-10T06:47:48Z",
+                "open_issues": 13,
                 "owner": "chrisdembia",
                 "repo": "yeadon",
-                "stars": 32
+                "stars": 32,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -1134,12 +1585,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repository of body segment parameter models",
+                "homepage": null,
                 "id": 50093360,
                 "language": "MATLAB",
+                "license": "Apache-2.0",
                 "last_commit": "2019-02-12T12:07:55Z",
+                "open_issues": 2,
                 "owner": "wspr",
                 "repo": "body-segment-param",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -1150,12 +1606,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Matlab implementation of Hatze's 1980 anthropometric body segment parameter model",
+                "homepage": null,
                 "id": 8307282,
                 "language": "Matlab",
+                "license": null,
                 "last_commit": "2017-07-22T13:22:01Z",
+                "open_issues": 1,
                 "owner": "wspr",
                 "repo": "hatze-biomech",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             }
@@ -1173,12 +1634,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.",
+                "homepage": "http://bulletphysics.org",
                 "id": 1605598,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2025-10-22T02:13:14Z",
+                "open_issues": 424,
                 "owner": "bulletphysics",
                 "repo": "bullet3",
-                "stars": 14703
+                "stars": 14703,
+                "topics": [
+                  "computer-animation",
+                  "game-development",
+                  "kinematics",
+                  "pybullet",
+                  "reinforcement-learning",
+                  "robotics",
+                  "simulation",
+                  "simulator",
+                  "virtual-reality"
+                ]
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -1189,12 +1665,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Model-based design and verification for robotics.",
+                "homepage": "https://drake.mit.edu",
                 "id": 16256144,
                 "language": "C++",
-                "last_commit": "2026-08-28T19:35:02Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T02:29:16Z",
+                "open_issues": 655,
                 "owner": "RobotLocomotion",
                 "repo": "drake",
-                "stars": 4159
+                "stars": 4159,
+                "topics": [
+                  "drake",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -1205,12 +1689,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A fast and flexible implementation of Rigid Body Dynamics algorithms and their analytical derivatives",
+                "homepage": "http://stack-of-tasks.github.io/pinocchio/",
                 "id": 24897645,
                 "language": "C++",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-08-28T08:01:08Z",
+                "open_issues": 110,
                 "owner": "stack-of-tasks",
                 "repo": "pinocchio",
-                "stars": 3690
+                "stars": 3690,
+                "topics": [
+                  "analytical-derivatives",
+                  "automatic-differentiation",
+                  "c-plus-plus",
+                  "casadi",
+                  "code-generation",
+                  "conda",
+                  "cppad",
+                  "dynamics",
+                  "fcl",
+                  "kinematics",
+                  "motion-planning",
+                  "pinocchio",
+                  "python",
+                  "rigid-body-dynamics",
+                  "robotics",
+                  "ros",
+                  "urdf"
+                ]
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -1221,12 +1728,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RBDL is a C++ library that contains some essential and efficient rigid body dynamics algorithms such as the Articulated Body Algorithm (ABA) for forward dynamics, Recursive Newton-Euler Algorithm (RNEA) for inverse dynamics, the Composite Rigid Body Algorithm (CRBA) for the efficient computation of the joint space inertia matrix and is also able to compute forward dynamics with external contact constraints and collision impulses. Furthermore it has some basic support for forward and inverse kinematics.",
+                "homepage": null,
                 "id": 208891294,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2025-06-09T20:32:53Z",
+                "open_issues": 33,
                 "owner": "rbdl",
                 "repo": "rbdl",
-                "stars": 705
+                "stars": 705,
+                "topics": [
+                  "articulated-body-algorithm",
+                  "forward-dynamics",
+                  "inverse-dynamics",
+                  "inverse-kinematics",
+                  "multi-body-dynamics",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -1237,12 +1756,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyDy tutorial materials for MASB 2014, PYCON 2014, and SciPy 2014/2015.",
+                "homepage": "http://pydy.org",
                 "id": 15756618,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2023-08-14T12:30:06Z",
+                "open_issues": 19,
                 "owner": "pydy",
                 "repo": "pydy-tutorial-human-standing",
-                "stars": 166
+                "stars": 166,
+                "topics": [
+                  "biomechanics",
+                  "dynamics",
+                  "engineering",
+                  "multibody-dynamics",
+                  "python",
+                  "simulation"
+                ]
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -1253,12 +1784,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Biomechanical add-ons to the RigidBody Dynamics Library",
+                "homepage": "https://pyomeca.github.io/Documentation/biorbd/index.html",
                 "id": 124423173,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-26T22:28:04Z",
+                "open_issues": 28,
                 "owner": "pyomeca",
                 "repo": "biorbd",
-                "stars": 84
+                "stars": 84,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -1269,12 +1805,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenSim to MuJoCo XML converter",
+                "homepage": null,
                 "id": 210795055,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-08-10T17:47:16Z",
+                "open_issues": 3,
                 "owner": "aikkala",
                 "repo": "O2MConverter",
-                "stars": 72
+                "stars": 72,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             }
@@ -1292,12 +1833,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source code for VIPER -- Volume Invariant Position-based Elastic Rods",
+                "homepage": null,
                 "id": 234961536,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2024-09-18T23:14:41Z",
+                "open_issues": 12,
                 "owner": "vcg-uvic",
                 "repo": "viper",
-                "stars": 921
+                "stars": 921,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -1308,12 +1854,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Matlab port of the Millard2012EquilibriumMuscle that is a part of OpenSim",
+                "homepage": null,
                 "id": 207772876,
                 "language": "MATLAB",
+                "license": "Apache-2.0",
                 "last_commit": "2019-09-11T10:11:11Z",
+                "open_issues": 0,
                 "owner": "mjhmilla",
                 "repo": "Millard2012EquilibriumMuscleMatlabPort",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -1324,12 +1875,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MyoSim model written in MATLAB",
+                "homepage": "https://campbell-muscle-lab.github.io/MATMyoSim",
                 "id": 259401531,
                 "language": "MATLAB",
+                "license": null,
                 "last_commit": "2022-07-26T17:05:49Z",
+                "open_issues": 5,
                 "owner": "Campbell-Muscle-Lab",
                 "repo": "MATMyoSim",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -1340,12 +1896,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple Matlab Hill-type leg-press simulation for a concentric knee extension",
+                "homepage": null,
                 "id": 221528042,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-11-30T22:17:44Z",
+                "open_issues": 0,
                 "owner": "haripen",
                 "repo": "KneeExt-Elastic",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             }
@@ -1363,12 +1924,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MyoSuite is a collection of environments/tasks to be solved by musculoskeletal models simulated with the MuJoCo physics engine and wrapped in the OpenAI gym API. ",
+                "homepage": "https://www.myosuite.org",
                 "id": 429080848,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T03:18:58Z",
+                "open_issues": 33,
                 "owner": "MyoHub",
                 "repo": "myosuite",
-                "stars": 1213
+                "stars": 1213,
+                "topics": [
+                  "machine-learning",
+                  "motor-control",
+                  "mujoco",
+                  "musculoskeletal"
+                ]
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -1379,12 +1950,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SimTK OpenSim C++ libraries and command-line applications, and Java/Python wrapping.",
+                "homepage": "https://opensim.stanford.edu",
                 "id": 20775600,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T20:33:24Z",
+                "open_issues": 396,
                 "owner": "opensim-org",
                 "repo": "opensim-core",
-                "stars": 1104
+                "stars": 1104,
+                "topics": [
+                  "biological-simulations",
+                  "biomechanics",
+                  "computational-biology",
+                  "computational-science",
+                  "engineering",
+                  "musculoskeletal-models",
+                  "science",
+                  "simulation"
+                ]
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -1395,12 +1980,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Core modules for ArtiSynth mechanical modeling system",
+                "homepage": null,
                 "id": 123522536,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-03T23:58:39Z",
+                "open_issues": 1,
                 "owner": "artisynth",
                 "repo": "artisynth_core",
-                "stars": 82
+                "stars": 82,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -1411,12 +2001,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open Source Software for Predictive Simulation of Biological Motion.",
+                "homepage": "https://scone.software",
                 "id": 55707710,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2021-03-09T11:46:44Z",
+                "open_issues": 1,
                 "owner": "opensim-org",
                 "repo": "SCONE",
-                "stars": 69
+                "stars": 69,
+                "topics": [
+                  "musculoskeletal-models",
+                  "optimization",
+                  "simulation",
+                  "tutorials"
+                ]
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -1427,12 +2027,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Public source code for AnimatLab neuromechanical simulator system",
+                "homepage": null,
                 "id": 10884987,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2016-10-04T13:18:30Z",
+                "open_issues": 0,
                 "owner": "NeuroRoboticTech",
                 "repo": "AnimatLabPublicSource",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -1443,12 +2048,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 131404946,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2025-12-04T11:06:14Z",
+                "open_issues": 0,
                 "owner": "wol101",
                 "repo": "GaitSym_2017",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             }
@@ -1466,12 +2076,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Real-time musculoskeletal kinematics and dynamics analysis using marker- and IMU-based solutions",
+                "homepage": null,
                 "id": 233922272,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2021-04-20T16:51:53Z",
+                "open_issues": 4,
                 "owner": "mitkof6",
                 "repo": "OpenSimRT",
-                "stars": 82
+                "stars": 82,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -1482,12 +2097,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The real-time OpenSim extension (RTOSIM) is a set of libraries in C++ that wrap OpenSim APIs to enable the real-time computation of inverse kinematics and inverse dynamics.",
+                "homepage": null,
                 "id": 61508597,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2022-02-17T07:24:41Z",
+                "open_issues": 14,
                 "owner": "RealTimeBiomechanics",
                 "repo": "rtosim",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             }
@@ -1505,12 +2125,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 139583129,
                 "language": "MATLAB",
+                "license": "GPL-3.0",
                 "last_commit": "2025-09-24T14:17:20Z",
+                "open_issues": 1,
                 "owner": "anmuller",
                 "repo": "CusToM",
-                "stars": 51
+                "stars": 51,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -1521,12 +2146,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Calibrated EMG-Informed Neuromusculoskeletal Modelling Toolbox (CEINMS)",
+                "homepage": "https://simtk.org/projects/ceinms",
                 "id": 35569396,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T10:32:00Z",
+                "open_issues": 3,
                 "owner": "CEINMS",
                 "repo": "CEINMS",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -1537,12 +2167,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An OpenSim Framework to Model and Simulate Articular Joint Mechanics",
+                "homepage": null,
                 "id": 203176449,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2020-08-05T14:16:43Z",
+                "open_issues": 2,
                 "owner": "clnsmith",
                 "repo": "opensim-jam",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -1553,12 +2188,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Methods for modeling, simulation and analysis of redundant musculoskeletal systems.",
+                "homepage": "https://simtk.org/projects/redundancy",
                 "id": 133844474,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2019-09-07T14:14:38Z",
+                "open_issues": 0,
                 "owner": "mitkof6",
                 "repo": "musculoskeletal-redundancy",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -1569,12 +2209,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Computing the task and joint stiffness using inverse methods that account for the musculoskeletal redundancy effects.",
+                "homepage": "https://simtk.org/projects/stiffness",
                 "id": 157207358,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2019-09-07T14:16:07Z",
+                "open_issues": 0,
                 "owner": "mitkof6",
                 "repo": "musculoskeletal-stiffness",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -1585,12 +2230,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 150794136,
                 "language": "MATLAB",
+                "license": null,
                 "last_commit": "2020-08-31T18:08:45Z",
+                "open_issues": 0,
                 "owner": "UMass-OpenSim",
                 "repo": "opensim-marker-place-toolbox",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             }
@@ -1608,12 +2258,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "We developed a method animating a statistical 3D human model for biomechanical analysis to increase accessibility for non-experts, like patients, athletes, or designers.",
+                "homepage": null,
                 "id": 315595675,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2021-12-15T15:46:23Z",
+                "open_issues": 3,
                 "owner": "mad-lab-fau",
                 "repo": "BASH-Model",
-                "stars": 94
+                "stars": 94,
+                "topics": [
+                  "3d-models",
+                  "animated",
+                  "biomechanics",
+                  "human-pose-estimation",
+                  "opensim",
+                  "scape",
+                  "statistical-model",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             }
@@ -1635,12 +2299,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Crocoddyl is an optimal control library for robot control under contact sequence. Its solver is based on various efficient Differential Dynamic Programming (DDP)-like algorithms",
+            "homepage": null,
             "id": 190190517,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-26T12:32:11Z",
+            "open_issues": 20,
             "owner": "loco-3d",
             "repo": "crocoddyl",
-            "stars": 1288
+            "stars": 1288,
+            "topics": [
+              "code-generation",
+              "conda",
+              "crocoddyl",
+              "differential-dynamic-programming",
+              "legged-robotics",
+              "model-predictive-control",
+              "motion-planning",
+              "optimal-control",
+              "robotics",
+              "ros",
+              "trajectory-optimization"
+            ]
           },
           "first_seen": "2026-08-28T21:58:26.375Z"
         },
@@ -1651,12 +2332,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast Robot Optimization and Simulation Toolkit (FROST)",
+            "homepage": "http://ayonga.github.io/frost-dev/",
             "id": 59134745,
             "language": "MATLAB",
+            "license": "NOASSERTION",
             "last_commit": "2023-11-29T14:57:08Z",
+            "open_issues": 11,
             "owner": "ayonga",
             "repo": "frost-dev",
-            "stars": 169
+            "stars": 169,
+            "topics": [
+              "bipedal",
+              "dynamic",
+              "hybrid",
+              "optimization",
+              "robotics",
+              "virtual-constraints"
+            ]
           },
           "first_seen": "2026-08-28T21:58:26.375Z"
         },
@@ -1667,12 +2360,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library for using direct collocation in the optimization of dynamic systems.",
+            "homepage": "http://opty.readthedocs.io",
             "id": 23703337,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-05T06:30:20Z",
+            "open_issues": 47,
             "owner": "csu-hmc",
             "repo": "opty",
-            "stars": 126
+            "stars": 126,
+            "topics": [
+              "collocation",
+              "optimal",
+              "optimal-control",
+              "optimization",
+              "parameter-estimation",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T21:58:26.375Z"
         },
@@ -1683,12 +2388,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An optimization framework that links CasADi, Ipopt, ACADOS and biorbd for Optimal Control Problem ",
+            "homepage": null,
             "id": 251615517,
             "language": "Python",
-            "last_commit": "2026-08-28T01:17:13Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T22:44:38Z",
+            "open_issues": 95,
             "owner": "pyomeca",
             "repo": "bioptim",
-            "stars": 120
+            "stars": 120,
+            "topics": [
+              "biomechanics",
+              "casadi",
+              "control",
+              "direct-collocation",
+              "direct-multiple-shooting",
+              "discrete-mechanics",
+              "dmoc",
+              "dmocc",
+              "fatigue-dynamics",
+              "forward-simulation",
+              "moving-horizon-estimation",
+              "musculoskeletal-model",
+              "musculoskeletal-simulations",
+              "optimal-control",
+              "robotics",
+              "stochastic-optimal-control"
+            ]
           },
           "first_seen": "2026-08-28T21:58:26.375Z"
         },
@@ -1699,12 +2426,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Solve optimal control problems for musculoskeletal models using OpenSim and direct collocation.",
+            "homepage": "https://opensim.stanford.edu/moco",
             "id": 81883038,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2025-04-10T19:23:37Z",
+            "open_issues": 0,
             "owner": "opensim-org",
             "repo": "opensim-moco",
-            "stars": 73
+            "stars": 73,
+            "topics": [
+              "biomechanics",
+              "motion",
+              "muscle-activity",
+              "optimal-control",
+              "optimization"
+            ]
           },
           "first_seen": "2026-08-28T21:58:26.375Z"
         },
@@ -1715,12 +2453,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate 3D muscle-driven predictive simulations of human movement using direct collocation and algorithmic differentiation",
+            "homepage": null,
             "id": 197883335,
             "language": "MATLAB",
+            "license": "MIT",
             "last_commit": "2022-06-21T00:57:24Z",
+            "open_issues": 0,
             "owner": "antoinefalisse",
             "repo": "3dpredictsim",
-            "stars": 46
+            "stars": 46,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:58:26.375Z"
         },
@@ -1731,12 +2474,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An algorithm to estimate muscle tendon properties and/or compute muscle coordination by tracking experimental data with a musculoskeletal model assuming optimal control to solve for the muscle redundancy.",
+            "homepage": null,
             "id": 223396031,
             "language": "MATLAB",
+            "license": null,
             "last_commit": "2024-09-25T13:16:54Z",
+            "open_issues": 3,
             "owner": "KULeuvenNeuromechanics",
             "repo": "MuscleRedundancySolver",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:58:26.375Z"
         }
@@ -1755,12 +2503,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Seg3D is a free volume segmentation and processing tool developed by the NIH Center for Integrative Biomedical Computing at the University of Utah Scientific Computing and Imaging (SCI) Institute.",
+                "homepage": null,
                 "id": 32550368,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2026-01-15T19:50:31Z",
+                "open_issues": 139,
                 "owner": "SCIInstitute",
                 "repo": "Seg3D",
-                "stars": 120
+                "stars": 120,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -1771,12 +2524,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MITK - Generate Models (MITK-GEM) is a free open-source software pipeline to generate finite element models from image data.",
+                "homepage": "https://simtk.org/home/mitk-gem",
                 "id": 47830473,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2020-12-10T16:45:03Z",
+                "open_issues": 11,
                 "owner": "araex",
                 "repo": "mitk-gem",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -1787,12 +2545,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SASHIMI segmentation is a Matlab App for semi-automatic interactive segmentation of multi-slice images.",
+                "homepage": null,
                 "id": 253689337,
                 "language": "MATLAB",
+                "license": "GPL-3.0",
                 "last_commit": "2021-10-21T09:26:03Z",
+                "open_issues": 3,
                 "owner": "bartbols",
                 "repo": "SASHIMI",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "image-processing",
+                  "image-registration",
+                  "matlab-app-designer",
+                  "matlab-gui",
+                  "mri-segmentation",
+                  "segmentation"
+                ]
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -1813,12 +2583,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Client side integration example source code and libraries for AI-Assisted Annotation SDK",
+                        "homepage": null,
                         "id": 167228756,
                         "language": "C++",
+                        "license": "NOASSERTION",
                         "last_commit": "2024-04-23T06:52:45Z",
+                        "open_issues": 5,
                         "owner": "NVIDIA",
                         "repo": "ai-assisted-annotation-client",
-                        "stars": 320
+                        "stars": 320,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T21:58:26.375Z"
                     },
@@ -1829,12 +2604,19 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Extension to import microCT data and conduct 3D morphometrics in Slicer",
+                        "homepage": "https://SlicerMorph.github.io",
                         "id": 178043116,
                         "language": "Python",
+                        "license": "BSD-2-Clause",
                         "last_commit": "2026-07-31T15:39:19Z",
+                        "open_issues": 31,
                         "owner": "SlicerMorph",
                         "repo": "SlicerMorph",
-                        "stars": 118
+                        "stars": 118,
+                        "topics": [
+                          "3d-slicer-extension"
+                        ]
                       },
                       "first_seen": "2026-08-28T21:58:26.375Z"
                     },
@@ -1845,12 +2627,22 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "An open-source, free comprehensive software that will allow biomedical scientists to precisely locate shape changes in their imaging studies. This software called Slicer Shape AnaLysis Toolbox (SlicerSALT), will enhance the intuitiveness and ease of use for such studies, as well as allow researchers to find shape changes with higher statistical power. Altogether this constitutes a crucial resource for the imaging field that will enable many and important new findings in biomedical imaging studies.",
+                        "homepage": "https://salt.slicer.org",
                         "id": 78465366,
                         "language": "Python",
+                        "license": "NOASSERTION",
                         "last_commit": "2026-03-06T01:07:42Z",
+                        "open_issues": 6,
                         "owner": "Kitware",
                         "repo": "SlicerSALT",
-                        "stars": 74
+                        "stars": 74,
+                        "topics": [
+                          "3d-slicer",
+                          "3d-slicer-custom-application",
+                          "kitware",
+                          "shape-analysis"
+                        ]
                       },
                       "first_seen": "2026-08-28T21:58:26.375Z"
                     }
@@ -1872,12 +2664,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Biomedisa is a free and open-source application for segmenting 3D images such as CT and MRI scans, developed at The Australian National University CTLab.",
+                "homepage": "https://biomedisa.info",
                 "id": 292224875,
                 "language": "HTML",
+                "license": "EUPL-1.2",
                 "last_commit": "2026-08-13T10:30:23Z",
+                "open_issues": 4,
                 "owner": "biomedisa",
                 "repo": "biomedisa",
-                "stars": 69
+                "stars": 69,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -1888,12 +2685,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Method for automatically segmenting trabecular and cortical bone in CT scans, using Avizo. ",
+                "homepage": null,
                 "id": 341621577,
                 "language": "ImageJ Macro",
+                "license": "MIT",
                 "last_commit": "2023-09-26T14:46:30Z",
+                "open_issues": 0,
                 "owner": "evaherbst",
                 "repo": "Trabecular_Segmentation_Avizo",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -1904,12 +2706,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 272547380,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2022-12-08T10:50:42Z",
+                "open_issues": 17,
                 "owner": "kathoma",
                 "repo": "AutomaticKneeMRISegmentation",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             }
@@ -1927,12 +2734,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The open source mesh processing system",
+                "homepage": "http://www.meshlab.net",
                 "id": 73027304,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-25T20:38:52Z",
+                "open_issues": 194,
                 "owner": "cnr-isti-vclab",
                 "repo": "meshlab",
-                "stars": 5804
+                "stars": 5804,
+                "topics": [
+                  "3d",
+                  "3d-models",
+                  "3d-printing",
+                  "3d-reconstruction",
+                  "3d-scanning",
+                  "mesh",
+                  "mesh-editing",
+                  "mesh-generation",
+                  "mesh-processing",
+                  "mesh-simplification",
+                  "point-cloud",
+                  "triangle-mesh"
+                ]
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -1943,12 +2768,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python library for loading and using triangular meshes.",
+                "homepage": "https://trimesh.org",
                 "id": 11745275,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T18:57:52Z",
+                "open_issues": 481,
                 "owner": "mikedh",
                 "repo": "trimesh",
-                "stars": 3662
+                "stars": 3662,
+                "topics": [
+                  "geometry",
+                  "mesh",
+                  "python",
+                  "triangular-meshes"
+                ]
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -1959,12 +2794,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Matlab toolbox for Geometry Processing.",
+                "homepage": null,
                 "id": 17057368,
                 "language": "MATLAB",
+                "license": "MIT",
                 "last_commit": "2026-08-18T20:42:17Z",
+                "open_issues": 75,
                 "owner": "alecjacobson",
                 "repo": "gptoolbox",
-                "stars": 678
+                "stars": 679,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -1980,12 +2820,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "preparing meshes for FEA using Blender",
+                    "homepage": null,
                     "id": 336249861,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2022-11-15T17:26:02Z",
+                    "open_issues": 0,
                     "owner": "evaherbst",
                     "repo": "Blender_remeshing_guide",
-                    "stars": 28
+                    "stars": 28,
+                    "topics": [
+                      "biomechanics",
+                      "blender",
+                      "finite-element-analysis",
+                      "finite-element-methods",
+                      "workflow"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:58:26.375Z"
                 }
@@ -2005,12 +2856,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "STAPLE (Shared Tools for Automatic Personalised Lower Extremity modelling) consists of a collection of methods for generating skeletal models from three-dimensional bone geometries, usually segmented from medical images. The methods are currently being expanded to create complete musculoskeletal models.",
+                "homepage": null,
                 "id": 196235819,
                 "language": "MATLAB",
+                "license": "NOASSERTION",
                 "last_commit": "2024-08-19T18:52:51Z",
+                "open_issues": 38,
                 "owner": "modenaxe",
                 "repo": "msk-STAPLE",
-                "stars": 64
+                "stars": 64,
+                "topics": [
+                  "biomechanics",
+                  "bone-geometries",
+                  "bone-morphological-analysis",
+                  "computational-biology",
+                  "computer-science",
+                  "kinematics",
+                  "kinetics",
+                  "lower-limb-models",
+                  "openscience",
+                  "science",
+                  "skeleton"
+                ]
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -2021,12 +2889,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scripts and models to optimize musculotendon parameters in musculoskeletal models.",
+                "homepage": "https://simtk.org/projects/opt_muscle_par",
                 "id": 193260109,
                 "language": "MATLAB",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-16T02:21:54Z",
+                "open_issues": 9,
                 "owner": "modenaxe",
                 "repo": "MuscleParamOptimizer",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "bioengineering",
+                  "biomechanics",
+                  "matlab",
+                  "muscle",
+                  "muscle-parameters",
+                  "musculoskeletal-models",
+                  "musculotendon-parameters",
+                  "opensim",
+                  "optimization-technique",
+                  "scientific-publications",
+                  "scientific-research"
+                ]
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -2037,12 +2922,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Matlab/Octave toolbox to create human body models",
+                "homepage": null,
                 "id": 113844173,
                 "language": "Matlab",
+                "license": "NOASSERTION",
                 "last_commit": "2018-01-08T13:09:53Z",
+                "open_issues": 1,
                 "owner": "manishsreenivasa",
                 "repo": "ModelFactory",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -2053,12 +2943,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source toolchain to create patient-specific models from MRI images",
+                "homepage": null,
                 "id": 51757104,
                 "language": "Matlab",
+                "license": "NOASSERTION",
                 "last_commit": "2016-02-15T13:28:06Z",
+                "open_issues": 0,
                 "owner": "manishsreenivasa",
                 "repo": "mri2psm",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             }
@@ -2076,12 +2971,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatic creation of anatomical coordinate system on the knee bones (Femur, Patella and Tibia)",
+                "homepage": null,
                 "id": 96542201,
                 "language": "MATLAB",
+                "license": "NOASSERTION",
                 "last_commit": "2021-01-16T10:20:33Z",
+                "open_issues": 1,
                 "owner": "renaultJB",
                 "repo": "GIBOC-Knee-Coordinate-System",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "bones",
+                  "coordinate-systems",
+                  "femur",
+                  "kinematics",
+                  "knee",
+                  "orthopaedic",
+                  "stl",
+                  "tibia"
+                ]
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -2092,12 +3001,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MATLAB function for the automatic identification of pelvic landmarks and coordinate systems on surface models of the pelvis.",
+                "homepage": null,
                 "id": 205870632,
                 "language": "MATLAB",
+                "license": null,
                 "last_commit": "2023-11-25T12:29:29Z",
+                "open_issues": 0,
                 "owner": "RWTHmediTEC",
                 "repo": "PelvicLandmarkIdentification",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -2108,12 +3022,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MATLAB implementation of Subburaj's curvature/spatial relation matrix method for the automatic identification of pelvic landmarks",
+                "homepage": null,
                 "id": 206028112,
                 "language": "MATLAB",
+                "license": null,
                 "last_commit": "2019-09-03T08:43:02Z",
+                "open_issues": 0,
                 "owner": "RWTHmediTEC",
                 "repo": "PelvicLandmarkIdentification_Subburaj",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             }
@@ -2133,12 +3052,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": "https://ngsolve.org",
                     "id": 97575728,
                     "language": "C++",
+                    "license": "LGPL-2.1",
                     "last_commit": "2026-08-26T10:36:54Z",
+                    "open_issues": 116,
                     "owner": "NGSolve",
                     "repo": "netgen",
-                    "stars": 387
+                    "stars": 387,
+                    "topics": [
+                      "mesh-generator"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:58:26.375Z"
                 }
@@ -2156,12 +3082,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Robust Tetrahedral Meshing in the Wild.",
+                    "homepage": "https://yixin-hu.github.io/tetwild.pdf",
                     "id": 128119974,
                     "language": "C++",
+                    "license": "GPL-3.0",
                     "last_commit": "2023-04-27T19:09:59Z",
+                    "open_issues": 31,
                     "owner": "Yixin-Hu",
                     "repo": "TetWild",
-                    "stars": 721
+                    "stars": 721,
+                    "topics": [
+                      "3d-triangulation",
+                      "geometry-processing",
+                      "surface-repair",
+                      "tetrahedral-meshing"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:58:26.375Z"
                 },
@@ -2172,12 +3108,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Fast Tetrahedral Meshing in the Wild",
+                    "homepage": "https://yixin-hu.github.io/ftetwild.pdf",
                     "id": 202774685,
                     "language": "C++",
+                    "license": "MPL-2.0",
                     "last_commit": "2026-05-05T14:12:15Z",
+                    "open_issues": 37,
                     "owner": "wildmeshing",
                     "repo": "fTetWild",
-                    "stars": 596
+                    "stars": 596,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:58:26.375Z"
                 }
@@ -2202,12 +3143,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Creating a 3D Shape Atlas",
+                    "homepage": null,
                     "id": 576361770,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-07-28T14:27:49Z",
+                    "open_issues": 0,
                     "owner": "nimirz",
                     "repo": "ShapeAtlas",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:58:26.375Z"
                 },
@@ -2218,12 +3164,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Scalable Image Analysis and Shape Modelling",
+                    "homepage": "https://scalismo.org",
                     "id": 30758554,
                     "language": "Scala",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-07-31T14:43:27Z",
+                    "open_issues": 9,
                     "owner": "unibas-gravis",
                     "repo": "scalismo",
-                    "stars": 268
+                    "stars": 268,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:58:26.375Z"
                 },
@@ -2234,12 +3185,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ShapeWorks",
+                    "homepage": "http://sciinstitute.github.io/ShapeWorks/",
                     "id": 10202730,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-28T18:14:10Z",
+                    "open_issues": 157,
                     "owner": "SCIInstitute",
                     "repo": "ShapeWorks",
-                    "stars": 133
+                    "stars": 133,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:58:26.375Z"
                 },
@@ -2250,12 +3206,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Shape analysis has become of increasing interest to the medical community due to its potential to precisely locate morphological changes between healthy and pathological structures. SPHARM-PDM is a tool that computes point-based models using a parametric boundary description for the computing of Shape analysis. ",
+                    "homepage": "http://www.nitrc.org/projects/spharm-pdm",
                     "id": 24959031,
                     "language": "C++",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-23T18:52:03Z",
+                    "open_issues": 10,
                     "owner": "NIRALUser",
                     "repo": "SPHARM-PDM",
-                    "stars": 57
+                    "stars": 57,
+                    "topics": [
+                      "3d-models",
+                      "3d-slicer-extension",
+                      "decomposition",
+                      "spherical-harmonics"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:58:26.375Z"
                 }
@@ -2284,12 +3250,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Python API for the FEBio Finite Element Solver",
+                "homepage": "https://febiosoftware.github.io/pyfebio/",
                 "id": 1091927732,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-25T19:26:31Z",
+                "open_issues": 0,
                 "owner": "febiosoftware",
                 "repo": "pyfebio",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             }
@@ -2307,12 +3278,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Grid-based approximation of partial differential equations in Julia",
+                "homepage": null,
                 "id": 175801898,
                 "language": "Julia",
+                "license": "MIT",
                 "last_commit": "2026-08-26T02:22:52Z",
+                "open_issues": 118,
                 "owner": "gridap",
                 "repo": "Gridap.jl",
-                "stars": 875
+                "stars": 875,
+                "topics": [
+                  "finite-elements",
+                  "gridap",
+                  "julia",
+                  "numerical-methods",
+                  "partial-differential-equations",
+                  "pdes"
+                ]
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -2323,12 +3306,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Finite element toolbox for Julia",
+                "homepage": "https://ferrite-fem.github.io",
                 "id": 41787768,
                 "language": "Julia",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T12:35:41Z",
+                "open_issues": 216,
                 "owner": "Ferrite-FEM",
                 "repo": "Ferrite.jl",
-                "stars": 450
+                "stars": 450,
+                "topics": [
+                  "finite-elements",
+                  "hacktoberfest",
+                  "julia",
+                  "julialang",
+                  "partial-differential-equations"
+                ]
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -2339,12 +3333,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Geometry and Image-Based Bioengineering add-On for MATLAB",
+                "homepage": "http://gibboncode.org/",
                 "id": 93002532,
                 "language": "MATLAB",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-21T11:47:32Z",
+                "open_issues": 11,
                 "owner": "gibbonCode",
                 "repo": "GIBBON",
-                "stars": 218
+                "stars": 218,
+                "topics": [
+                  "finite-element-analysis",
+                  "geometry",
+                  "matlab",
+                  "segmentation",
+                  "tetgen",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -2355,12 +3361,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Julia package for computational (bio)mechanics and computational design",
+                "homepage": null,
                 "id": 119415832,
                 "language": "Julia",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T12:27:48Z",
+                "open_issues": 2,
                 "owner": "COMODO-research",
                 "repo": "Comodo.jl",
-                "stars": 76
+                "stars": 76,
+                "topics": [
+                  "biomechanics",
+                  "computational-mechanics",
+                  "design",
+                  "finite-element-analysis",
+                  "geometry-processing"
+                ]
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -2371,12 +3388,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An ABAQUS plug-in to map bone properties from CT scans to 3D finite element bone/implant models ",
+                "homepage": null,
                 "id": 12804747,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-03-06T12:08:16Z",
+                "open_issues": 0,
                 "owner": "mhogg",
                 "repo": "bonemapy",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -2387,12 +3409,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Package to interface OpenSim musculoskeletal models with finite element packages",
+                "homepage": "https://simtk.org/projects/force_direction",
                 "id": 192952455,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2025-04-16T02:25:12Z",
+                "open_issues": 18,
                 "owner": "modenaxe",
                 "repo": "MuscleForceDirection",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "biomechanics",
+                  "cpp",
+                  "matlab",
+                  "opensim"
+                ]
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -2403,12 +3435,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Assign material properties of bone to a finite element mesh",
+                "homepage": null,
                 "id": 40310678,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-11-17T19:15:06Z",
+                "open_issues": 4,
                 "owner": "elisepegg",
                 "repo": "py_bonemat_abaqus",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -2419,12 +3456,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lumbar Model Generator",
+                "homepage": "https://celavecchia.github.io/LMG/",
                 "id": 95579561,
                 "language": "Matlab",
+                "license": "BSD-3-Clause",
                 "last_commit": "2017-07-28T18:29:07Z",
+                "open_issues": 1,
                 "owner": "CELavecchia",
                 "repo": "LMG",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "biomechanics",
+                  "computational-modeling",
+                  "febio",
+                  "matlab",
+                  "spine",
+                  "toolbox"
+                ]
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             }
@@ -2446,12 +3495,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " One-Dimensional Statistical Parametric Mapping in Python",
+            "homepage": null,
             "id": 21195894,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-02-24T06:57:39Z",
+            "open_issues": 5,
             "owner": "0todd0000",
             "repo": "spm1d",
-            "stars": 75
+            "stars": 75,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:58:26.375Z"
         },
@@ -2462,12 +3516,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PCA of Waveforms and Functional PCA: A Primer for Biomechanics.",
+            "homepage": null,
             "id": 252880049,
             "language": "HTML",
+            "license": null,
             "last_commit": "2020-11-02T12:27:40Z",
+            "open_issues": 0,
             "owner": "johnwarmenhoven",
             "repo": "PCA-FPCA",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:58:26.375Z"
         },
@@ -2478,12 +3537,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 93690205,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-12-10T10:45:53Z",
+            "open_issues": 1,
             "owner": "0todd0000",
             "repo": "power1d",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:58:26.375Z"
         }
@@ -2500,12 +3564,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A \"batteries-included\" distribution of ImageJ :battery:",
+            "homepage": "https://fiji.sc/",
             "id": 1611777,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-18T04:02:29Z",
+            "open_issues": 138,
             "owner": "fiji",
             "repo": "fiji",
-            "stars": 1012
+            "stars": 1012,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:58:26.375Z"
         },
@@ -2516,12 +3585,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Public domain software for processing and analyzing scientific images",
+            "homepage": "http://imagej.org",
             "id": 2136580,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-22T16:14:44Z",
+            "open_issues": 89,
             "owner": "imagej",
             "repo": "ImageJ",
-            "stars": 781
+            "stars": 781,
+            "topics": [
+              "computer-vision",
+              "image-processing"
+            ]
           },
           "first_seen": "2026-08-28T21:58:26.375Z"
         },
@@ -2532,12 +3609,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SPIERS Software - Visualisation of tomographic data",
+            "homepage": "https://spiers-software.org/",
             "id": 154648916,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-26T13:43:40Z",
+            "open_issues": 11,
             "owner": "palaeoware",
             "repo": "SPIERS",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "3d-reconstruction",
+              "isosurface",
+              "open-source",
+              "qt5",
+              "segmentation",
+              "tomographic-images",
+              "tomography"
+            ]
           },
           "first_seen": "2026-08-28T21:58:26.375Z"
         }
@@ -2554,12 +3644,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create a docker container that contains a MATLAB install",
+            "homepage": null,
             "id": 211346419,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T15:30:09Z",
+            "open_issues": 35,
             "owner": "mathworks-ref-arch",
             "repo": "matlab-dockerfile",
-            "stars": 412
+            "stars": 412,
+            "topics": [
+              "matlab",
+              "matlab-docker"
+            ]
           },
           "first_seen": "2026-08-28T21:58:26.375Z"
         }
@@ -2583,12 +3681,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.",
+                    "homepage": "https://academicpages.github.io",
                     "id": 68287594,
                     "language": "SCSS",
+                    "license": "MIT",
                     "last_commit": "2026-08-16T14:36:12Z",
+                    "open_issues": 28,
                     "owner": "academicpages",
                     "repo": "academicpages.github.io",
-                    "stars": 17508
+                    "stars": 17508,
+                    "topics": [
+                      "academic-website",
+                      "github-pages",
+                      "jekyll",
+                      "jekyll-theme",
+                      "markdown",
+                      "personal-website",
+                      "portfolio-website"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:58:26.375Z"
                 }
@@ -2612,12 +3723,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Information of public available data sets for biomechanics.",
+            "homepage": null,
             "id": 274867331,
             "language": null,
+            "license": null,
             "last_commit": "2025-08-11T15:13:29Z",
+            "open_issues": 0,
             "owner": "mkjung99",
             "repo": "biomechanics_dataset",
-            "stars": 108
+            "stars": 108,
+            "topics": [
+              "biomechanics",
+              "c3d",
+              "dataset",
+              "datasets",
+              "dynamics",
+              "human",
+              "kinematics",
+              "mocap"
+            ]
           },
           "first_seen": "2026-08-28T21:58:26.375Z"
         }
@@ -2634,12 +3759,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ubisoft La Forge Animation Dataset",
+            "homepage": null,
             "id": 255640365,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-09-10T09:16:51Z",
+            "open_issues": 8,
             "owner": "ubisoft",
             "repo": "ubisoft-laforge-animation-dataset",
-            "stars": 1568
+            "stars": 1568,
+            "topics": [
+              "character-animation",
+              "motion-capture-data"
+            ]
           },
           "first_seen": "2026-08-28T21:58:26.375Z"
         },
@@ -2650,12 +3783,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Well-documented Python demonstrations for spatial data analytics, geostatistical and machine learning to support my courses.",
+            "homepage": null,
             "id": 106843586,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-03-03T17:49:37Z",
+            "open_issues": 15,
             "owner": "GeostatsGuy",
             "repo": "PythonNumericalDemos",
-            "stars": 1474
+            "stars": 1474,
+            "topics": [
+              "datanalytics",
+              "geostatistics",
+              "machine-learning",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T21:58:26.375Z"
         },
@@ -2666,12 +3809,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of Pyomo examples",
+            "homepage": null,
             "id": 29282167,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2025-03-11T22:14:16Z",
+            "open_issues": 9,
             "owner": "Pyomo",
             "repo": "pyomo-gallery",
-            "stars": 316
+            "stars": 316,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:58:26.375Z"
         },
@@ -2682,12 +3830,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A motor unit based model of skeletal muscle and fatigue",
+            "homepage": null,
             "id": 115896180,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-02-25T18:21:36Z",
+            "open_issues": 5,
             "owner": "iandanforth",
             "repo": "pymuscle",
-            "stars": 70
+            "stars": 70,
+            "topics": [
+              "agent-based-simulation",
+              "machine-learning",
+              "neuroscience",
+              "physiology"
+            ]
           },
           "first_seen": "2026-08-28T21:58:26.375Z"
         },
@@ -2698,12 +3856,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Optimization on a muscle-driven 2D gait model",
+            "homepage": null,
             "id": 23588610,
             "language": "Matlab",
+            "license": null,
             "last_commit": "2018-04-24T22:54:37Z",
+            "open_issues": 1,
             "owner": "csu-hmc",
             "repo": "optim2d",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:58:26.375Z"
         },
@@ -2714,12 +3877,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 116216300,
             "language": "MATLAB",
+            "license": null,
             "last_commit": "2020-06-29T01:47:14Z",
+            "open_issues": 1,
             "owner": "anagamori",
             "repo": "Motor-Unit-Model-Fuglevand",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:58:26.375Z"
         },
@@ -2730,12 +3898,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Interactive Canvas in Jupyter",
+            "homepage": "https://ipycanvas.readthedocs.io/en/latest/",
             "id": 653527862,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-01T08:39:26Z",
+            "open_issues": 0,
             "owner": "martinRenou",
             "repo": "ipycanvas",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:58:26.375Z"
         },
@@ -2746,12 +3919,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simulator for virtual experiments on motor unit system",
+            "homepage": null,
             "id": 124719563,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2020-12-03T07:36:48Z",
+            "open_issues": 1,
             "owner": "NMSL-DGIST",
             "repo": "PyMUS",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:58:26.375Z"
         }
@@ -2770,12 +3948,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.",
+                "homepage": "https://markdown-here.com",
                 "id": 4311796,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-08-22T00:21:50Z",
+                "open_issues": 318,
                 "owner": "adam-p",
                 "repo": "markdown-here",
-                "stars": 60248
+                "stars": 60249,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             },
@@ -2786,12 +3969,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🚀✨ Help beginners to contribute to open source projects",
+                "homepage": "https://firstcontributions.github.io",
                 "id": 68720867,
                 "language": null,
-                "last_commit": "2026-08-28T21:03:05Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T02:06:44Z",
+                "open_issues": 150,
                 "owner": "firstcontributions",
                 "repo": "first-contributions",
-                "stars": 55724
+                "stars": 55728,
+                "topics": [
+                  "beginner",
+                  "beginner-friendly",
+                  "contribute",
+                  "contribution",
+                  "contributions-welcome",
+                  "good-first-contribution",
+                  "good-first-issue",
+                  "good-first-pr",
+                  "open-source",
+                  "tutorial"
+                ]
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
             }
@@ -2805,15 +4004,38 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:58:26.375Z",
+    "last_updated": "2026-08-29T04:35:56.163Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated, public list of resources for biomechanics and human motion analysis: datasets, processing tools,  software for simulation, educational videos, lectures, etc.",
+      "homepage": null,
       "id": 287581924,
       "language": null,
+      "license": null,
       "last_commit": "2026-04-10T16:20:10Z",
+      "open_issues": 209,
       "owner": "modenaxe",
       "repo": "awesome-biomechanics",
-      "stars": 1009
+      "stars": 1009,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "bioengineering",
+        "biomechanics",
+        "computer-simulation",
+        "dataset",
+        "dynamics",
+        "gait",
+        "gait-analysis",
+        "human-motion",
+        "human-motion-analysis",
+        "motion",
+        "motion-capture",
+        "motion-tracking",
+        "musculoskeletal-models",
+        "musculoskeletal-simulations",
+        "science"
+      ]
     },
     "original_repository_sha": "de83e6dc2affb15d8672c7367b109e8e7c7ccc20",
     "enhanced_repository": "enhansome/enhansome-biomechanics",
