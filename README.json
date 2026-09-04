@@ -21,7 +21,7 @@
                 "open_issues": 1,
                 "owner": "michiganrobotics",
                 "repo": "rob101",
-                "stars": 1431,
+                "stars": 1462,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
@@ -156,7 +156,7 @@
                     "open_issues": 16,
                     "owner": "matplotlib",
                     "repo": "cheatsheets",
-                    "stars": 7728,
+                    "stars": 7729,
                     "topics": [
                       "cheatsheet",
                       "matplotlib",
@@ -181,7 +181,7 @@
                     "open_issues": 15,
                     "owner": "jrjohansson",
                     "repo": "scientific-python-lectures",
-                    "stars": 3649,
+                    "stars": 3648,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:58:26.375Z"
@@ -263,7 +263,7 @@
                 "open_issues": 494,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 92965,
+                "stars": 93036,
                 "topics": [
                   "3b1b-videos",
                   "animation",
@@ -289,7 +289,7 @@
                 "open_issues": 1,
                 "owner": "avehtari",
                 "repo": "BDA_course_Aalto",
-                "stars": 2278,
+                "stars": 2279,
                 "topics": [
                   "bayes",
                   "bayesian",
@@ -507,7 +507,7 @@
                     "open_issues": 18,
                     "owner": "facebookresearch",
                     "repo": "fastMRI",
-                    "stars": 1533,
+                    "stars": 1534,
                     "topics": [
                       "convolutional-neural-networks",
                       "deep-learning",
@@ -882,7 +882,7 @@
                 "open_issues": 4,
                 "owner": "kineticstoolkit",
                 "repo": "kineticstoolkit",
-                "stars": 114,
+                "stars": 115,
                 "topics": [
                   "api",
                   "biomechanics",
@@ -1179,7 +1179,7 @@
                     "id": 20775600,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-02T22:20:53Z",
+                    "last_commit": "2026-09-03T19:56:21Z",
                     "open_issues": 393,
                     "owner": "opensim-org",
                     "repo": "opensim-core",
@@ -1328,11 +1328,11 @@
                     "id": 357362803,
                     "language": "TypeScript",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-08-27T17:30:42Z",
+                    "last_commit": "2026-09-04T13:10:51Z",
                     "open_issues": 168,
                     "owner": "freemocap",
                     "repo": "freemocap",
-                    "stars": 10131,
+                    "stars": 10134,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:58:26.375Z"
@@ -1353,7 +1353,7 @@
                     "open_issues": 12,
                     "owner": "perfanalytics",
                     "repo": "pose2sim",
-                    "stars": 796,
+                    "stars": 797,
                     "topics": [
                       "3d-kinematics",
                       "biomechanics",
@@ -1643,7 +1643,7 @@
                 "open_issues": 424,
                 "owner": "bulletphysics",
                 "repo": "bullet3",
-                "stars": 14712,
+                "stars": 14713,
                 "topics": [
                   "computer-animation",
                   "game-development",
@@ -1670,11 +1670,11 @@
                 "id": 16256144,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-03T16:00:09Z",
-                "open_issues": 671,
+                "last_commit": "2026-09-04T15:38:08Z",
+                "open_issues": 668,
                 "owner": "RobotLocomotion",
                 "repo": "drake",
-                "stars": 4171,
+                "stars": 4173,
                 "topics": [
                   "drake",
                   "robotics"
@@ -1694,11 +1694,11 @@
                 "id": 24897645,
                 "language": "C++",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-09-03T15:38:43Z",
-                "open_issues": 103,
+                "last_commit": "2026-09-03T23:22:45Z",
+                "open_issues": 102,
                 "owner": "stack-of-tasks",
                 "repo": "pinocchio",
-                "stars": 3706,
+                "stars": 3714,
                 "topics": [
                   "analytical-derivatives",
                   "automatic-differentiation",
@@ -1737,7 +1737,7 @@
                 "open_issues": 33,
                 "owner": "rbdl",
                 "repo": "rbdl",
-                "stars": 705,
+                "stars": 706,
                 "topics": [
                   "articulated-body-algorithm",
                   "forward-dynamics",
@@ -1933,7 +1933,7 @@
                 "open_issues": 33,
                 "owner": "MyoHub",
                 "repo": "myosuite",
-                "stars": 1215,
+                "stars": 1216,
                 "topics": [
                   "machine-learning",
                   "motor-control",
@@ -1955,7 +1955,7 @@
                 "id": 20775600,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-02T22:20:53Z",
+                "last_commit": "2026-09-03T19:56:21Z",
                 "open_issues": 393,
                 "owner": "opensim-org",
                 "repo": "opensim-core",
@@ -2308,7 +2308,7 @@
             "open_issues": 19,
             "owner": "loco-3d",
             "repo": "crocoddyl",
-            "stars": 1296,
+            "stars": 1297,
             "topics": [
               "code-generation",
               "conda",
@@ -2393,8 +2393,8 @@
             "id": 251615517,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-02T14:11:32Z",
-            "open_issues": 96,
+            "last_commit": "2026-09-04T14:34:57Z",
+            "open_issues": 98,
             "owner": "pyomeca",
             "repo": "bioptim",
             "stars": 120,
@@ -2777,7 +2777,7 @@
                 "open_issues": 479,
                 "owner": "mikedh",
                 "repo": "trimesh",
-                "stars": 3665,
+                "stars": 3667,
                 "topics": [
                   "geometry",
                   "mesh",
@@ -3091,7 +3091,7 @@
                     "open_issues": 31,
                     "owner": "Yixin-Hu",
                     "repo": "TetWild",
-                    "stars": 721,
+                    "stars": 722,
                     "topics": [
                       "3d-triangulation",
                       "geometry-processing",
@@ -3117,7 +3117,7 @@
                     "open_issues": 37,
                     "owner": "wildmeshing",
                     "repo": "fTetWild",
-                    "stars": 598,
+                    "stars": 599,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:58:26.375Z"
@@ -3190,8 +3190,8 @@
                     "id": 10202730,
                     "language": "C++",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-02T16:35:35Z",
-                    "open_issues": 159,
+                    "last_commit": "2026-09-04T15:56:20Z",
+                    "open_issues": 158,
                     "owner": "SCIInstitute",
                     "repo": "ShapeWorks",
                     "stars": 133,
@@ -3283,11 +3283,11 @@
                 "id": 175801898,
                 "language": "Julia",
                 "license": "MIT",
-                "last_commit": "2026-08-31T00:44:09Z",
+                "last_commit": "2026-09-04T07:59:15Z",
                 "open_issues": 117,
                 "owner": "gridap",
                 "repo": "Gridap.jl",
-                "stars": 875,
+                "stars": 877,
                 "topics": [
                   "finite-elements",
                   "gridap",
@@ -3367,7 +3367,7 @@
                 "language": "Julia",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-01T08:27:36Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "COMODO-research",
                 "repo": "Comodo.jl",
                 "stars": 76,
@@ -3573,7 +3573,7 @@
             "open_issues": 138,
             "owner": "fiji",
             "repo": "fiji",
-            "stars": 1014,
+            "stars": 1013,
             "topics": []
           },
           "first_seen": "2026-08-28T21:58:26.375Z"
@@ -3614,8 +3614,8 @@
             "id": 154648916,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-26T13:43:40Z",
-            "open_issues": 11,
+            "last_commit": "2026-09-03T21:13:54Z",
+            "open_issues": 10,
             "owner": "palaeoware",
             "repo": "SPIERS",
             "stars": 10,
@@ -3690,7 +3690,7 @@
                     "open_issues": 28,
                     "owner": "academicpages",
                     "repo": "academicpages.github.io",
-                    "stars": 17532,
+                    "stars": 17535,
                     "topics": [
                       "academic-website",
                       "github-pages",
@@ -3768,7 +3768,7 @@
             "open_issues": 8,
             "owner": "ubisoft",
             "repo": "ubisoft-laforge-animation-dataset",
-            "stars": 1572,
+            "stars": 1573,
             "topics": [
               "character-animation",
               "motion-capture-data"
@@ -3957,7 +3957,7 @@
                 "open_issues": 318,
                 "owner": "adam-p",
                 "repo": "markdown-here",
-                "stars": 60244,
+                "stars": 60242,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
@@ -3974,11 +3974,11 @@
                 "id": 68720867,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-09-03T15:04:21Z",
-                "open_issues": 179,
+                "last_commit": "2026-09-04T15:47:48Z",
+                "open_issues": 189,
                 "owner": "firstcontributions",
                 "repo": "first-contributions",
-                "stars": 55804,
+                "stars": 55818,
                 "topics": [
                   "beginner",
                   "beginner-friendly",
@@ -4004,7 +4004,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T16:07:34.693Z",
+    "last_updated": "2026-09-04T16:02:19.952Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, public list of resources for biomechanics and human motion analysis: datasets, processing tools,  software for simulation, educational videos, lectures, etc.",
