@@ -101,8 +101,8 @@ See [how you can contribute](#contributing), it's easy!<!-- omit in toc -->
 
 ### Online Courses :clapper:
 
-* [Robotics 101: Computational Linear Algebra](https://robotics.umich.edu/2020/now-available-robotics-101-online/) by University of Michigan Robotics Institute (Fall 2020). The course includes [lecture videos](https://www.youtube.com/playlist?list=PLdPQZLMHRjDK8ZbLIcq1Q2PQobIi68dpv) and [GitHub resources](https://github.com/michiganrobotics/rob101) ⭐ 1,491 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-06-30, including the [lecture notes](https://github.com/michiganrobotics/rob101/tree/main/Lecture%20Notes) ⭐ 1,491 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-06-30.
-* [Mathematical Tools for Neuroscience (Neurobio 212 at Harvard)](https://github.com/ebatty/MathToolsforNeuroscience) ⭐ 466 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2022-11-29 by Ella Batty et al. (2021).
+* [Robotics 101: Computational Linear Algebra](https://robotics.umich.edu/2020/now-available-robotics-101-online/) by University of Michigan Robotics Institute (Fall 2020). The course includes [lecture videos](https://www.youtube.com/playlist?list=PLdPQZLMHRjDK8ZbLIcq1Q2PQobIi68dpv) and [GitHub resources](https://github.com/michiganrobotics/rob101) ⭐ 1,492 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-06-30, including the [lecture notes](https://github.com/michiganrobotics/rob101/tree/main/Lecture%20Notes) ⭐ 1,492 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-06-30.
+* [Mathematical Tools for Neuroscience (Neurobio 212 at Harvard)](https://github.com/ebatty/MathToolsforNeuroscience) ⭐ 467 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2022-11-29 by Ella Batty et al. (2021).
 * [Neuromechanics course material](https://github.com/joshcash9/Neuromechanics_Course) ⭐ 52 | 🐛 0 | 📅 2025-06-04 by [Joshua Cashaback](https://github.com/joshcash9) (University of Delaware).
 * [Graduate Level Statistics Course with Biomedical Engineering Examples](https://github.com/joshcash9/Statistics_BME) ⭐ 33 | 🐛 0 | 📅 2022-11-15 by [Joshua Cashaback](https://github.com/joshcash9) (University of Delaware).
 * [BPK 409: Wearable Technology and Human Physiology](https://www.youtube.com/channel/UClU9XVBC0mDwJBIVJTUbtwg/videos) by Max Donelan (Simon Fraser University). The course teaches to use state-of-the-art wearable technology to measure, analyze, and understand human physiological systems including muscular, nervous, and cardiovascular systems.</br>
@@ -183,11 +183,11 @@ This section in under construction
 
 ### Teaching Resources :triangular\_ruler:
 
-* [Manim: Mathematical Animation Engine](https://github.com/3b1b/manim) ⭐ 93,969 | 🐛 501 | 🌐 Python | 📅 2026-09-09 by [Grant Sanderson](https://github.com/3b1b). Manim is an engine for precise programatic animations, designed for creating explanatory math videos similar to those presented in the contents of [3Blue1Brown](https://www.3blue1brown.com).
+* [Manim: Mathematical Animation Engine](https://github.com/3b1b/manim) ⭐ 94,009 | 🐛 501 | 🌐 Python | 📅 2026-09-09 by [Grant Sanderson](https://github.com/3b1b). Manim is an engine for precise programatic animations, designed for creating explanatory math videos similar to those presented in the contents of [3Blue1Brown](https://www.3blue1brown.com).
 * [Bayesian Data Analysis course](https://avehtari.github.io/BDA_course_Aalto) by AKi Vehtari at Aalto University (2020).</br>
   💾 [code](https://github.com/avehtari/BDA_course_Aalto) ⭐ 2,282 | 🐛 1 | 🌐 TeX | 📅 2026-09-14 |
   📄 [book](https://users.aalto.fi/~ave/BDA3.pdf)
-* [Trajectory Optimization Toolbox](https://github.com/MatthewPeterKelly/OptimTraj) ⭐ 704 | 🐛 29 | 🌐 MATLAB | 📅 2023-06-06 by Matthew Kelly, including some [excellent examples](https://github.com/MatthewPeterKelly/dscTutorials) ⭐ 115 | 🐛 0 | 🌐 Matlab | 📅 2015-12-11 and some [course materials](https://github.com/MatthewPeterKelly/ME149_Spring2018) ⭐ 57 | 🐛 0 | 🌐 Matlab | 📅 2018-04-26.
+* [Trajectory Optimization Toolbox](https://github.com/MatthewPeterKelly/OptimTraj) ⭐ 703 | 🐛 29 | 🌐 MATLAB | 📅 2023-06-06 by Matthew Kelly, including some [excellent examples](https://github.com/MatthewPeterKelly/dscTutorials) ⭐ 115 | 🐛 0 | 🌐 Matlab | 📅 2015-12-11 and some [course materials](https://github.com/MatthewPeterKelly/ME149_Spring2018) ⭐ 57 | 🐛 0 | 🌐 Matlab | 📅 2018-04-26.
 * [Notes on Scientific Computing for Biomechanics and Motor Control](https://github.com/BMClab/BMC) ⭐ 467 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-09-16 by Marcos Duarte and Renato Watanabe. A beautiful collection of lecture notes and code on scientific computing and data analysis for Biomechanics and Motor Control in the form of Jupyter notebooks (python).
 * [Julia notebooks on dynamic systems](https://github.com/alavendelm/julia-dynsys-resources) ⭐ 35 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2022-09-14 by Adam MacLean (2021).
 * [Graphical User Interfaces (GUI) for Research](https://imperialcollegelondon.github.io/GUIs-for-RS/): course by Imperial College London on principles to build research GUI. GitHub resources available [at this link](https://github.com/ImperialCollegeLondon/GUIs-for-RS) ⭐ 17 | 🐛 0 | 📅 2022-07-27. Recording of the lessons are available on [Youtube](https://www.youtube.com/channel/UCBnJTebN2rVnfmiXqUfsvtA).
@@ -259,8 +259,8 @@ This section in under construction
 * **BodyParts3D** by Nobutaka Mitsuhashi et al. (2003). This is a 3D structure database for anatomical concepts that extends beyond biomechanics.\
   📄 [paper](https://doi.org/10.1093/nar/gkn613) |
   📀 [dataset](http://lifesciencedb.jp/bp3d/) |
-  📀 [STL files](https://github.com/Kevin-Mattheus-Moerman/BodyParts3D) ⭐ 158 | 🐛 1 | 🌐 HTML | 📅 2024-10-16
-  💾 [Julia code interface](https://github.com/Kevin-Mattheus-Moerman/BodyParts3D) ⭐ 158 | 🐛 1 | 🌐 HTML | 📅 2024-10-16
+  📀 [STL files](https://github.com/Kevin-Mattheus-Moerman/BodyParts3D) ⭐ 159 | 🐛 1 | 🌐 HTML | 📅 2024-10-16
+  💾 [Julia code interface](https://github.com/Kevin-Mattheus-Moerman/BodyParts3D) ⭐ 159 | 🐛 1 | 🌐 HTML | 📅 2024-10-16
 
 * **Visible Human Project**: public-domain library of cross-sectional cryosection, CT, and MRI images obtained from one male cadaver and one female cadaver. The dataset in NIfTI format, easier to import and use in segmentation software, were provided by Bart Bolsterlee (see further details [at this link](https://twitter.com/bartbolsterlee/status/1296594646898892800) and code for conversion [at this repository](https://github.com/bartbols/VH2NIfTI) ⭐ 5 | 🐛 0 | 🌐 MATLAB | 📅 2020-06-30). The male and female dataset were also entirely segmented in 2023 by Andreassen et al. (see their [paper](https://rdcu.be/c3GNc)).\
   📄 [paper](https://doi.org/10.1109/5.662875) |
@@ -733,13 +733,13 @@ This section needs to be finalized.
   💾 [source](https://github.com/RehabEngGroup/MOtoNMS) ⭐ 36 | 🐛 2 | 🌐 Matlab | 📅 2020-03-28
 
 * **Moveck Bridge** by [Moveck](https://moveck.com/), is the new version of the Biomechanical ToolKit developed by Arnaud Barre through his company Moveck. The package aims to maintain the same API of the original BTK package for MATLAB and Python.</br>
-  💾 [packages](https://github.com/moveck-community/moveck_bridge_btk) ⭐ 23 | 🐛 4 | 📅 2025-05-21
+  💾 [packages](https://github.com/moveck-community/moveck_bridge_btk) ⭐ 24 | 🐛 5 | 📅 2025-05-21
 
 * **CMAS open-code** by CMAS (Clinical Movement Analysis Society - UK & Ireland) is a project with the goal of creating an online platform where everyone interested in movement analysis can share coding resources. Include tools for anonymization, importing, calculating gait profile scores, etc. </br>
   💾 [source](https://github.com/cmasuki/open-code) ⭐ 22 | 🐛 12 | 🌐 Python | 📅 2021-08-25
 
 * **PyC3Dserver** by Moon Ki Jung (2020). Python interface of C3Dserver software for reading and editing C3D motion capture files. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3942388.svg)](https://doi.org/10.5281/zenodo.3942388)</br>
-  💾 [source](https://github.com/mkjung99/pyc3dserver) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2025-07-09
+  💾 [source](https://github.com/mkjung99/pyc3dserver) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2025-07-09
 
 * **FootNet** by [Adrian R Rivadulla et al.](https://github.com/adrianrivadulla). FootNet is a kinematics and deep-learning based algorithm for the detection of foot-strike and toe-off events during treadmill running. The repository includes notebooks to replicate model development, the algorithm and implementation examples in Python and a workaround for Matlab.</br>
   📄 [paper](https://doi.org/10.1371/journal.pone.0248608) |
@@ -779,7 +779,7 @@ This section needs to be finalized.
   📄 [preprint](https://www.biorxiv.org/content/biorxiv/early/2021/07/02/2021.07.01.450788.full.pdf) |
   📄 [documentation and examples](https://simtk-confluence.stanford.edu:8443/display/OpenSim/OpenSense+-+Kinematics+with+IMU+Data) |
   💻 [website](https://simtk.org/projects/opensense) |
-  💾 [source](https://github.com/opensim-org/opensim-core) ⭐ 1,110 | 🐛 392 | 🌐 C++ | 📅 2026-09-16
+  💾 [source](https://github.com/opensim-org/opensim-core) ⭐ 1,110 | 🐛 391 | 🌐 C++ | 📅 2026-09-17
 
 * **HumanInertialPose**  Human whole-body pose estimation using Magnetic, Angular Rate, and Gravit (MARG) multi-sensor data. Provides utilities to process raw IMU/MARG data, perform sensor and sensor-to-segment calibration, multi-sensor fusion, skeleton kinematics, to obtaining the human pose. Contains low dependency python :snake: code to deal with common inertial MoCap data (Xsens Analyse / Xsens MtManager), calculate metrics and visualize results.</br>
   💻 [website](https://pypi.org/project/hipose/) |
@@ -793,11 +793,11 @@ This section needs to be finalized.
 
 * **Kinovea** by Joan Charmant. Kinovea is a video player for sport analysis. It provides a set of tools to capture, slow down, study, compare, annotate and measure technical performances.</br>
   💻 [website](https://www.kinovea.org/) |
-  💾 [source](https://github.com/Kinovea/Kinovea) ⭐ 492 | 🐛 27 | 🌐 C# | 📅 2026-09-12 |
+  💾 [source](https://github.com/Kinovea/Kinovea) ⭐ 492 | 🐛 27 | 🌐 C# | 📅 2026-09-16 |
   ⭐ [resources](https://www.kinovea.org/help/en/index.htm)
 
 * **Sports2D** by David Pagnon. Automatically compute 2D human pose and angles from a video or a webcam, all the way to OpenSim inverse kinematics.</br>
-  💾 [source](https://github.com/davidpagnon/Sports2D/) ⭐ 302 | 🐛 4 | 🌐 Python | 📅 2026-08-25
+  💾 [source](https://github.com/davidpagnon/Sports2D/) ⭐ 303 | 🐛 4 | 🌐 Python | 📅 2026-08-25
   📄 [protocol paper](https://joss.theoj.org/papers/10.21105/joss.06849) |
 
 * **Tracker - Video Analysis and Modeling Tool** by [The Open Source Physics Project](https://www.compadre.org/osp/?). Tracker is an image and video analysis package and modeling tool that is built upon the Open Source Physics Java code library. Features include object tracking with position, velocity and acceleration overlays and graphs, special effect filters, multiple reference frames, calibration points and line profiles for analysis of spectra and interference patterns. It is designed to be used in introductory college physics labs and lectures.</br>
@@ -810,7 +810,7 @@ This section needs to be finalized.
 
 * **FreeMoCap** by John Matthis. Free Motion Capture for Everyone.</br>
   💻 [website](https://freemocap.org/) |
-  💾 [source](https://github.com/freemocap/freemocap) ⭐ 10,193 | 🐛 167 | 🌐 TypeScript | 📅 2026-09-16
+  💾 [source](https://github.com/freemocap/freemocap) ⭐ 10,200 | 🐛 167 | 🌐 TypeScript | 📅 2026-09-16
 
 * **Pose2Sim** by David Pagnon. Markerless kinematics with any set of cameras — From 2D Pose estimation to 3D OpenSim motion.</br>
   💾 [source](https://github.com/perfanalytics/pose2sim) ⭐ 812 | 🐛 13 | 🌐 Python | 📅 2026-08-24
@@ -903,16 +903,16 @@ This section needs to be finalized.
 * **Bullet Physics** by Erwin Coumans and Yunfei Bai (2016). Real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.\
   📄 [Quick Start Guide](https://docs.google.com/document/d/10sXEhzFRSnvFcl3XxNGhnD4N2SedqwdAvK3dsihxVUA/edit#heading=h.2ye70wns7io3) |
   💻 [website](https://pybullet.org/wordpress/) |
-  💾 [source](https://github.com/bulletphysics/bullet3) ⭐ 14,726 | 🐛 429 | 🌐 C++ | 📅 2025-10-22
+  💾 [source](https://github.com/bulletphysics/bullet3) ⭐ 14,727 | 🐛 429 | 🌐 C++ | 📅 2025-10-22
 
 * **Drake** :dragon: by Russ Tedrake and the Drake Development Team (2019). C++ toolbox for analyzing the dynamics of our robots and building control systems for them, with a heavy emphasis on optimization-based design/analysis. Core development is now led by the Toyota Research Institute.\
   💻 [website](https://drake.mit.edu/) |
-  💾 [source](https://github.com/RobotLocomotion/drake) ⭐ 4,192 | 🐛 643 | 🌐 C++ | 📅 2026-09-16
+  💾 [source](https://github.com/RobotLocomotion/drake) ⭐ 4,192 | 🐛 645 | 🌐 C++ | 📅 2026-09-17
 
 * **Pinocchio** by Carpentier et al. (2019). Pinocchio is an open-source library (C++ with Python :snake: bindings) for efficiently computing the dynamics (and derivatives) of articulated rigid-body models (robot, avatars, skeletal models, etc.). It implements algorithms following the methods described in Featherstone's 2008 [book](https://www.springer.com/gp/book/9780387743141), and their derivatives.\
   📄 [paper](https://hal.archives-ouvertes.fr/hal-01866228) |
   💻 [website](https://gepettoweb.laas.fr/doc/stack-of-tasks/pinocchio/master/doxygen-html/) |
-  💾 [source](https://github.com/stack-of-tasks/pinocchio) ⭐ 3,732 | 🐛 101 | 🌐 C++ | 📅 2026-09-07
+  💾 [source](https://github.com/stack-of-tasks/pinocchio) ⭐ 3,738 | 🐛 101 | 🌐 C++ | 📅 2026-09-07
 
 * **RBDL (Rigid Body Dynamics Library)** by Martin L. Felis (Heidelberg University). A multibody engine heavily inspired by the pseudo code of the book "Rigid Body Dynamics Algorithms" of [Roy Featherstone](http://royfeatherstone.org/).\
   📄 [paper](https://link.springer.com/article/10.1007/s10514-016-9574-0) |
@@ -977,20 +977,20 @@ This section needs to be finalized.
 * **MyoSuite** by MyoSuite Team. An open source contact-rich framework for musculoskeletal motor control. Allow for the fast simulation of upper and lower extremity NMS model controlled by reinforcement learning policy.</br>
   📄 [paper](https://arxiv.org/abs/2205.13600) |
   💻 [website](https://sites.google.com/view/myosuite) |
-  💾 [source](https://github.com/facebookresearch/myosuite) ⭐ 1,222 | 🐛 35 | 🌐 Python | 📅 2026-09-16
+  💾 [source](https://github.com/facebookresearch/myosuite) ⭐ 1,222 | 🐛 36 | 🌐 Python | 📅 2026-09-17
 
 * **OpenSim** by the National Center for Simulation in Rehabilitation Research, Stanford University. Open source software for biomechanical analysis and neuromusculoskeletal simulations.\
   📄 [paper2007](https://ieeexplore.ieee.org/document/4352056) |
   📄 [paper2019](https://doi.org/10.1371/journal.pcbi.1006223) |
   💻 [website](https://opensim.stanford.edu) |
   💻 [binaries](https://simtk.org/projects/opensim) |
-  💾 [source](https://github.com/opensim-org/opensim-core) ⭐ 1,110 | 🐛 392 | 🌐 C++ | 📅 2026-09-16
+  💾 [source](https://github.com/opensim-org/opensim-core) ⭐ 1,110 | 🐛 391 | 🌐 C++ | 📅 2026-09-17
 
 * **Artisynth** by John Lloyd et al. Artisynth is a 3D mechanical modeling system implemented in Java that supports the combined simulation of multibody and finite element models (linear and nonlinear materials), together with contact and constraints. </br>
   📄 [paper](https://link.springer.com/chapter/10.1007/8415_2012_126) |
   📄 [paper-downloadable](https://www.cs.usask.ca/faculty/stavness/papers/lloyd2012-artisynth-a-fast-interactive-biomechanical-modeling-toolkit.pdf) |
   💻 [website](https://www.artisynth.org/Main/HomePage) |
-  💾 [source](https://github.com/artisynth/artisynth_core) ⭐ 83 | 🐛 3 | 🌐 Java | 📅 2026-09-15
+  💾 [source](https://github.com/artisynth/artisynth_core) ⭐ 83 | 🐛 4 | 🌐 Java | 📅 2026-09-15
 
 * **SCONE** by Thomas Geijtenbeek. Open source software for predictive simulation of biological motion. It generates actuator patterns and motion trajectories that optimally perform a specific task, according to high-level objectives such as walking speed, pain avoidance, and energy efficiency.\
   📄 [paper](https://joss.theoj.org/papers/10.21105/joss.01421) |
@@ -1099,7 +1099,7 @@ This section needs to be finalized.
 * **Crocoddyl (Contact Robot Optimal Control by Differential Dynamic Library)** by [Carlos Mastalli](https://cmastalli.github.io/) and [Rohan Budhiraja](https://scholar.google.com/citations?user=NW9Io9AAAAAJ) (2020). Croccoddyl is an optimal control library for robot control under contact sequence. Its solvers are based on novel and efficient Differential Dynamic Programming (DDP) algorithms. Crocoddyl computes optimal trajectories along with optimal feedback gains. It uses Pinocchio for fast computation of robots dynamics and their analytical derivatives.</br>
   📄 [paper](https://doi.org/10.1109/ICRA40945.2020.9196673) |
   💻 [website](https://gepettoweb.laas.fr/doc/loco-3d/crocoddyl/master/doxygen-html/) |
-  💾 [source](https://github.com/loco-3d/crocoddyl) ⭐ 1,301 | 🐛 19 | 🌐 C++ | 📅 2026-09-15
+  💾 [source](https://github.com/loco-3d/crocoddyl) ⭐ 1,303 | 🐛 19 | 🌐 C++ | 📅 2026-09-15
 
 * **FROST: Fast Robot Optimization and Simulation Toolkit** by Hereid et al. (2016). FROST for MATLAB provides a general full-body dynamics gait optimization and simulation framework for bipedal walking robots using virtual constraints based feedback controllers. The Wolfram Mathematica backend enables generation of analytic expressions for multi-domain system dynamics and kinematics symbolically, compiled as .MEX files under MATLAB. FROST also features state-of-the-art direct collocation approaches for the full-order dynamics gait optimization problems to guarantee fast and reliable convergence. </br>
   📄 [paper](https://ieeexplore.ieee.org/document/8202230) |
@@ -1113,7 +1113,7 @@ This section needs to be finalized.
 
 * **Bioptim (Biomechanical optimal control** by Benjamin Michaud, François Bailly et al. (2021). Bioptim is an easy-to-use Python framework for biomechanical optimal control, handling musculoskeletal models. Relying on algorithmic differentiation and the multiple shooting formulation, bioptim interfaces nonlinear solvers to quickly provide dynamically consistent optimal solutions. The software is both computationally efficient (C++ core) and easily customizable, thanks to its Python interface. It allows to quickly define a variety of biomechanical problems such as motion tracking/prediction, muscle-driven simulations, parameters optimization, multiphase problems, etc. It is also intended for real-time applications such as moving horizon estimation and model predictive control. </br>
   📄 [paper](https://ieeexplore.ieee.org/document/9808374) |
-  💾 [source](https://github.com/pyomeca/bioptim) ⭐ 120 | 🐛 98 | 🌐 Python | 📅 2026-09-15 |
+  💾 [source](https://github.com/pyomeca/bioptim) ⭐ 120 | 🐛 98 | 🌐 Python | 📅 2026-09-17 |
   🎥 [webinar](https://www.youtube.com/watch?v=z7fhKoW1y60)
 
 * **OpenSim Moco** by Chris Dembia, Nick Bianco and the OpenSim team (2019). OpenSim Moco is a software toolkit to solve optimal control problems with musculoskeletal models defined in OpenSim, including those with kinematic constraints. Using the direct collocation method, Moco can solve a wide range of problems, including motion tracking, motion prediction, and parameter optimization. The design of Moco focuses on ease-of-use, customizability, and extensibility. Just like OpenSim itself, Moco has interfaces in XML/command-line, Matlab, Python, Java, and C++.\
@@ -1165,7 +1165,7 @@ This section needs to be finalized.
     * **SlicerMorph** by Sara Rolfe et al. (2020). SliceMorph is a toolkit with the aim of  retrieve, visualize, measure, annotate, and perform geometric morphometric analyses from high-resolution specimen data both from volumetric scans (CTs and MRs) as well as from 3D surface scanners effectively within 3D Slicer.</br>
       📄 [preprint](https://www.biorxiv.org/content/10.1101/2020.11.09.374926v1) |
       💻 [website](https://slicermorph.github.io/) |
-      💾 [source](https://github.com/SlicerMorph/SlicerMorph) ⭐ 118 | 🐛 31 | 🌐 Python | 📅 2026-07-31 |
+      💾 [source](https://github.com/SlicerMorph/SlicerMorph) ⭐ 118 | 🐛 32 | 🌐 Python | 📅 2026-09-16 |
       🎥 [tutorials](https://www.youtube.com/channel/UCy3Uz1ikRH1B7WSMfaldcjQ)
     * **SlicerSALT (Slicer Shape AnaLysis Toolbox)** by Vicory et al. (2018). SlicerSALT is open-source, free comprehensive software design for biomedical scientists to precisely locate shape changes in their imaging studies. SlicerSALT will enhance the intuitiveness and ease of use for such studies, as well as allow researchers to find shape changes with higher statistical power. </br>
       📄 [paper](https://link.springer.com/chapter/10.1007/978-3-030-04747-4_6) |
@@ -1213,7 +1213,7 @@ This section needs to be finalized.
 * **MeshLab** by Cignoni et al. (2008). MeshLab is open source system for processing and editing 3D triangular meshes. It provides a set of tools for editing, cleaning, healing, inspecting, rendering, texturing and converting meshes. It offers features for processing raw data produced by 3D digitization tools/devices and for preparing models for 3D printing. </br>
   📄 [paper](https://diglib.eg.org/bitstream/handle/10.2312/LocalChapterEvents.ItalChap.ItalianChapConf2008.129-136/129-136.pdf) |
   💻 [website](https://www.meshlab.net/) |
-  💾 [source](https://github.com/cnr-isti-vclab/meshlab) ⭐ 5,830 | 🐛 194 | 🌐 C++ | 📅 2026-08-25
+  💾 [source](https://github.com/cnr-isti-vclab/meshlab) ⭐ 5,834 | 🐛 194 | 🌐 C++ | 📅 2026-08-25
 
 * **Trimesh**  by Michael Dawson-Haggerty et al. (2019). Trimesh is a pure Python (2.7-3.4+) :snake: library for loading and using triangular meshes with an emphasis on watertight surfaces. The goal of the library is to provide a full featured and well tested Trimesh object which allows for easy manipulation and analysis. </br>
   💻 [website](https://trimsh.org/index.html) |
@@ -1305,7 +1305,7 @@ This section needs to be finalized.
 
 #### Tetrahedral meshers
 
-* [NetGen](https://sourceforge.net/projects/netgen-mesher/) [source](https://github.com/NGSolve/netgen) ⭐ 394 | 🐛 116 | 🌐 C++ | 📅 2026-09-16
+* [NetGen](https://sourceforge.net/projects/netgen-mesher/) [source](https://github.com/NGSolve/netgen) ⭐ 394 | 🐛 116 | 🌐 C++ | 📅 2026-09-17
 * [TetGen](http://wias-berlin.de/software/index.jsp?id=TetGen\&lang=1)
 
 #### Hexahedral meshers
@@ -1455,7 +1455,7 @@ This section needs to be finalized.
 * **Comodo: An extensible Finite Element toolbox in Julia** by [Kevin Moerman](https://github.com/Kevin-Mattheus-Moerman). Comodo is a [Julia](https://julialang.org/) package for **computational (bio)mechanics and computational design**, and offers functionality for geometry processing, meshing, finite element analysis, automated design, topology optimisation, and image-based modelling. </br>
   📄 [citation](https://doi.org/10.5281/zenodo.15084804) |
   📄 [Users' Guide](https://comodo-research.github.io/Comodo.jl/dev/) |
-  💾 [code](https://github.com/COMODO-research/Comodo.jl) ⭐ 76 | 🐛 2 | 🌐 Julia | 📅 2026-09-15
+  💾 [code](https://github.com/COMODO-research/Comodo.jl) ⭐ 76 | 🐛 2 | 🌐 Julia | 📅 2026-09-17
 
 * **bonemapy** by Michael Hogg. Bonemapy is an ABAQUS plug-in to map bone properties from CT scans to 3D finite element bone/implant models. This is typically used for applying heterogeneous material properties to the bone model.</br>
   💾 [source](https://github.com/mhogg/bonemapy) ⭐ 37 | 🐛 0 | 🌐 Python | 📅 2024-03-06
@@ -1514,7 +1514,7 @@ This section needs to be finalized.
 This section needs to be improved.
 
 * [**spm1d**](https://spm1d.org/) by Todd Pataky. This is a package for one-dimensional [statistical Parametric Mapping](http://www.scholarpedia.org/article/Statistical_parametric_mapping). spm1d uses Random Field Theory expectations regarding the behavior of smooth, one-dimensional Gaussian fields to make statistical inferences regarding a set of one-dimensional continua.\
-  📄[spm1d paper](https://doi.org/10.1080/10255842.2010.527837) | 📚[spm1d publications](https://spm1d.org/References.html#d-spm-literature) | 💾[python code](https://github.com/0todd0000/spm1d) ⭐ 75 | 🐛 5 | 🌐 Python | 📅 2026-02-24 | 💾[MATLAB code](https://github.com/0todd0000/spm1dmatlab) ⭐ 35 | 🐛 3 | 🌐 MATLAB | 📅 2025-08-29 | 💻[website](http://spm1d.org/)
+  📄[spm1d paper](https://doi.org/10.1080/10255842.2010.527837) | 📚[spm1d publications](https://spm1d.org/References.html#d-spm-literature) | 💾[python code](https://github.com/0todd0000/spm1d) ⭐ 75 | 🐛 4 | 🌐 Python | 📅 2026-09-17 | 💾[MATLAB code](https://github.com/0todd0000/spm1dmatlab) ⭐ 35 | 🐛 3 | 🌐 MATLAB | 📅 2025-08-29 | 💻[website](http://spm1d.org/)
 
 * **PCA of Waveforms and Functional PCA: A Primer for Biomechanics** by John Warmenhoven et al. (2020). Scripts presenting functional principal components analysis (fPCA) and PCA of waveforms on an exemplar biomechanical data set. </br>
   📄 [paper](https://doi.org/10.1016/j.jbiomech.2020.110106) |
@@ -1539,7 +1539,7 @@ This section needs to be improved.
 
 * **Fiji** - version of ImageJ with pre-built plugins. </br>
   💻 [website](https://imagej.net/Fiji) |
-  💾 [source](https://github.com/fiji/fiji) ⭐ 1,019 | 🐛 138 | 🌐 Shell | 📅 2026-07-18
+  💾 [source](https://github.com/fiji/fiji) ⭐ 1,020 | 🐛 138 | 🌐 Shell | 📅 2026-07-18
 
 * **ImageJ** - TO ADD DESCRIPTION </br>
   💻 [website](https://imagej.net/) |
@@ -1568,7 +1568,7 @@ This section needs to be improved.
 ## Reproducibility :gem:
 
 * **How to build a MATLAB dockerfile**: detailed instruction on how to run MATLAB in a container. Requires a license.</br>
-  💻 [instructions](https://github.com/mathworks-ref-arch/matlab-dockerfile) ⭐ 415 | 🐛 36 | 🌐 Python | 📅 2026-08-26 |
+  💻 [instructions](https://github.com/mathworks-ref-arch/matlab-dockerfile) ⭐ 416 | 🐛 37 | 🌐 Python | 📅 2026-09-17 |
   ⭐ [container including Mathworks dependencies (NO MATLAB)](https://hub.docker.com/r/mathworks/matlab-deps)
 
 * **Challenge to scientists: does your ten-year-old code still run?** by Jeffrey M. Perkel (2020). Article including a reproducibility checklist and other interesting considerations orinating from the `ten year challenge`. </br>
@@ -1656,7 +1656,7 @@ This section needs to be improved.
 * [**Hugo**](https://gohugo.io/)
   * [**Hugo academic themes**](https://themes.gohugo.io/academic/)
 * [**Jekyll**](https://jekyllrb.com/)
-  * [**Jekyll theme for academic pages**](https://github.com/academicpages/academicpages.github.io) ⭐ 17,608 | 🐛 31 | 🌐 SCSS | 📅 2026-09-11
+  * [**Jekyll theme for academic pages**](https://github.com/academicpages/academicpages.github.io) ⭐ 17,609 | 🐛 31 | 🌐 SCSS | 📅 2026-09-11
   * [**Minimal Mistakes**](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/)
 * [**Pelican**](https://blog.getpelican.com/)
 * [**Substack**](https://substack.com/)
@@ -1675,7 +1675,7 @@ This section needs to be improved.
 
 ## Sandbox <!-- omit in toc -->
 
-* <https://github.com/ubisoft/ubisoft-laforge-animation-dataset> ⭐ 1,588 | 🐛 8 | 🌐 Python | 📅 2022-09-10
+* <https://github.com/ubisoft/ubisoft-laforge-animation-dataset> ⭐ 1,591 | 🐛 8 | 🌐 Python | 📅 2022-09-10
 
 * **Hypothesis testing demonstration** by Michael Pyrcz
   youtube: <https://www.youtube.com/watch?v=bcb3m3LBtRk>
@@ -1779,7 +1779,7 @@ Feel free to send a pull request or open an Issue.
 
 ### How to contribute
 
-The easiest way to contribute to this list is by describing what you would like to add to the list [at this link](https://github.com/modenaxe/awesome-biomechanics/issues) ⭐ 1,012 | 🐛 209 | 📅 2026-04-10. Create a new `Issue` and add a weblink and a short description for the resource you have in mind. We will add the item for you.
+The easiest way to contribute to this list is by describing what you would like to add to the list [at this link](https://github.com/modenaxe/awesome-biomechanics/issues) ⭐ 1,012 | 🐛 210 | 📅 2026-04-10. Create a new `Issue` and add a weblink and a short description for the resource you have in mind. We will add the item for you.
 
 Alternatively, if you use Git or GitHub, feel free of contributing as by standard [GitHub workflow](https://guides.github.com/activities/forking/):
 
@@ -1789,8 +1789,8 @@ Alternatively, if you use Git or GitHub, feel free of contributing as by standar
 
 ### Resources for learning how to contribute
 
-* If you are not familiar with the Markdown format used in this document you can quickly learn it from cheatsheets [like this one](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) ⭐ 60,249 | 🐛 319 | 🌐 JavaScript | 📅 2025-08-22.
-* If you have used Git before but you are not familiar with GitHub, you can check resources like ["First Contributions"](https://github.com/firstcontributions/first-contributions) ⭐ 55,956 | 🐛 235 | 📅 2026-09-16 and learn how to contribute to existing projects.
+* If you are not familiar with the Markdown format used in this document you can quickly learn it from cheatsheets [like this one](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) ⭐ 60,250 | 🐛 319 | 🌐 JavaScript | 📅 2025-08-22.
+* If you have used Git before but you are not familiar with GitHub, you can check resources like ["First Contributions"](https://github.com/firstcontributions/first-contributions) ⭐ 55,968 | 🐛 238 | 📅 2026-09-17 and learn how to contribute to existing projects.
 * If you want to contribute but you are not familiar with [Git](https://git-scm.com/), the [Software Carpentry Lessons](https://swcarpentry.github.io/git-novice/) are a perfect place to start with Git and GitHub.
 
 ### Items suggested template
@@ -1825,4 +1825,4 @@ To the extent possible under law, [Luca Modenese](https://uk.linkedin.com/in/luc
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
