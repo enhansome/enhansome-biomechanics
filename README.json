@@ -143,7 +143,7 @@
                 {
                   "node_type": "item",
                   "title": "Matplotlib cheatsheet",
-                  "description": null,
+                  "description": "matplotlib/cheatsheets",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -263,7 +263,7 @@
                 "open_issues": 502,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 94464,
+                "stars": 94483,
                 "topics": [
                   "3b1b-videos",
                   "animation",
@@ -448,7 +448,7 @@
                     "open_issues": 1,
                     "owner": "Kevin-Mattheus-Moerman",
                     "repo": "BodyParts3D",
-                    "stars": 168,
+                    "stars": 169,
                     "topics": [
                       "3d-printing",
                       "anatomy",
@@ -550,7 +550,7 @@
                     {
                       "node_type": "item",
                       "title": "SMIR pelves and femurs segmented bone from 20 CT scans available in MATLAB format.📀 dataset",
-                      "description": null,
+                      "description": "RWTHmediTEC/VSDFullBodyBoneModels",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -797,7 +797,7 @@
             {
               "node_type": "item",
               "title": "fairmotion by Deepak Gopinath and Jungdam (2020). Fairmotion provides easy-to-use interfaces and tools to work with motion capture data. The objective of the library is to manage the complexity of motion representation, 3D transformations, file formats and visualization, and let users focus on high level learning tasks. Scarse documentation 💾 code",
-              "description": null,
+              "description": "facebookresearch/fairmotion",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -852,7 +852,7 @@
                 "open_issues": 3,
                 "owner": "pyomeca",
                 "repo": "pyomeca",
-                "stars": 141,
+                "stars": 142,
                 "topics": [
                   "biomechanics",
                   "biomechanics-analysis",
@@ -1001,7 +1001,7 @@
             {
               "node_type": "item",
               "title": "CMAS open-code by CMAS (Clinical Movement Analysis Society - UK & Ireland) is a project with the goal of creating an online platform where everyone interested in movement analysis can share coding resources. Include tools for anonymization, importing, calculating gait profile scores, etc. 💾 source",
-              "description": null,
+              "description": "cmasuki/open-code",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1178,7 +1178,7 @@
                     "id": 20775600,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T03:26:16Z",
+                    "last_commit": "2026-10-02T21:04:37Z",
                     "open_issues": 391,
                     "owner": "opensim-org",
                     "repo": "opensim-core",
@@ -1327,11 +1327,11 @@
                     "id": 357362803,
                     "language": "TypeScript",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-10-02T15:41:19Z",
-                    "open_issues": 173,
+                    "last_commit": "2026-10-03T04:22:21Z",
+                    "open_issues": 175,
                     "owner": "freemocap",
                     "repo": "freemocap",
-                    "stars": 10374,
+                    "stars": 10376,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:58:26.375Z"
@@ -1352,7 +1352,7 @@
                     "open_issues": 10,
                     "owner": "perfanalytics",
                     "repo": "pose2sim",
-                    "stars": 830,
+                    "stars": 831,
                     "topics": [
                       "3d-kinematics",
                       "biomechanics",
@@ -1669,8 +1669,8 @@
                 "id": 16256144,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T17:37:03Z",
-                "open_issues": 648,
+                "last_commit": "2026-10-03T01:05:54Z",
+                "open_issues": 647,
                 "owner": "RobotLocomotion",
                 "repo": "drake",
                 "stars": 4213,
@@ -1928,8 +1928,8 @@
                 "id": 429080848,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T17:21:31Z",
-                "open_issues": 40,
+                "last_commit": "2026-10-02T20:46:17Z",
+                "open_issues": 49,
                 "owner": "MyoHub",
                 "repo": "myosuite",
                 "stars": 1232,
@@ -1954,7 +1954,7 @@
                 "id": 20775600,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T03:26:16Z",
+                "last_commit": "2026-10-02T21:04:37Z",
                 "open_issues": 391,
                 "owner": "opensim-org",
                 "repo": "opensim-core",
@@ -2498,7 +2498,7 @@
             {
               "node_type": "item",
               "title": "Seg3D",
-              "description": null,
+              "description": "SCIInstitute/Seg3D",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2578,7 +2578,7 @@
                     {
                       "node_type": "item",
                       "title": "Nvidia AI-assisted annotation (AIAA) by NVIDIA. 💾 source",
-                      "description": null,
+                      "description": "NVIDIA/ai-assisted-annotation-client",
                       "children": [],
                       "repo_info": {
                         "archived": true,
@@ -2772,8 +2772,8 @@
                 "id": 11745275,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-01T03:50:55Z",
-                "open_issues": 479,
+                "last_commit": "2026-10-02T21:06:16Z",
+                "open_issues": 473,
                 "owner": "mikedh",
                 "repo": "trimesh",
                 "stars": 3691,
@@ -2789,7 +2789,7 @@
             {
               "node_type": "item",
               "title": "gptoolbox - Geometry Processing Toolbox by Alec Jacobson. This is a MATLAB toolbox of useful functions for geometry processing. There are also tools related to constrainted optimization and image processing. Typically these are utility functions that are not stand alone applications. 💻 website | 💾 source",
-              "description": null,
+              "description": "alecjacobson/gptoolbox",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3047,7 +3047,7 @@
                 {
                   "node_type": "item",
                   "title": "NetGen",
-                  "description": "source",
+                  "description": "NGSolve/netgen",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3189,7 +3189,7 @@
                     "id": 10202730,
                     "language": "C++",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-02T15:30:41Z",
+                    "last_commit": "2026-10-02T21:47:05Z",
                     "open_issues": 163,
                     "owner": "SCIInstitute",
                     "repo": "ShapeWorks",
@@ -3283,7 +3283,7 @@
                 "language": "Julia",
                 "license": "MIT",
                 "last_commit": "2026-10-02T01:38:29Z",
-                "open_issues": 114,
+                "open_issues": 115,
                 "owner": "gridap",
                 "repo": "Gridap.jl",
                 "stars": 880,
@@ -3310,8 +3310,8 @@
                 "id": 41787768,
                 "language": "Julia",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T14:20:10Z",
-                "open_issues": 204,
+                "last_commit": "2026-10-03T00:28:45Z",
+                "open_issues": 201,
                 "owner": "Ferrite-FEM",
                 "repo": "Ferrite.jl",
                 "stars": 455,
@@ -3383,7 +3383,7 @@
             {
               "node_type": "item",
               "title": "bonemapy by Michael Hogg. Bonemapy is an ABAQUS plug-in to map bone properties from CT scans to 3D finite element bone/implant models. This is typically used for applying heterogeneous material properties to the bone model. 💾 source",
-              "description": null,
+              "description": "mhogg/bonemapy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3652,7 +3652,7 @@
             "open_issues": 37,
             "owner": "mathworks-ref-arch",
             "repo": "matlab-dockerfile",
-            "stars": 418,
+            "stars": 419,
             "topics": [
               "matlab",
               "matlab-docker"
@@ -3676,7 +3676,7 @@
                 {
                   "node_type": "item",
                   "title": "Jekyll theme for academic pages",
-                  "description": null,
+                  "description": "academicpages/academicpages.github.io",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3689,7 +3689,7 @@
                     "open_issues": 30,
                     "owner": "academicpages",
                     "repo": "academicpages.github.io",
-                    "stars": 17686,
+                    "stars": 17688,
                     "topics": [
                       "academic-website",
                       "github-pages",
@@ -3731,7 +3731,7 @@
             "open_issues": 0,
             "owner": "mkjung99",
             "repo": "biomechanics_dataset",
-            "stars": 110,
+            "stars": 111,
             "topics": [
               "biomechanics",
               "c3d",
@@ -3754,7 +3754,7 @@
         {
           "node_type": "item",
           "title": "ubisoft/ubisoft-laforge-animation-dataset",
-          "description": null,
+          "description": "ubisoft/ubisoft-laforge-animation-dataset",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3804,7 +3804,7 @@
         {
           "node_type": "item",
           "title": "pyomo Python-based, open-source optimization modeling language with a diverse set of optimization capabilities. http://www.pyomo.org/",
-          "description": "https://github.com/Pyomo/PyomoGallery",
+          "description": "Pyomo/pyomo-gallery",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3825,7 +3825,7 @@
         {
           "node_type": "item",
           "title": "pymuscle: Used to simulate the input-output relationship between motor neuron excitation and muscle fibers contractile state over time. 💾 source",
-          "description": "https://iandanforth.github.io/pymuscle-docs/",
+          "description": "iandanforth/pymuscle",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3851,7 +3851,7 @@
         {
           "node_type": "item",
           "title": "optim2d by Ton van den Bogert and Anne Koelewijn. Matlab code to do trajectory optimization on a 2D gait model. The musculoskeletal dynamics can be augmented with prosthetic components (above knee, below knee), and the corresponding muscles can be amputated. https://github.com/csu-hmc/optim2d",
-          "description": null,
+          "description": "csu-hmc/optim2d",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3872,7 +3872,7 @@
         {
           "node_type": "item",
           "title": "Motor-Unit-Model-Fuglevand 💾 source",
-          "description": null,
+          "description": "anagamori/Motor-Unit-Model-Fuglevand",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3893,7 +3893,7 @@
         {
           "node_type": "item",
           "title": "ipycanvas by Martin Renou. Ipycanvas is a lightweight, fast and stable library exposing the browser's Canvas API to IPython. It allows you to draw simple primitives directly from Python like text, lines, polygons, arcs, images etc. This simple toolset allows you to draw literally anything! https://github.com/martinRenou/ipycanvas",
-          "description": null,
+          "description": "martinRenou/ipycanvas",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3914,7 +3914,7 @@
         {
           "node_type": "item",
           "title": "PyMUS v2.0 PyMUS v2.0 allows the simulations to be fully operated using a graphical user interface (GUI). The GUI was designed to allow for a generic computational procedure to be performed using modeling and simulation approaches. The Main Window of PyMUS v2.0 consists of one state window and six buttons for controlling simulation of motor unit system. 💾 source",
-          "description": null,
+          "description": "NMSL-DGIST/PyMUS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3943,7 +3943,7 @@
             {
               "node_type": "item",
               "title": "If you are not familiar with the Markdown format used in this document you can quickly learn it from cheatsheets like this one",
-              "description": ".",
+              "description": "adam-p/markdown-here",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3956,7 +3956,7 @@
                 "open_issues": 319,
                 "owner": "adam-p",
                 "repo": "markdown-here",
-                "stars": 60263,
+                "stars": 60262,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
@@ -3973,11 +3973,11 @@
                 "id": 68720867,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-10-02T17:00:33Z",
-                "open_issues": 337,
+                "last_commit": "2026-10-03T03:31:24Z",
+                "open_issues": 336,
                 "owner": "firstcontributions",
                 "repo": "first-contributions",
-                "stars": 56180,
+                "stars": 56184,
                 "topics": [
                   "beginner",
                   "beginner-friendly",
@@ -4003,7 +4003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T17:40:35.885Z",
+    "last_updated": "2026-10-03T04:35:34.688Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, public list of resources for biomechanics and human motion analysis: datasets, processing tools,  software for simulation, educational videos, lectures, etc.",
@@ -4012,7 +4012,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-04-10T16:20:10Z",
-      "open_issues": 214,
+      "open_issues": 215,
       "owner": "modenaxe",
       "repo": "awesome-biomechanics",
       "stars": 1018,
