@@ -21,7 +21,7 @@
                 "open_issues": 1,
                 "owner": "michiganrobotics",
                 "repo": "rob101",
-                "stars": 1509,
+                "stars": 1510,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
@@ -156,7 +156,7 @@
                     "open_issues": 16,
                     "owner": "matplotlib",
                     "repo": "cheatsheets",
-                    "stars": 7741,
+                    "stars": 7742,
                     "topics": [
                       "cheatsheet",
                       "matplotlib",
@@ -263,7 +263,7 @@
                 "open_issues": 502,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 94483,
+                "stars": 94504,
                 "topics": [
                   "3b1b-videos",
                   "animation",
@@ -1178,7 +1178,7 @@
                     "id": 20775600,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T21:04:37Z",
+                    "last_commit": "2026-10-03T14:46:27Z",
                     "open_issues": 391,
                     "owner": "opensim-org",
                     "repo": "opensim-core",
@@ -1331,7 +1331,7 @@
                     "open_issues": 175,
                     "owner": "freemocap",
                     "repo": "freemocap",
-                    "stars": 10376,
+                    "stars": 10380,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:58:26.375Z"
@@ -1669,7 +1669,7 @@
                 "id": 16256144,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-03T01:05:54Z",
+                "last_commit": "2026-10-03T15:10:30Z",
                 "open_issues": 647,
                 "owner": "RobotLocomotion",
                 "repo": "drake",
@@ -1928,8 +1928,8 @@
                 "id": 429080848,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T20:46:17Z",
-                "open_issues": 49,
+                "last_commit": "2026-10-03T09:10:33Z",
+                "open_issues": 46,
                 "owner": "MyoHub",
                 "repo": "myosuite",
                 "stars": 1232,
@@ -1954,7 +1954,7 @@
                 "id": 20775600,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T21:04:37Z",
+                "last_commit": "2026-10-03T14:46:27Z",
                 "open_issues": 391,
                 "owner": "opensim-org",
                 "repo": "opensim-core",
@@ -2773,7 +2773,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-02T21:06:16Z",
-                "open_issues": 473,
+                "open_issues": 474,
                 "owner": "mikedh",
                 "repo": "trimesh",
                 "stars": 3691,
@@ -3310,8 +3310,8 @@
                 "id": 41787768,
                 "language": "Julia",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-03T00:28:45Z",
-                "open_issues": 201,
+                "last_commit": "2026-10-03T13:32:00Z",
+                "open_issues": 198,
                 "owner": "Ferrite-FEM",
                 "repo": "Ferrite.jl",
                 "stars": 455,
@@ -3767,7 +3767,7 @@
             "open_issues": 8,
             "owner": "ubisoft",
             "repo": "ubisoft-laforge-animation-dataset",
-            "stars": 1603,
+            "stars": 1604,
             "topics": [
               "character-animation",
               "motion-capture-data"
@@ -3973,11 +3973,11 @@
                 "id": 68720867,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-10-03T03:31:24Z",
-                "open_issues": 336,
+                "last_commit": "2026-10-03T15:38:12Z",
+                "open_issues": 340,
                 "owner": "firstcontributions",
                 "repo": "first-contributions",
-                "stars": 56184,
+                "stars": 56190,
                 "topics": [
                   "beginner",
                   "beginner-friendly",
@@ -4003,7 +4003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:35:34.688Z",
+    "last_updated": "2026-10-03T15:58:45.617Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, public list of resources for biomechanics and human motion analysis: datasets, processing tools,  software for simulation, educational videos, lectures, etc.",
