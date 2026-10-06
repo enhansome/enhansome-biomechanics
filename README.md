@@ -183,7 +183,7 @@ This section in under construction
 
 ### Teaching Resources :triangular\_ruler:
 
-* [Manim: Mathematical Animation Engine](https://github.com/3b1b/manim) ⭐ 94,660 | 🐛 502 | 🌐 Python | 📅 2026-09-09 by [Grant Sanderson](https://github.com/3b1b). Manim is an engine for precise programatic animations, designed for creating explanatory math videos similar to those presented in the contents of [3Blue1Brown](https://www.3blue1brown.com).
+* [Manim: Mathematical Animation Engine](https://github.com/3b1b/manim) ⭐ 94,666 | 🐛 503 | 🌐 Python | 📅 2026-09-09 by [Grant Sanderson](https://github.com/3b1b). Manim is an engine for precise programatic animations, designed for creating explanatory math videos similar to those presented in the contents of [3Blue1Brown](https://www.3blue1brown.com).
 * [Bayesian Data Analysis course](https://avehtari.github.io/BDA_course_Aalto) by AKi Vehtari at Aalto University (2020).</br>
   💾 [code](https://github.com/avehtari/BDA_course_Aalto) ⭐ 2,282 | 🐛 1 | 🌐 TeX | 📅 2026-10-05 |
   📄 [book](https://users.aalto.fi/~ave/BDA3.pdf)
@@ -779,7 +779,7 @@ This section needs to be finalized.
   📄 [preprint](https://www.biorxiv.org/content/biorxiv/early/2021/07/02/2021.07.01.450788.full.pdf) |
   📄 [documentation and examples](https://simtk-confluence.stanford.edu:8443/display/OpenSim/OpenSense+-+Kinematics+with+IMU+Data) |
   💻 [website](https://simtk.org/projects/opensense) |
-  💾 [source](https://github.com/opensim-org/opensim-core) ⭐ 1,123 | 🐛 392 | 🌐 C++ | 📅 2026-10-05
+  💾 [source](https://github.com/opensim-org/opensim-core) ⭐ 1,123 | 🐛 390 | 🌐 C++ | 📅 2026-10-06
 
 * **HumanInertialPose**  Human whole-body pose estimation using Magnetic, Angular Rate, and Gravit (MARG) multi-sensor data. Provides utilities to process raw IMU/MARG data, perform sensor and sensor-to-segment calibration, multi-sensor fusion, skeleton kinematics, to obtaining the human pose. Contains low dependency python :snake: code to deal with common inertial MoCap data (Xsens Analyse / Xsens MtManager), calculate metrics and visualize results.</br>
   💻 [website](https://pypi.org/project/hipose/) |
@@ -797,7 +797,7 @@ This section needs to be finalized.
   ⭐ [resources](https://www.kinovea.org/help/en/index.htm)
 
 * **Sports2D** by David Pagnon. Automatically compute 2D human pose and angles from a video or a webcam, all the way to OpenSim inverse kinematics.</br>
-  💾 [source](https://github.com/davidpagnon/Sports2D/) ⭐ 321 | 🐛 4 | 🌐 Python | 📅 2026-08-25
+  💾 [source](https://github.com/davidpagnon/Sports2D/) ⭐ 321 | 🐛 4 | 🌐 Python | 📅 2026-10-06
   📄 [protocol paper](https://joss.theoj.org/papers/10.21105/joss.06849) |
 
 * **Tracker - Video Analysis and Modeling Tool** by [The Open Source Physics Project](https://www.compadre.org/osp/?). Tracker is an image and video analysis package and modeling tool that is built upon the Open Source Physics Java code library. Features include object tracking with position, velocity and acceleration overlays and graphs, special effect filters, multiple reference frames, calibration points and line profiles for analysis of spectra and interference patterns. It is designed to be used in introductory college physics labs and lectures.</br>
@@ -810,10 +810,10 @@ This section needs to be finalized.
 
 * **FreeMoCap** by John Matthis. Free Motion Capture for Everyone.</br>
   💻 [website](https://freemocap.org/) |
-  💾 [source](https://github.com/freemocap/freemocap) ⭐ 10,391 | 🐛 175 | 🌐 TypeScript | 📅 2026-10-05
+  💾 [source](https://github.com/freemocap/freemocap) ⭐ 10,394 | 🐛 173 | 🌐 TypeScript | 📅 2026-10-06
 
 * **Pose2Sim** by David Pagnon. Markerless kinematics with any set of cameras — From 2D Pose estimation to 3D OpenSim motion.</br>
-  💾 [source](https://github.com/perfanalytics/pose2sim) ⭐ 833 | 🐛 10 | 🌐 Python | 📅 2026-10-06
+  💾 [source](https://github.com/perfanalytics/pose2sim) ⭐ 834 | 🐛 11 | 🌐 Python | 📅 2026-10-06
   📄 [protocol paper](https://joss.theoj.org/papers/10.21105/joss.04362) |
   📄 [accuracy paper](https://www.mdpi.com/1424-8220/22/7/2712) |
   📄 [robustness paper](https://www.mdpi.com/1424-8220/21/19/6530)
@@ -903,16 +903,16 @@ This section needs to be finalized.
 * **Bullet Physics** by Erwin Coumans and Yunfei Bai (2016). Real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.\
   📄 [Quick Start Guide](https://docs.google.com/document/d/10sXEhzFRSnvFcl3XxNGhnD4N2SedqwdAvK3dsihxVUA/edit#heading=h.2ye70wns7io3) |
   💻 [website](https://pybullet.org/wordpress/) |
-  💾 [source](https://github.com/bulletphysics/bullet3) ⭐ 14,766 | 🐛 432 | 🌐 C++ | 📅 2025-10-22
+  💾 [source](https://github.com/bulletphysics/bullet3) ⭐ 14,765 | 🐛 432 | 🌐 C++ | 📅 2025-10-22
 
 * **Drake** :dragon: by Russ Tedrake and the Drake Development Team (2019). C++ toolbox for analyzing the dynamics of our robots and building control systems for them, with a heavy emphasis on optimization-based design/analysis. Core development is now led by the Toyota Research Institute.\
   💻 [website](https://drake.mit.edu/) |
-  💾 [source](https://github.com/RobotLocomotion/drake) ⭐ 4,216 | 🐛 648 | 🌐 C++ | 📅 2026-10-06
+  💾 [source](https://github.com/RobotLocomotion/drake) ⭐ 4,217 | 🐛 645 | 🌐 C++ | 📅 2026-10-06
 
 * **Pinocchio** by Carpentier et al. (2019). Pinocchio is an open-source library (C++ with Python :snake: bindings) for efficiently computing the dynamics (and derivatives) of articulated rigid-body models (robot, avatars, skeletal models, etc.). It implements algorithms following the methods described in Featherstone's 2008 [book](https://www.springer.com/gp/book/9780387743141), and their derivatives.\
   📄 [paper](https://hal.archives-ouvertes.fr/hal-01866228) |
   💻 [website](https://gepettoweb.laas.fr/doc/stack-of-tasks/pinocchio/master/doxygen-html/) |
-  💾 [source](https://github.com/stack-of-tasks/pinocchio) ⭐ 3,779 | 🐛 105 | 🌐 C++ | 📅 2026-10-05
+  💾 [source](https://github.com/stack-of-tasks/pinocchio) ⭐ 3,780 | 🐛 105 | 🌐 C++ | 📅 2026-10-05
 
 * **RBDL (Rigid Body Dynamics Library)** by Martin L. Felis (Heidelberg University). A multibody engine heavily inspired by the pseudo code of the book "Rigid Body Dynamics Algorithms" of [Roy Featherstone](http://royfeatherstone.org/).\
   📄 [paper](https://link.springer.com/article/10.1007/s10514-016-9574-0) |
@@ -977,14 +977,14 @@ This section needs to be finalized.
 * **MyoSuite** by MyoSuite Team. An open source contact-rich framework for musculoskeletal motor control. Allow for the fast simulation of upper and lower extremity NMS model controlled by reinforcement learning policy.</br>
   📄 [paper](https://arxiv.org/abs/2205.13600) |
   💻 [website](https://sites.google.com/view/myosuite) |
-  💾 [source](https://github.com/facebookresearch/myosuite) ⭐ 1,236 | 🐛 28 | 🌐 Python | 📅 2026-10-06
+  💾 [source](https://github.com/facebookresearch/myosuite) ⭐ 1,238 | 🐛 29 | 🌐 Python | 📅 2026-10-06
 
 * **OpenSim** by the National Center for Simulation in Rehabilitation Research, Stanford University. Open source software for biomechanical analysis and neuromusculoskeletal simulations.\
   📄 [paper2007](https://ieeexplore.ieee.org/document/4352056) |
   📄 [paper2019](https://doi.org/10.1371/journal.pcbi.1006223) |
   💻 [website](https://opensim.stanford.edu) |
   💻 [binaries](https://simtk.org/projects/opensim) |
-  💾 [source](https://github.com/opensim-org/opensim-core) ⭐ 1,123 | 🐛 392 | 🌐 C++ | 📅 2026-10-05
+  💾 [source](https://github.com/opensim-org/opensim-core) ⭐ 1,123 | 🐛 390 | 🌐 C++ | 📅 2026-10-06
 
 * **Artisynth** by John Lloyd et al. Artisynth is a 3D mechanical modeling system implemented in Java that supports the combined simulation of multibody and finite element models (linear and nonlinear materials), together with contact and constraints. </br>
   📄 [paper](https://link.springer.com/chapter/10.1007/8415_2012_126) |
@@ -1220,7 +1220,7 @@ This section needs to be finalized.
   💾 [source](https://github.com/mikedh/trimesh) ⭐ 3,692 | 🐛 478 | 🌐 Python | 📅 2026-10-02
 
 * **gptoolbox - Geometry Processing Toolbox** by Alec Jacobson. This is a MATLAB toolbox of useful functions for geometry processing. There are also tools related to constrainted optimization and image processing. Typically these are utility functions that are not stand alone applications.<br>
-  [💻 website | 💾 source](https://github.com/alecjacobson/gptoolbox) ⭐ 680 | 🐛 75 | 🌐 MATLAB | 📅 2026-09-23
+  [💻 website | 💾 source](https://github.com/alecjacobson/gptoolbox) ⭐ 680 | 🐛 75 | 🌐 MATLAB | 📅 2026-10-06
 
 * [**Autodesk Netfabb**](https://www.autodesk.com/products/netfabb/overview)
 
@@ -1656,7 +1656,7 @@ This section needs to be improved.
 * [**Hugo**](https://gohugo.io/)
   * [**Hugo academic themes**](https://themes.gohugo.io/academic/)
 * [**Jekyll**](https://jekyllrb.com/)
-  * [**Jekyll theme for academic pages**](https://github.com/academicpages/academicpages.github.io) ⭐ 17,697 | 🐛 30 | 🌐 SCSS | 📅 2026-10-04
+  * [**Jekyll theme for academic pages**](https://github.com/academicpages/academicpages.github.io) ⭐ 17,698 | 🐛 29 | 🌐 SCSS | 📅 2026-10-06
   * [**Minimal Mistakes**](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/)
 * [**Pelican**](https://blog.getpelican.com/)
 * [**Substack**](https://substack.com/)
@@ -1675,7 +1675,7 @@ This section needs to be improved.
 
 ## Sandbox <!-- omit in toc -->
 
-* <https://github.com/ubisoft/ubisoft-laforge-animation-dataset> ⭐ 1,606 | 🐛 8 | 🌐 Python | 📅 2022-09-10
+* <https://github.com/ubisoft/ubisoft-laforge-animation-dataset> ⭐ 1,604 | 🐛 8 | 🌐 Python | 📅 2022-09-10
 
 * **Hypothesis testing demonstration** by Michael Pyrcz
   youtube: <https://www.youtube.com/watch?v=bcb3m3LBtRk>
@@ -1790,7 +1790,7 @@ Alternatively, if you use Git or GitHub, feel free of contributing as by standar
 ### Resources for learning how to contribute
 
 * If you are not familiar with the Markdown format used in this document you can quickly learn it from cheatsheets [like this one](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) ⭐ 60,267 | 🐛 319 | 🌐 JavaScript | 📅 2025-08-22.
-* If you have used Git before but you are not familiar with GitHub, you can check resources like ["First Contributions"](https://github.com/firstcontributions/first-contributions) ⭐ 56,235 | 🐛 348 | 📅 2026-10-06 and learn how to contribute to existing projects.
+* If you have used Git before but you are not familiar with GitHub, you can check resources like ["First Contributions"](https://github.com/firstcontributions/first-contributions) ⭐ 56,237 | 🐛 352 | 📅 2026-10-06 and learn how to contribute to existing projects.
 * If you want to contribute but you are not familiar with [Git](https://git-scm.com/), the [Software Carpentry Lessons](https://swcarpentry.github.io/git-novice/) are a perfect place to start with Git and GitHub.
 
 ### Items suggested template
