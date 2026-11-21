@@ -42,7 +42,7 @@
                 "open_issues": 4,
                 "owner": "ebatty",
                 "repo": "MathToolsforNeuroscience",
-                "stars": 474,
+                "stars": 475,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
@@ -156,7 +156,7 @@
                     "open_issues": 16,
                     "owner": "matplotlib",
                     "repo": "cheatsheets",
-                    "stars": 7750,
+                    "stars": 7751,
                     "topics": [
                       "cheatsheet",
                       "matplotlib",
@@ -263,7 +263,7 @@
                 "open_issues": 520,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 96724,
+                "stars": 96764,
                 "topics": [
                   "3b1b-videos",
                   "animation",
@@ -289,7 +289,7 @@
                 "open_issues": 1,
                 "owner": "avehtari",
                 "repo": "BDA_course_Aalto",
-                "stars": 2290,
+                "stars": 2291,
                 "topics": [
                   "bayes",
                   "bayesian",
@@ -1054,27 +1054,6 @@
             },
             {
               "node_type": "item",
-              "title": "FootNet by Adrian R Rivadulla et al.",
-              "description": ". FootNet is a kinematics and deep-learning based algorithm for the detection of foot-strike and toe-off events during treadmill running. The repository includes notebooks to replicate model development, the algorithm and implementation examples in Python and a workaround for Matlab. 📄 paper | 💾 source",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 302002826,
-                "language": "Jupyter Notebook",
-                "license": null,
-                "last_commit": "2022-03-15T15:49:23Z",
-                "open_issues": 0,
-                "owner": "adrianrivadulla",
-                "repo": "FootNet",
-                "stars": 14,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T21:58:26.375Z"
-            },
-            {
-              "node_type": "item",
               "title": "Dryft by Ryan Alcantara",
               "description": ". Dryft is an open-source Python :snake: and MATLAB package that corrects running ground reaction force signal drift. It also contains an optimized utility function for identifying start/end of stance phase from vertical ground reaction force data without loops. 📄 publication | 💻 website | 💾 source",
               "children": [],
@@ -1089,6 +1068,27 @@
                 "open_issues": 2,
                 "owner": "alcantarar",
                 "repo": "dryft",
+                "stars": 13,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T21:58:26.375Z"
+            },
+            {
+              "node_type": "item",
+              "title": "FootNet by Adrian R Rivadulla et al.",
+              "description": ". FootNet is a kinematics and deep-learning based algorithm for the detection of foot-strike and toe-off events during treadmill running. The repository includes notebooks to replicate model development, the algorithm and implementation examples in Python and a workaround for Matlab. 📄 paper | 💾 source",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 302002826,
+                "language": "Jupyter Notebook",
+                "license": null,
+                "last_commit": "2022-03-15T15:49:23Z",
+                "open_issues": 0,
+                "owner": "adrianrivadulla",
+                "repo": "FootNet",
                 "stars": 13,
                 "topics": []
               },
@@ -1178,8 +1178,8 @@
                     "id": 20775600,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-20T19:44:00Z",
-                    "open_issues": 390,
+                    "last_commit": "2026-11-21T00:13:19Z",
+                    "open_issues": 393,
                     "owner": "opensim-org",
                     "repo": "opensim-core",
                     "stars": 1157,
@@ -1266,10 +1266,10 @@
                     "language": "C#",
                     "license": "GPL-2.0",
                     "last_commit": "2026-11-12T18:28:52Z",
-                    "open_issues": 30,
+                    "open_issues": 32,
                     "owner": "Kinovea",
                     "repo": "Kinovea",
-                    "stars": 520,
+                    "stars": 521,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:58:26.375Z"
@@ -1331,7 +1331,7 @@
                     "open_issues": 190,
                     "owner": "freemocap",
                     "repo": "freemocap",
-                    "stars": 10862,
+                    "stars": 10868,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:58:26.375Z"
@@ -1352,7 +1352,7 @@
                     "open_issues": 10,
                     "owner": "perfanalytics",
                     "repo": "pose2sim",
-                    "stars": 882,
+                    "stars": 881,
                     "topics": [
                       "3d-kinematics",
                       "biomechanics",
@@ -1382,8 +1382,8 @@
                     "id": 545650997,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-11T16:44:21Z",
-                    "open_issues": 52,
+                    "last_commit": "2026-11-20T22:50:26Z",
+                    "open_issues": 53,
                     "owner": "opencap-org",
                     "repo": "opencap-core",
                     "stars": 388,
@@ -1642,7 +1642,7 @@
                 "open_issues": 444,
                 "owner": "bulletphysics",
                 "repo": "bullet3",
-                "stars": 14878,
+                "stars": 14883,
                 "topics": [
                   "computer-animation",
                   "game-development",
@@ -1669,11 +1669,11 @@
                 "id": 16256144,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-20T19:38:15Z",
-                "open_issues": 618,
+                "last_commit": "2026-11-21T18:36:40Z",
+                "open_issues": 617,
                 "owner": "RobotLocomotion",
                 "repo": "drake",
-                "stars": 4262,
+                "stars": 4263,
                 "topics": [
                   "drake",
                   "robotics"
@@ -1697,7 +1697,7 @@
                 "open_issues": 105,
                 "owner": "stack-of-tasks",
                 "repo": "pinocchio",
-                "stars": 3878,
+                "stars": 3879,
                 "topics": [
                   "analytical-derivatives",
                   "automatic-differentiation",
@@ -1928,11 +1928,11 @@
                 "id": 429080848,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-20T19:31:12Z",
-                "open_issues": 84,
+                "last_commit": "2026-11-21T18:52:20Z",
+                "open_issues": 100,
                 "owner": "MyoHub",
                 "repo": "myosuite",
-                "stars": 1290,
+                "stars": 1289,
                 "topics": [
                   "machine-learning",
                   "motor-control",
@@ -1954,8 +1954,8 @@
                 "id": 20775600,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-20T19:44:00Z",
-                "open_issues": 390,
+                "last_commit": "2026-11-21T00:13:19Z",
+                "open_issues": 393,
                 "owner": "opensim-org",
                 "repo": "opensim-core",
                 "stars": 1157,
@@ -2742,7 +2742,7 @@
                 "open_issues": 197,
                 "owner": "cnr-isti-vclab",
                 "repo": "meshlab",
-                "stars": 5926,
+                "stars": 5929,
                 "topics": [
                   "3d",
                   "3d-models",
@@ -2772,11 +2772,11 @@
                 "id": 11745275,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-19T19:59:44Z",
+                "last_commit": "2026-11-21T16:24:23Z",
                 "open_issues": 477,
                 "owner": "mikedh",
                 "repo": "trimesh",
-                "stars": 3728,
+                "stars": 3730,
                 "topics": [
                   "geometry",
                   "mesh",
@@ -3189,11 +3189,11 @@
                     "id": 10202730,
                     "language": "C++",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-20T19:09:57Z",
-                    "open_issues": 162,
+                    "last_commit": "2026-11-21T04:25:57Z",
+                    "open_issues": 157,
                     "owner": "SCIInstitute",
                     "repo": "ShapeWorks",
-                    "stars": 134,
+                    "stars": 135,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:58:26.375Z"
@@ -3282,8 +3282,8 @@
                 "id": 175801898,
                 "language": "Julia",
                 "license": "MIT",
-                "last_commit": "2026-11-20T04:20:14Z",
-                "open_issues": 117,
+                "last_commit": "2026-11-21T09:43:14Z",
+                "open_issues": 116,
                 "owner": "gridap",
                 "repo": "Gridap.jl",
                 "stars": 889,
@@ -3572,7 +3572,7 @@
             "open_issues": 139,
             "owner": "fiji",
             "repo": "fiji",
-            "stars": 1052,
+            "stars": 1053,
             "topics": []
           },
           "first_seen": "2026-08-28T21:58:26.375Z"
@@ -3689,7 +3689,7 @@
                     "open_issues": 29,
                     "owner": "academicpages",
                     "repo": "academicpages.github.io",
-                    "stars": 17835,
+                    "stars": 17839,
                     "topics": [
                       "academic-website",
                       "github-pages",
@@ -3956,7 +3956,7 @@
                 "open_issues": 321,
                 "owner": "adam-p",
                 "repo": "markdown-here",
-                "stars": 60245,
+                "stars": 60246,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:58:26.375Z"
@@ -3973,11 +3973,11 @@
                 "id": 68720867,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-11-20T19:10:24Z",
-                "open_issues": 590,
+                "last_commit": "2026-11-21T18:53:58Z",
+                "open_issues": 593,
                 "owner": "firstcontributions",
                 "repo": "first-contributions",
-                "stars": 56958,
+                "stars": 56962,
                 "topics": [
                   "beginner",
                   "beginner-friendly",
@@ -4003,7 +4003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T19:48:19.492Z",
+    "last_updated": "2026-11-21T18:54:28.631Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, public list of resources for biomechanics and human motion analysis: datasets, processing tools,  software for simulation, educational videos, lectures, etc.",
